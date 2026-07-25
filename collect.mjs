@@ -128,17 +128,26 @@ function toId(seed) {
 }
 
 // --- 実行 ---
-let data;
-try {
-  data = await callOpenAI(WEBSEARCH_TYPE);
-} catch (e) {
-  // web_search ツール名が非対応の場合は preview 版を再試行
-  if (String(e.body || '').includes(WEBSEARCH_TYPE) && WEBSEARCH_TYPE === 'web_search') {
-    console.warn('web_search が使えないため web_search_preview で再試行します');
-    data = await callOpenAI('web_search_preview');
-  } else {
+async function fetchData() {
+  try {
+    return await callOpenAI(WEBSEARCH_TYPE);
+  } catch (e) {
+    // ツール名の不一致やリクエスト不正(400 等)の場合は web_search_preview で再試行
+    const toolIssue = e.status === 400 || /web_search|tool/i.test(String(e.body || ''));
+    if (toolIssue && WEBSEARCH_TYPE !== 'web_search_preview') {
+      console.warn(`ツール指定(${WEBSEARCH_TYPE})が失敗したため web_search_preview で再試行します`);
+      return await callOpenAI('web_search_preview');
+    }
     throw e;
   }
+}
+
+let data;
+try {
+  data = await fetchData();
+} catch (e) {
+  console.error('収集に失敗しました:', e.message);
+  process.exit(1);
 }
 
 let rawItems;
