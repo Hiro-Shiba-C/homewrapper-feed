@@ -1,0 +1,42 @@
+name: Collect UX news
+
+on:
+  schedule:
+    # 08:30 UTC = 17:30 JST 毎日(アプリの平日18:30自動表示より前に用意する)
+    - cron: '30 8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Collect feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o
+        run: node collect.mjs
+
+      - name: Commit feed
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add docs/feed.json state/seen.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update news feed ($(date -u +%Y-%m-%d))"
+            git push
+          fi

@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-25",
+  "items": [
+    {
+      "id": "seed-1",
+      "category": "honmei",
+      "title": "（サンプル）初回の自動収集がまだ実行されていません",
+      "excerpt": "GitHub Actions が毎日実行されると、このフィードは本命・越境の実データに置き換わります。",
+      "source": "Today's News",
+      "format": "article",
+      "estimatedMinutes": 1,
+      "industryTag": "セットアップ",
+      "mechanismTags": ["初期設定"],
+      "url": "https://github.com/"
+    }
+  ]
+}
