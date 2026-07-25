@@ -2,16 +2,94 @@
   "date": "2026-07-25",
   "items": [
     {
-      "id": "seed-1",
+      "id": "70fbbc41050f5eca",
       "category": "honmei",
-      "title": "（サンプル）初回の自動収集がまだ実行されていません",
-      "excerpt": "GitHub Actions が毎日実行されると、このフィードは本命・越境の実データに置き換わります。",
-      "source": "Today's News",
+      "title": "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
+      "excerpt": "AIコンシェルジュやIoT制御などを通じたスマート体験（SSE）が、宿泊中のエンゲージメント、記憶、サービス価値を高め、結果的にロイヤルティや再訪を促す仕組みが明らかになる事例。",
+      "source": "ScienceDirect",
       "format": "article",
-      "estimatedMinutes": 1,
-      "industryTag": "セットアップ",
-      "mechanismTags": ["初期設定"],
-      "url": "https://github.com/"
+      "estimatedMinutes": 7,
+      "industryTag": "ホテル",
+      "mechanismTags": [
+        "AI／IoTによるパーソナライズ",
+        "行動→記憶→価値→意向モデル"
+      ],
+      "url": "https://doi.org/10.1016/j.ijhm.2026.104588"
+    },
+    {
+      "id": "bda5c81d0d7bf5f3",
+      "category": "honmei",
+      "title": "属人的接客から脱却するホテル業のオペレーション設計5選",
+      "excerpt": "口コミ評価に頼らず、スタッフ個人の力量に左右されないオペレーション設計によって、一定品質の滞在体験を仕組み化してCSを向上させる実践的事例。",
+      "source": "Smart‐Comic ブログ",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "ホテル",
+      "mechanismTags": [
+        "オペレーション設計",
+        "期待と体験ギャップの管理"
+      ],
+      "url": "https://smart-comic.co.jp/blog/hotel-customer-satisfaction-operations/"
+    },
+    {
+      "id": "e6a8473757bf4bbc",
+      "category": "honmei",
+      "title": "パナソニックがVoC起点でAI・ナレッジグラフ活用し顧客理解を高速化",
+      "excerpt": "パナソニックが販売現場のVoCを生成AIとナレッジグラフで価値ある洞察に変換し、顧客理解を継続的に深化させる仕組みを構築した事例。",
+      "source": "Google Cloud 公式ブログ",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "家電／小売",
+      "mechanismTags": [
+        "VoC活用の自動化",
+        "生成AI＋ナレッジグラフ"
+      ],
+      "url": "https://cloud.google.com/blog/ja/topics/customers/panasonic-accelerates-customer-understanding-with-virtual-research?"
+    },
+    {
+      "id": "2fb5d61b8a8df2c6",
+      "category": "ekkyou",
+      "title": "AI問診Ubie、クリニック導入にアニメ＋ガイドブックで導入体験設計",
+      "excerpt": "AI問診「Ubie」を訪問不要でクリニックが自力導入できるよう、アニメと職種別ガイドで導入負担軽減をデザインした秀逸な体験設計。",
+      "source": "IDEO ケーススタディ",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "アニメガイド導入",
+        "職種別ガイドブック"
+      ],
+      "url": "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp"
+    },
+    {
+      "id": "fe00bebdb1d488b1",
+      "category": "ekkyou",
+      "title": "患者の声を可視化した腎臓病のeHealth体験マップ作成事例",
+      "excerpt": "CKD患者の通院・治療体験をタイムラインとAffinity図で可視化し、ステークホルダー間の共通理解とUX設計に役立てた事例。",
+      "source": "ScienceDirect",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "体験マップ",
+        "ステークホルダー共通理解"
+      ],
+      "url": "https://www.sciencedirect.com/org/science/article/pii/S2292949525000707"
+    },
+    {
+      "id": "8b2c668c7a3f78b3",
+      "category": "ekkyou",
+      "title": "Linc'wellがUI前に医療体験を設計するプロセス",
+      "excerpt": "デザイナーがUIより前に「医療体験」を定義し、それをUX/UIに落とし込むプロセスで、体験設計そのものを組織で仕組み化した事例。",
+      "source": "Linc'well note",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "体験先行設計",
+        "デザイナー参画構造"
+      ],
+      "url": "https://note.linc-well.com/n/na3cec4a01519?hl=en"
     }
   ]
 }

@@ -1,4 +1,18 @@
 {
-  "urls": [],
-  "titles": []
+  "urls": [
+    "https://doi.org/10.1016/j.ijhm.2026.104588",
+    "https://smart-comic.co.jp/blog/hotel-customer-satisfaction-operations/",
+    "https://cloud.google.com/blog/ja/topics/customers/panasonic-accelerates-customer-understanding-with-virtual-research?",
+    "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp",
+    "https://www.sciencedirect.com/org/science/article/pii/S2292949525000707",
+    "https://note.linc-well.com/n/na3cec4a01519?hl=en"
+  ],
+  "titles": [
+    "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
+    "属人的接客から脱却するホテル業のオペレーション設計5選",
+    "パナソニックがVoC起点でAI・ナレッジグラフ活用し顧客理解を高速化",
+    "AI問診Ubie、クリニック導入にアニメ＋ガイドブックで導入体験設計",
+    "患者の声を可視化した腎臓病のeHealth体験マップ作成事例",
+    "Linc'wellがUI前に医療体験を設計するプロセス"
+  ]
 }
