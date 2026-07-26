@@ -1,95 +1,61 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "items": [
     {
-      "id": "70fbbc41050f5eca",
+      "id": "4f528e101657936c",
       "category": "honmei",
-      "title": "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
-      "excerpt": "AIコンシェルジュやIoT制御などを通じたスマート体験（SSE）が、宿泊中のエンゲージメント、記憶、サービス価値を高め、結果的にロイヤルティや再訪を促す仕組みが明らかになる事例。",
-      "source": "ScienceDirect",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "ホテル",
-      "mechanismTags": [
-        "AI／IoTによるパーソナライズ",
-        "行動→記憶→価値→意向モデル"
-      ],
-      "url": "https://doi.org/10.1016/j.ijhm.2026.104588"
-    },
-    {
-      "id": "bda5c81d0d7bf5f3",
-      "category": "honmei",
-      "title": "属人的接客から脱却するホテル業のオペレーション設計5選",
-      "excerpt": "口コミ評価に頼らず、スタッフ個人の力量に左右されないオペレーション設計によって、一定品質の滞在体験を仕組み化してCSを向上させる実践的事例。",
-      "source": "Smart‐Comic ブログ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "ホテル",
-      "mechanismTags": [
-        "オペレーション設計",
-        "期待と体験ギャップの管理"
-      ],
-      "url": "https://smart-comic.co.jp/blog/hotel-customer-satisfaction-operations/"
-    },
-    {
-      "id": "e6a8473757bf4bbc",
-      "category": "honmei",
-      "title": "パナソニックがVoC起点でAI・ナレッジグラフ活用し顧客理解を高速化",
-      "excerpt": "パナソニックが販売現場のVoCを生成AIとナレッジグラフで価値ある洞察に変換し、顧客理解を継続的に深化させる仕組みを構築した事例。",
-      "source": "Google Cloud 公式ブログ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "家電／小売",
-      "mechanismTags": [
-        "VoC活用の自動化",
-        "生成AI＋ナレッジグラフ"
-      ],
-      "url": "https://cloud.google.com/blog/ja/topics/customers/panasonic-accelerates-customer-understanding-with-virtual-research?"
-    },
-    {
-      "id": "2fb5d61b8a8df2c6",
-      "category": "ekkyou",
-      "title": "AI問診Ubie、クリニック導入にアニメ＋ガイドブックで導入体験設計",
-      "excerpt": "AI問診「Ubie」を訪問不要でクリニックが自力導入できるよう、アニメと職種別ガイドで導入負担軽減をデザインした秀逸な体験設計。",
-      "source": "IDEO ケーススタディ",
+      "title": "CVS Kidney Careの在宅透析トレーニング体験の再設計",
+      "excerpt": "在宅透析患者向けに60％高速なオンボーディング、安心感と自立を高める教育体験を構築",
+      "source": "DLB Creative case study",
       "format": "article",
       "estimatedMinutes": 6,
       "industryTag": "医療・福祉",
       "mechanismTags": [
-        "アニメガイド導入",
-        "職種別ガイドブック"
+        "アクセス教育プラットフォーム"
       ],
-      "url": "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp"
+      "url": "https://www.dlb-creative.com/cases/cvs-kidney-care"
     },
     {
-      "id": "fe00bebdb1d488b1",
-      "category": "ekkyou",
-      "title": "患者の声を可視化した腎臓病のeHealth体験マップ作成事例",
-      "excerpt": "CKD患者の通院・治療体験をタイムラインとAffinity図で可視化し、ステークホルダー間の共通理解とUX設計に役立てた事例。",
-      "source": "ScienceDirect",
+      "id": "17f14c1e04cadf5e",
+      "category": "honmei",
+      "title": "メルペイにおける反復型UXリサーチ運用『Weekly UXR』",
+      "excerpt": "週次リサーチを定着させ、eKYCなどで利用障壁と不安を仕組みで軽減する設計文化を醸成",
+      "source": "サービソロジー Webマガジン",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "医療・福祉",
+      "industryTag": "金融",
       "mechanismTags": [
-        "体験マップ",
-        "ステークホルダー共通理解"
+        "定常リサーチ運用"
       ],
-      "url": "https://www.sciencedirect.com/org/science/article/pii/S2292949525000707"
+      "url": "https://magazine.serviceology.org/2025/06/20/2503/"
     },
     {
-      "id": "8b2c668c7a3f78b3",
+      "id": "72cc042d6170ef7c",
       "category": "ekkyou",
-      "title": "Linc'wellがUI前に医療体験を設計するプロセス",
-      "excerpt": "デザイナーがUIより前に「医療体験」を定義し、それをUX/UIに落とし込むプロセスで、体験設計そのものを組織で仕組み化した事例。",
-      "source": "Linc'well note",
+      "title": "病院受付の導線・不安軽減設計で混乱を解消",
+      "excerpt": "床誘導・音声案内・視覚誘導で受付混乱を防ぎ、高齢者の安心感や再来率を向上",
+      "source": "Primal Design.Labo",
       "format": "article",
       "estimatedMinutes": 5,
       "industryTag": "医療・福祉",
       "mechanismTags": [
-        "体験先行設計",
-        "デザイナー参画構造"
+        "物理空間導線設計"
       ],
-      "url": "https://note.linc-well.com/n/na3cec4a01519?hl=en"
+      "url": "https://primaldesignlabo.jp/html/products/detail/189"
+    },
+    {
+      "id": "7acddb3cef191e84",
+      "category": "ekkyou",
+      "title": "MedConciergeによる診察待ち時間の見える化アプリ",
+      "excerpt": "患者に待ち時間や待機内容を伝え、医師側とも遅延を知らせ合える待ち時間体験設計",
+      "source": "Allison Kobren portfolio",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "待ち時間可視化"
+      ],
+      "url": "https://www.allisonkobren.com/portfolio/medconcierge"
     }
   ]
 }
