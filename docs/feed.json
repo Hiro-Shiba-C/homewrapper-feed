@@ -1,61 +1,95 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "items": [
     {
-      "id": "4f528e101657936c",
+      "id": "95d0ad8c543805f5",
       "category": "honmei",
-      "title": "CVS Kidney Careの在宅透析トレーニング体験の再設計",
-      "excerpt": "在宅透析患者向けに60％高速なオンボーディング、安心感と自立を高める教育体験を構築",
-      "source": "DLB Creative case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "アクセス教育プラットフォーム"
-      ],
-      "url": "https://www.dlb-creative.com/cases/cvs-kidney-care"
-    },
-    {
-      "id": "17f14c1e04cadf5e",
-      "category": "honmei",
-      "title": "メルペイにおける反復型UXリサーチ運用『Weekly UXR』",
-      "excerpt": "週次リサーチを定着させ、eKYCなどで利用障壁と不安を仕組みで軽減する設計文化を醸成",
-      "source": "サービソロジー Webマガジン",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "定常リサーチ運用"
-      ],
-      "url": "https://magazine.serviceology.org/2025/06/20/2503/"
-    },
-    {
-      "id": "72cc042d6170ef7c",
-      "category": "ekkyou",
-      "title": "病院受付の導線・不安軽減設計で混乱を解消",
-      "excerpt": "床誘導・音声案内・視覚誘導で受付混乱を防ぎ、高齢者の安心感や再来率を向上",
-      "source": "Primal Design.Labo",
+      "title": "Eコマースで営業DX。Adobe Commerceによるセルフサービス型UX刷新事例",
+      "excerpt": "顧客がWeb上で自分で問題解決できるセルフサービス型プラットフォームを構築し、営業の受注業務自動化とパーソナライズ提案を実現した事例。",
+      "source": "co‑well（事例紹介ページ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "医療・福祉",
+      "industryTag": "小売／Eコマース",
       "mechanismTags": [
-        "物理空間導線設計"
+        "セルフサービス型UX",
+        "業務自動化"
       ],
-      "url": "https://primaldesignlabo.jp/html/products/detail/189"
+      "url": "https://www.co-well.jp/case/e_commerce/4880635"
     },
     {
-      "id": "7acddb3cef191e84",
+      "id": "fcd85e5f20765742",
+      "category": "honmei",
+      "title": "複雑な業務システムのUI改善で販売業務DXと顧客体験向上",
+      "excerpt": "販売店から金融部門への情報連携における紙／PDF依存を解消するためPOSシステムUIを改善し、業務効率と顧客体験を向上させた事例。",
+      "source": "NCDC（事例紹介）",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "金融（自動車ファイナンス）",
+      "mechanismTags": [
+        "UI改善",
+        "情報連携のシステム化"
+      ],
+      "url": "https://ncdc.co.jp/cases/8434/"
+    },
+    {
+      "id": "9129385346a77d12",
+      "category": "honmei",
+      "title": "赤字アプリをビジネスモデル再設計で収益化したプラットフォーム再構築",
+      "excerpt": "趣味系コミュニティアプリの収益化に向け、CX全体図の可視化とアプリ×EC連携、リワード設計により会員増と利益率改善を達成した事例。",
+      "source": "Meets Consulting（支援実績）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "プラットフォーム／サービス業",
+      "mechanismTags": [
+        "CX全体可視化",
+        "アプリ×EC連携"
+      ],
+      "url": "https://meetsc.co.jp/ourclients/case_platform_bizmodel_story.html"
+    },
+    {
+      "id": "d8ce486a6bbd9a31",
       "category": "ekkyou",
-      "title": "MedConciergeによる診察待ち時間の見える化アプリ",
-      "excerpt": "患者に待ち時間や待機内容を伝え、医師側とも遅延を知らせ合える待ち時間体験設計",
-      "source": "Allison Kobren portfolio",
+      "title": "病院の外来を患者中心型に再編。ワンストップ外来モデル導入で待ち時間短縮",
+      "excerpt": "患者の動線・窓口・動線・業務・システムを統合し、多科目を一窓口・多能型対応に再構築。平均待ち時間を11.28分→7.56分に短縮し満足度向上。",
+      "source": "PMC掲載論文（Quanzhou First Hospital事例）",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "ワンストップ外来",
+        "多能型配置"
+      ],
+      "url": "https://www.ncbi.nlm.nih.gov/articles/PMC13233469/"
+    },
+    {
+      "id": "4dace3dbdf4f9288",
+      "category": "ekkyou",
+      "title": "小児ERの受付プロセス再設計でドアから診療まで25分に待ち時間短縮",
+      "excerpt": "Lean手法で受付プロセスを刷新。迅速登録・看護師アセスメント・直接ベッド誘導により、door‑to‑provider時間を49分→25分に削減。",
+      "source": "PMC掲載論文（Children’s Hospital Colorado）",
       "format": "article",
       "estimatedMinutes": 6,
       "industryTag": "医療・福祉",
       "mechanismTags": [
-        "待ち時間可視化"
+        "受付プロセス再設計",
+        "Lean導入"
       ],
-      "url": "https://www.allisonkobren.com/portfolio/medconcierge"
+      "url": "https://www.ncbi.nlm.nih.gov/articles/PMC7190261/"
+    },
+    {
+      "id": "42ca2febbfd58ee7",
+      "category": "ekkyou",
+      "title": "飲食店の行列解消。EPARK順番待ちシステム導入事例",
+      "excerpt": "行列を作らず、店頭で待たせないことを狙った順番待ちシステム導入により、待ち時間軽減とスタッフ配置最適化を実現した事例。",
+      "source": "EPG（EPARK紹介ページ）",
+      "format": "article",
+      "estimatedMinutes": 3,
+      "industryTag": "飲食",
+      "mechanismTags": [
+        "順番待ち可視化システム",
+        "人員配置改善"
+      ],
+      "url": "https://www.epg.co.jp/service/epark/"
     }
   ]
 }
