@@ -15,7 +15,13 @@
     "https://meetsc.co.jp/ourclients/case_platform_bizmodel_story.html",
     "https://www.ncbi.nlm.nih.gov/articles/PMC13233469/",
     "https://www.ncbi.nlm.nih.gov/articles/PMC7190261/",
-    "https://www.epg.co.jp/service/epark/"
+    "https://www.epg.co.jp/service/epark/",
+    "https://publishing.insead.edu/case/lemonade",
+    "https://www.sciencedirect.com/science/article/pii/S0278431926000356",
+    "https://arxiv.org/abs/2506.21195",
+    "https://arxiv.org/abs/2605.31147",
+    "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1916785/abstract",
+    "https://www.sciencedirect.com/science/article/pii/S0278431925004359"
   ],
   "titles": [
     "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
@@ -33,6 +39,12 @@
     "赤字アプリをビジネスモデル再設計で収益化したプラットフォーム再構築",
     "病院の外来を患者中心型に再編。ワンストップ外来モデル導入で待ち時間短縮",
     "小児ERの受付プロセス再設計でドアから診療まで25分に待ち時間短縮",
-    "飲食店の行列解消。EPARK順番待ちシステム導入事例"
+    "飲食店の行列解消。EPARK順番待ちシステム導入事例",
+    "LemonadeによるAIと行動経済学を用いたショッキングに優れた保険UX構築の事例",
+    "スマートホテルにおけるSmart Service Experience（SSE）がゲストの記憶・価値・再訪意図に与える影響",
+    "UX・データサイエンス混合手法でパスワード管理アプリのプロダクト主導成長を支援した事例",
+    "AIを補助として活用したナイジェリアの遠隔認知症ケアにおける文化的UX研究（TeleDeCa）",
+    "UAEスマートホテルのオンラインレビュー分析によるテクノロジー体験と満足度の相関",
+    "高級ホテルにおける音声制御ハブ（Alexa）のゲストエンゲージメントへの影響"
   ]
 }
