@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "items": [
     {
-      "id": "8eee31fa5e0c4e67",
+      "id": "64f5f5e5f63924ca",
       "category": "honmei",
-      "title": "LemonadeによるAIと行動経済学を用いたショッキングに優れた保険UX構築の事例",
-      "excerpt": "保険業界で“shockingly great user experience”を実現するために、LemonadeがAIと行動経済学を用い、サービスブループリントやジョブ・トゥ・ビー・ドン手法でCX設計を構築",
-      "source": "INSEAD Publishing（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融（保険）",
-      "mechanismTags": [
-        "行動経済学の応用",
-        "デジタル自動化"
-      ],
-      "url": "https://publishing.insead.edu/case/lemonade"
-    },
-    {
-      "id": "66f251d8c10deb35",
-      "category": "honmei",
-      "title": "スマートホテルにおけるSmart Service Experience（SSE）がゲストの記憶・価値・再訪意図に与える影響",
-      "excerpt": "AIやデジタルコンシェルジュなどのスマート技術がゲストのエンゲージメントと記憶形成を高め、サービス価値経由でロイヤルティや再訪意図を促進することを実証",
-      "source": "International Journal of Hospitality Management（ScienceDirect）",
+      "title": "ハレクラニに見る“組織文化浸透による高品質サービス”の仕組み",
+      "excerpt": "物的環境・サービス提供プロセス・組織文化を融合し、“潜在的サービス”提供を成立させる仕組みを詳細に分析したホテル事例。",
+      "source": "マーケティングジャーナル",
       "format": "article",
       "estimatedMinutes": 8,
-      "industryTag": "ホテル",
+      "industryTag": "ホテル・観光",
       "mechanismTags": [
-        "AI／IoTによるパーソナライズ",
-        "記憶を喚起するUX"
+        "プロセス設計",
+        "組織文化浸透"
       ],
-      "url": "https://www.sciencedirect.com/science/article/pii/S0278431926000356"
+      "url": "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja"
     },
     {
-      "id": "b5f82220e9f7b725",
+      "id": "f7a9356543aba066",
       "category": "honmei",
-      "title": "UX・データサイエンス混合手法でパスワード管理アプリのプロダクト主導成長を支援した事例",
-      "excerpt": "UXリサーチとデータサイエンスチームが混合手法を用いて、ユーザー価値とビジネス成長を両立させるProduct‑Led‑Growth戦略を設計・実行したケース",
-      "source": "arXiv 論文",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "IT（アプリ）",
-      "mechanismTags": [
-        "混合手法UXリサーチ",
-        "PLG戦略へのUX統合"
-      ],
-      "url": "https://arxiv.org/abs/2506.21195"
-    },
-    {
-      "id": "cb75d2a7f3566108",
-      "category": "ekkyou",
-      "title": "AIを補助として活用したナイジェリアの遠隔認知症ケアにおける文化的UX研究（TeleDeCa）",
-      "excerpt": "ナイジェリアの認知症ケア遠隔支援フレームワークTeleDeCaで、文化的背景に配慮したUX PoVを、生成AIをバウンデッドな共同者として構築した事例",
-      "source": "arXiv 論文",
+      "title": "au/UQオンラインショップ改革による契約者体験変革",
+      "excerpt": "注文フロー改善やブランドサイト連携に伴走支援を受け、オンラインチャネル全体の顧客体験を再設計し契約者を増加。",
+      "source": "メンバーズ（支援事例）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "医療・福祉",
+      "industryTag": "通信・IT",
       "mechanismTags": [
-        "AI補助PoV構築",
-        "文化的文脈統合"
+        "注文フロー改善",
+        "チャネル統合"
       ],
-      "url": "https://arxiv.org/abs/2605.31147"
+      "url": "https://www.members.co.jp/results/casestudy/case59.html"
     },
     {
-      "id": "7afee98239873be6",
-      "category": "ekkyou",
-      "title": "UAEスマートホテルのオンラインレビュー分析によるテクノロジー体験と満足度の相関",
-      "excerpt": "UAEのスマートホテルにおけるレビュー分析で、モバイルチェックインやスマートルーム操作が満足度向上に寄与し、人による対応と融合する体験設計の重要性を示唆",
-      "source": "Frontiers in Human Dynamics",
+      "id": "e01e094aa35b85e2",
+      "category": "honmei",
+      "title": "NTTデータTangityによるカスタマージャーニーマネジメント実践",
+      "excerpt": "TheyDo活用で顧客体験のデータとプロセスを結びつけ、継続的改善可能なジャーニーマネジメント体制を構築。",
+      "source": "TECH PLAY",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ホテル（観光）",
+      "industryTag": "ITコンサル／サービス",
       "mechanismTags": [
-        "レビュー分析によるUX洞察",
-        "スマート＋人的接続"
+        "ジャーニーマップ統合",
+        "継続改善"
       ],
-      "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1916785/abstract"
+      "url": "https://techplay.jp/column/1950"
     },
     {
-      "id": "886d4b98386dcdc0",
+      "id": "d929e896c194c477",
       "category": "ekkyou",
-      "title": "高級ホテルにおける音声制御ハブ（Alexa）のゲストエンゲージメントへの影響",
-      "excerpt": "高級ホテルで導入された音声制御ハブが、利便性と信頼性を通じてゲストのエンゲージメントと満足度を高める要因を定量的に分析",
-      "source": "International Journal of Hospitality Management（ScienceDirect）",
+      "title": "e‑Gov行政ポータル UX改善におけるキャッチ＆トライ型プロトタイピング",
+      "excerpt": "ステークホルダー巻き込みとユーザーテストを繰り返す「キャッチ＆トライ」方式で行政UXを段階改善。",
+      "source": "e‑Govポータル",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "ホテル（観光）",
+      "estimatedMinutes": 7,
+      "industryTag": "行政",
       "mechanismTags": [
-        "音声インターフェースUX",
-        "信頼と利便性設計"
+        "ワークショップ共創",
+        "プロトタイピング"
       ],
-      "url": "https://www.sciencedirect.com/science/article/pii/S0278431925004359"
+      "url": "https://www.e-gov.go.jp/about-site/e-gov/servicedesign.html"
+    },
+    {
+      "id": "fe4a85748716b91f",
+      "category": "ekkyou",
+      "title": "長崎スタジアムシティの回遊・視覚接点設計による複合体験創出",
+      "excerpt": "ピッチが見えるホテルやサインや共通導線設計など施設横断で体験を連結するデザイン仕組み。",
+      "source": "長崎スタジアムシティ公式サイト",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "スポーツ・エンタメ",
+      "mechanismTags": [
+        "空間演出",
+        "サイン・導線設計"
+      ],
+      "url": "https://www.nagasakistadiumcity.com/project_outline/"
+    },
+    {
+      "id": "bae33f7685ef9ec4",
+      "category": "ekkyou",
+      "title": "e‑Gov UX向上のためのワークショップ支援事例",
+      "excerpt": "行政DXで利用者・関係者参加型ワークショップを通し、共感促す場づくりと意見創出の仕組みを提供。",
+      "source": "U'eyesDesign",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "行政",
+      "mechanismTags": [
+        "ファシリテーション",
+        "共創設計"
+      ],
+      "url": "https://www.ueyesdesign.co.jp/case/administrative-information-portal-site.html"
     }
   ]
 }
