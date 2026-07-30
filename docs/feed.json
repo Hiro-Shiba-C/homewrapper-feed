@@ -1,95 +1,95 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "items": [
     {
-      "id": "64f5f5e5f63924ca",
+      "id": "52fc7902c7827270",
       "category": "honmei",
-      "title": "ハレクラニに見る“組織文化浸透による高品質サービス”の仕組み",
-      "excerpt": "物的環境・サービス提供プロセス・組織文化を融合し、“潜在的サービス”提供を成立させる仕組みを詳細に分析したホテル事例。",
-      "source": "マーケティングジャーナル",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "ホテル・観光",
-      "mechanismTags": [
-        "プロセス設計",
-        "組織文化浸透"
-      ],
-      "url": "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja"
-    },
-    {
-      "id": "f7a9356543aba066",
-      "category": "honmei",
-      "title": "au/UQオンラインショップ改革による契約者体験変革",
-      "excerpt": "注文フロー改善やブランドサイト連携に伴走支援を受け、オンラインチャネル全体の顧客体験を再設計し契約者を増加。",
-      "source": "メンバーズ（支援事例）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "通信・IT",
-      "mechanismTags": [
-        "注文フロー改善",
-        "チャネル統合"
-      ],
-      "url": "https://www.members.co.jp/results/casestudy/case59.html"
-    },
-    {
-      "id": "e01e094aa35b85e2",
-      "category": "honmei",
-      "title": "NTTデータTangityによるカスタマージャーニーマネジメント実践",
-      "excerpt": "TheyDo活用で顧客体験のデータとプロセスを結びつけ、継続的改善可能なジャーニーマネジメント体制を構築。",
-      "source": "TECH PLAY",
+      "title": "ノーコードでリアルタイムな顧客体験設計を可能にしたAmazon Connectの実例",
+      "excerpt": "雷雨で交通が混乱した際、ホテル滞在延長や特典提供などの体験フローをノーコードでビジネス部門が即時設計・本番リリースした仕組みが際立つ事例。",
+      "source": "Amazon Web Services ブログ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ITコンサル／サービス",
+      "industryTag": "ホスピタリティ／旅行",
       "mechanismTags": [
-        "ジャーニーマップ統合",
-        "継続改善"
+        "ノーコード運用",
+        "即時対応フロー設計"
       ],
-      "url": "https://techplay.jp/column/1950"
+      "url": "https://aws.amazon.com/jp/blogs/news/business-user-is-the-new-architect-of-customer-experience/"
     },
     {
-      "id": "d929e896c194c477",
-      "category": "ekkyou",
-      "title": "e‑Gov行政ポータル UX改善におけるキャッチ＆トライ型プロトタイピング",
-      "excerpt": "ステークホルダー巻き込みとユーザーテストを繰り返す「キャッチ＆トライ」方式で行政UXを段階改善。",
-      "source": "e‑Govポータル",
+      "id": "12678ed8adfab56c",
+      "category": "honmei",
+      "title": "HCA Healthcareの“Revive”によるCode Blue中のリアルタイム記録体験の再設計",
+      "excerpt": "心停止対応時の紙記録の代替として、iPad上でタイムスタンプ付き・ACLS準拠のリアルタイム記録を可能にし、認証・EHR連携も備えたインターフェース。",
+      "source": "Sarin.V.K（UXポートフォリオ）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "行政",
+      "industryTag": "医療",
       "mechanismTags": [
-        "ワークショップ共創",
-        "プロトタイピング"
+        "リアルタイム文書化",
+        "緊急対応UX"
       ],
-      "url": "https://www.e-gov.go.jp/about-site/e-gov/servicedesign.html"
+      "url": "https://sarin.pro/portfolio/revive/"
     },
     {
-      "id": "fe4a85748716b91f",
-      "category": "ekkyou",
-      "title": "長崎スタジアムシティの回遊・視覚接点設計による複合体験創出",
-      "excerpt": "ピッチが見えるホテルやサインや共通導線設計など施設横断で体験を連結するデザイン仕組み。",
-      "source": "長崎スタジアムシティ公式サイト",
+      "id": "2bb75b59565b5275",
+      "category": "honmei",
+      "title": "Karolinska大学病院“STairs”研修医向け教育プラットフォームの情報整理UX再設計",
+      "excerpt": "研修医向けコンテンツが煩雑だった既存プラットフォームを、階層整理・構造化・デザインシステム導入で見通しと操作性を改善した事例。",
+      "source": "Casandra Sohlström UX/UI Case Study",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "スポーツ・エンタメ",
+      "estimatedMinutes": 5,
+      "industryTag": "医療／教育",
       "mechanismTags": [
-        "空間演出",
-        "サイン・導線設計"
+        "ナビゲーション再構築",
+        "デザインシステム"
       ],
-      "url": "https://www.nagasakistadiumcity.com/project_outline/"
+      "url": "https://www.casandrasohlstrom.com/stairs"
     },
     {
-      "id": "bae33f7685ef9ec4",
+      "id": "227231abdf835aab",
       "category": "ekkyou",
-      "title": "e‑Gov UX向上のためのワークショップ支援事例",
-      "excerpt": "行政DXで利用者・関係者参加型ワークショップを通し、共感促す場づくりと意見創出の仕組みを提供。",
-      "source": "U'eyesDesign",
+      "title": "Singaporeの“Translating Science”──患者とドナー向けUXを両立したデジタル体験",
+      "excerpt": "患者への癒やし体験と、ドナー向けの研究透明性ニーズを両立するよう、“注意経済”回避の不可視なBYOD基盤でUXを層別設計。",
+      "source": "UX Design Awards 2026（受賞プロジェクト）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "行政",
+      "industryTag": "医療／エンタメ",
       "mechanismTags": [
-        "ファシリテーション",
-        "共創設計"
+        "BYODインフラ",
+        "デュアルUX"
       ],
-      "url": "https://www.ueyesdesign.co.jp/case/administrative-information-portal-site.html"
+      "url": "https://ux-design-awards.com/winners/2026-1-translating-science-a-dual-ux-for-respite-impact"
+    },
+    {
+      "id": "ee0e577555be7c87",
+      "category": "ekkyou",
+      "title": "Appleデバイスで医療ケアと患者体験を同時に革新したUMC Utrechtの事例",
+      "excerpt": "病院スタッフにMac・iPhone・iPadを配布し、患者には入院中iPadで食事注文や情報閲覧を可能にし、ケア効率と患者満足を同時に改善。",
+      "source": "Apple “Healthcare – Success Stories”",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療／ホスピタリティ",
+      "mechanismTags": [
+        "端末配備体制",
+        "入院UX"
+      ],
+      "url": "https://www.apple.com/healthcare/success-stories/"
+    },
+    {
+      "id": "478c0709e39f5dfb",
+      "category": "ekkyou",
+      "title": "SCiPad──脊髄損傷患者向けiPad遠隔医療で待ち時間・移動負担を解消",
+      "excerpt": "脊髄損傷患者にiPad支給し、FaceTimeによる遠隔診療を24時間以内に設定。QoL向上と待ち時間・移動負担軽減が高評価された事例。",
+      "source": "Frontiers in Medicine",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "医療／福祉",
+      "mechanismTags": [
+        "遠隔診療インフラ",
+        "iPad支給"
+      ],
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2017.00058/full"
     }
   ]
 }

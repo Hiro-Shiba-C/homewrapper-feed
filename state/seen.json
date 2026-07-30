@@ -27,7 +27,13 @@
     "https://techplay.jp/column/1950",
     "https://www.e-gov.go.jp/about-site/e-gov/servicedesign.html",
     "https://www.nagasakistadiumcity.com/project_outline/",
-    "https://www.ueyesdesign.co.jp/case/administrative-information-portal-site.html"
+    "https://www.ueyesdesign.co.jp/case/administrative-information-portal-site.html",
+    "https://aws.amazon.com/jp/blogs/news/business-user-is-the-new-architect-of-customer-experience/",
+    "https://sarin.pro/portfolio/revive/",
+    "https://www.casandrasohlstrom.com/stairs",
+    "https://ux-design-awards.com/winners/2026-1-translating-science-a-dual-ux-for-respite-impact",
+    "https://www.apple.com/healthcare/success-stories/",
+    "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2017.00058/full"
   ],
   "titles": [
     "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
@@ -57,6 +63,12 @@
     "NTTデータTangityによるカスタマージャーニーマネジメント実践",
     "e‑Gov行政ポータル UX改善におけるキャッチ＆トライ型プロトタイピング",
     "長崎スタジアムシティの回遊・視覚接点設計による複合体験創出",
-    "e‑Gov UX向上のためのワークショップ支援事例"
+    "e‑Gov UX向上のためのワークショップ支援事例",
+    "ノーコードでリアルタイムな顧客体験設計を可能にしたAmazon Connectの実例",
+    "HCA Healthcareの“Revive”によるCode Blue中のリアルタイム記録体験の再設計",
+    "Karolinska大学病院“STairs”研修医向け教育プラットフォームの情報整理UX再設計",
+    "Singaporeの“Translating Science”──患者とドナー向けUXを両立したデジタル体験",
+    "Appleデバイスで医療ケアと患者体験を同時に革新したUMC Utrechtの事例",
+    "SCiPad──脊髄損傷患者向けiPad遠隔医療で待ち時間・移動負担を解消"
   ]
 }
