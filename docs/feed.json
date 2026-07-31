@@ -1,95 +1,89 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "items": [
     {
-      "id": "52fc7902c7827270",
+      "id": "783624f3041cc2e1",
       "category": "honmei",
-      "title": "ノーコードでリアルタイムな顧客体験設計を可能にしたAmazon Connectの実例",
-      "excerpt": "雷雨で交通が混乱した際、ホテル滞在延長や特典提供などの体験フローをノーコードでビジネス部門が即時設計・本番リリースした仕組みが際立つ事例。",
-      "source": "Amazon Web Services ブログ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "ホスピタリティ／旅行",
-      "mechanismTags": [
-        "ノーコード運用",
-        "即時対応フロー設計"
-      ],
-      "url": "https://aws.amazon.com/jp/blogs/news/business-user-is-the-new-architect-of-customer-experience/"
-    },
-    {
-      "id": "12678ed8adfab56c",
-      "category": "honmei",
-      "title": "HCA Healthcareの“Revive”によるCode Blue中のリアルタイム記録体験の再設計",
-      "excerpt": "心停止対応時の紙記録の代替として、iPad上でタイムスタンプ付き・ACLS準拠のリアルタイム記録を可能にし、認証・EHR連携も備えたインターフェース。",
-      "source": "Sarin.V.K（UXポートフォリオ）",
+      "title": "AIAが18市場で実現したカスタマーオブセッションなCX変革",
+      "excerpt": "AIAがリーダー・文化・テクノロジーを顧客中心に再構築し、18のAPAC市場で体験を一貫化、定量的成果を達成",
+      "source": "Forrester",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "医療",
+      "industryTag": "金融・保険",
       "mechanismTags": [
-        "リアルタイム文書化",
-        "緊急対応UX"
+        "組織文化変革"
       ],
-      "url": "https://sarin.pro/portfolio/revive/"
+      "url": "https://www.forrester.com/report/customer-obsession-at‑scale‑inside‑aias‑enterprisewide‑transformation/RES192473"
     },
     {
-      "id": "2bb75b59565b5275",
+      "id": "cf04c1993513620a",
       "category": "honmei",
-      "title": "Karolinska大学病院“STairs”研修医向け教育プラットフォームの情報整理UX再設計",
-      "excerpt": "研修医向けコンテンツが煩雑だった既存プラットフォームを、階層整理・構造化・デザインシステム導入で見通しと操作性を改善した事例。",
-      "source": "Casandra Sohlström UX/UI Case Study",
+      "title": "American Expressの顧客体験中心化で継続率が400％上昇した事例",
+      "excerpt": "AmExがコストセンター視点からサービスを顧客関係構築に転換し、プロセス・技術・方針を刷新し継続率が400％増",
+      "source": "PwC Japan Thought Leadership",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "医療／教育",
+      "industryTag": "金融",
       "mechanismTags": [
-        "ナビゲーション再構築",
-        "デザインシステム"
+        "CX戦略転換"
       ],
-      "url": "https://www.casandrasohlstrom.com/stairs"
+      "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2024/assets/pdf/future-of-customer-experience.pdf"
     },
     {
-      "id": "227231abdf835aab",
+      "id": "55ca3777c0d19073",
+      "category": "honmei",
+      "title": "The Acquired Podcast：再現不可能な成功モデルからのスケール設計",
+      "excerpt": "ルール破りで成功したビジネスポッドキャストの成長モデルを分析し、規則に縛られずスケールする仕組みを探る",
+      "source": "HBR Podcast（Cold Call）",
+      "format": "podcast",
+      "estimatedMinutes": 30,
+      "industryTag": "メディア・エンタメ",
+      "mechanismTags": [
+        "ビジネスモデル構造"
+      ],
+      "url": "https://hbr.org/podcast/2026/02/if‑and‑how‑to‑scale‑the‑acquired‑podcast?ab=HP‑latest‑image‑8"
+    },
+    {
+      "id": "1b314c213aa2d3fd",
       "category": "ekkyou",
-      "title": "Singaporeの“Translating Science”──患者とドナー向けUXを両立したデジタル体験",
-      "excerpt": "患者への癒やし体験と、ドナー向けの研究透明性ニーズを両立するよう、“注意経済”回避の不可視なBYOD基盤でUXを層別設計。",
-      "source": "UX Design Awards 2026（受賞プロジェクト）",
+      "title": "医療現場における4次元統合ワンストップ外来サービス改革",
+      "excerpt": "外来の待ち時間・クレーム・部門断絶を患者ジャーニー可視化で統合し、平均待ち時間を11.28→7.56分に短縮",
+      "source": "Frontiers in Public Health",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療／エンタメ",
+      "industryTag": "医療",
       "mechanismTags": [
-        "BYODインフラ",
-        "デュアルUX"
+        "ワンストップ化"
       ],
-      "url": "https://ux-design-awards.com/winners/2026-1-translating-science-a-dual-ux-for-respite-impact"
+      "url": "https://www.frontiersin.org/journals/public‑health/articles/10.3389/fpubh.2026.1801326/full"
     },
     {
-      "id": "ee0e577555be7c87",
+      "id": "6f4e178e4f08be3f",
       "category": "ekkyou",
-      "title": "Appleデバイスで医療ケアと患者体験を同時に革新したUMC Utrechtの事例",
-      "excerpt": "病院スタッフにMac・iPhone・iPadを配布し、患者には入院中iPadで食事注文や情報閲覧を可能にし、ケア効率と患者満足を同時に改善。",
-      "source": "Apple “Healthcare – Success Stories”",
+      "title": "医療観光客の待ち時間を13.6日から2.4日に削減した病院実証モデル",
+      "excerpt": "エージェント／離散事象シミュレーションを組み合わせ、ベッド数・優先ルールなど調整で待機日数を劇的削減",
+      "source": "arXiv",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療／ホスピタリティ",
+      "estimatedMinutes": 7,
+      "industryTag": "医療・観光",
       "mechanismTags": [
-        "端末配備体制",
-        "入院UX"
+        "シミュレーション設計"
       ],
-      "url": "https://www.apple.com/healthcare/success-stories/"
+      "url": "https://arxiv.org/abs/2605.19139"
     },
     {
-      "id": "478c0709e39f5dfb",
+      "id": "33acca038e9a6ee8",
       "category": "ekkyou",
-      "title": "SCiPad──脊髄損傷患者向けiPad遠隔医療で待ち時間・移動負担を解消",
-      "excerpt": "脊髄損傷患者にiPad支給し、FaceTimeによる遠隔診療を24時間以内に設定。QoL向上と待ち時間・移動負担軽減が高評価された事例。",
-      "source": "Frontiers in Medicine",
+      "title": "大学窓口でのデジタルチェックインとリアルタイム待ち表示導入事例",
+      "excerpt": "iPadキオスク+待ち状況TV表示で学生のチェックインと待ち体験を見える化し、ストレス減と回転率向上を実現",
+      "source": "Qminderケーススタディ",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "医療／福祉",
+      "estimatedMinutes": 5,
+      "industryTag": "教育",
       "mechanismTags": [
-        "遠隔診療インフラ",
-        "iPad支給"
+        "バーチャル待ち行列"
       ],
-      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2017.00058/full"
+      "url": "https://www.qminder.com/case‑studies/bucks‑county‑community‑college/"
     }
   ]
 }
