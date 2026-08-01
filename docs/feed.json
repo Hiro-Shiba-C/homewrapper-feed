@@ -1,89 +1,78 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "items": [
     {
-      "id": "783624f3041cc2e1",
+      "id": "73b9c2bde1cdd934",
       "category": "honmei",
-      "title": "AIAが18市場で実現したカスタマーオブセッションなCX変革",
-      "excerpt": "AIAがリーダー・文化・テクノロジーを顧客中心に再構築し、18のAPAC市場で体験を一貫化、定量的成果を達成",
-      "source": "Forrester",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融・保険",
-      "mechanismTags": [
-        "組織文化変革"
-      ],
-      "url": "https://www.forrester.com/report/customer-obsession-at‑scale‑inside‑aias‑enterprisewide‑transformation/RES192473"
-    },
-    {
-      "id": "cf04c1993513620a",
-      "category": "honmei",
-      "title": "American Expressの顧客体験中心化で継続率が400％上昇した事例",
-      "excerpt": "AmExがコストセンター視点からサービスを顧客関係構築に転換し、プロセス・技術・方針を刷新し継続率が400％増",
-      "source": "PwC Japan Thought Leadership",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "CX戦略転換"
-      ],
-      "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2024/assets/pdf/future-of-customer-experience.pdf"
-    },
-    {
-      "id": "55ca3777c0d19073",
-      "category": "honmei",
-      "title": "The Acquired Podcast：再現不可能な成功モデルからのスケール設計",
-      "excerpt": "ルール破りで成功したビジネスポッドキャストの成長モデルを分析し、規則に縛られずスケールする仕組みを探る",
-      "source": "HBR Podcast（Cold Call）",
-      "format": "podcast",
-      "estimatedMinutes": 30,
-      "industryTag": "メディア・エンタメ",
-      "mechanismTags": [
-        "ビジネスモデル構造"
-      ],
-      "url": "https://hbr.org/podcast/2026/02/if‑and‑how‑to‑scale‑the‑acquired‑podcast?ab=HP‑latest‑image‑8"
-    },
-    {
-      "id": "1b314c213aa2d3fd",
-      "category": "ekkyou",
-      "title": "医療現場における4次元統合ワンストップ外来サービス改革",
-      "excerpt": "外来の待ち時間・クレーム・部門断絶を患者ジャーニー可視化で統合し、平均待ち時間を11.28→7.56分に短縮",
-      "source": "Frontiers in Public Health",
+      "title": "VMO2がデジタル中核化でNPSを最大35%向上させたCX変革",
+      "excerpt": "英国のVirgin Media O2がAccentureと共にDXを軸に運営体制を刷新し、NPSを最大35%改善した事例。",
+      "source": "Accenture case study",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "industryTag": "通信",
       "mechanismTags": [
-        "ワンストップ化"
+        "デジタル基盤刷新",
+        "運営統合"
       ],
-      "url": "https://www.frontiersin.org/journals/public‑health/articles/10.3389/fpubh.2026.1801326/full"
+      "url": "https://www.accenture.com/au-en/case-studies/communications-media/vmo2"
     },
     {
-      "id": "6f4e178e4f08be3f",
-      "category": "ekkyou",
-      "title": "医療観光客の待ち時間を13.6日から2.4日に削減した病院実証モデル",
-      "excerpt": "エージェント／離散事象シミュレーションを組み合わせ、ベッド数・優先ルールなど調整で待機日数を劇的削減",
-      "source": "arXiv",
+      "id": "938ecba649d9c128",
+      "category": "honmei",
+      "title": "DowのエンドツーエンドCX戦略と組織横断ガバナンス設計",
+      "excerpt": "Dowが顧客体験と従業員体験を両立させるためにCXプログラムを組織横断で構築し、体験と業績の連動を実現。",
+      "source": "EY（アーンスト・アンド・ヤング）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "医療・観光",
+      "industryTag": "製造（B2B）",
       "mechanismTags": [
-        "シミュレーション設計"
+        "CXガバナンス構築",
+        "社員と顧客統合"
       ],
-      "url": "https://arxiv.org/abs/2605.19139"
+      "url": "https://www.ey.com/en_us/insights/consulting/dow-bold-approach-to-customer-experience"
     },
     {
-      "id": "33acca038e9a6ee8",
+      "id": "b9b8e44996352573",
       "category": "ekkyou",
-      "title": "大学窓口でのデジタルチェックインとリアルタイム待ち表示導入事例",
-      "excerpt": "iPadキオスク+待ち状況TV表示で学生のチェックインと待ち体験を見える化し、ストレス減と回転率向上を実現",
-      "source": "Qminderケーススタディ",
+      "title": "リアルタイム運行情報が待ち時間の認識を23–28%短縮した交通UX",
+      "excerpt": "公共交通利用者がリアルタイム到着情報で実際と変わらない待機時間でも、待ち時間を23–28%短く感じるようになった研究。",
+      "source": "SSRN",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "教育",
+      "estimatedMinutes": 8,
+      "industryTag": "交通",
       "mechanismTags": [
-        "バーチャル待ち行列"
+        "リアルタイム情報提示"
       ],
-      "url": "https://www.qminder.com/case‑studies/bucks‑county‑community‑college/"
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6726458"
+    },
+    {
+      "id": "282dfd56fca80421",
+      "category": "ekkyou",
+      "title": "医療待合室に自然要素を取り入れ不安と待ち時間の印象を低減",
+      "excerpt": "救急待合で植物や自然材導入により不安が減り、待ち時間やサービス品質の印象が向上した実証研究。",
+      "source": "Journal of Environmental Psychology",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "環境デザイン（自然要素）"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0272494423001615"
+    },
+    {
+      "id": "edf47665dc51ddac",
+      "category": "ekkyou",
+      "title": "精神科外来で掲示板コ・デザインによる待ち体験の改善",
+      "excerpt": "精神科クリニックで患者と職員が共同設計し、待ち列表示ホワイトボード導入による待ち体験の向上を図った実例。",
+      "source": "PMC／医療品質改善研究",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "共創デザイン",
+        "可視化情報提供"
+      ],
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9814997/"
     }
   ]
 }
