@@ -1,78 +1,64 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "items": [
     {
-      "id": "73b9c2bde1cdd934",
+      "id": "2f4f5feaa7faf68b",
       "category": "honmei",
-      "title": "VMO2がデジタル中核化でNPSを最大35%向上させたCX変革",
-      "excerpt": "英国のVirgin Media O2がAccentureと共にDXを軸に運営体制を刷新し、NPSを最大35%改善した事例。",
-      "source": "Accenture case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "通信",
-      "mechanismTags": [
-        "デジタル基盤刷新",
-        "運営統合"
-      ],
-      "url": "https://www.accenture.com/au-en/case-studies/communications-media/vmo2"
-    },
-    {
-      "id": "938ecba649d9c128",
-      "category": "honmei",
-      "title": "DowのエンドツーエンドCX戦略と組織横断ガバナンス設計",
-      "excerpt": "Dowが顧客体験と従業員体験を両立させるためにCXプログラムを組織横断で構築し、体験と業績の連動を実現。",
-      "source": "EY（アーンスト・アンド・ヤング）",
+      "title": "Minerva CQによるAgentic AIでのリアルタイムCX向上事例",
+      "excerpt": "音声対応サポートで会話内容をリアルタイム解析し、文脈追跡＋モジュール対応でエージェント支援しCXと効率を改善。",
+      "source": "arXiv（学術事例）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "製造（B2B）",
+      "industryTag": "顧客サポート",
       "mechanismTags": [
-        "CXガバナンス構築",
-        "社員と顧客統合"
+        "Agentic AI」「リアルタイム文脈処理"
       ],
-      "url": "https://www.ey.com/en_us/insights/consulting/dow-bold-approach-to-customer-experience"
+      "url": "https://arxiv.org/abs/2509.12589"
     },
     {
-      "id": "b9b8e44996352573",
-      "category": "ekkyou",
-      "title": "リアルタイム運行情報が待ち時間の認識を23–28%短縮した交通UX",
-      "excerpt": "公共交通利用者がリアルタイム到着情報で実際と変わらない待機時間でも、待ち時間を23–28%短く感じるようになった研究。",
-      "source": "SSRN",
+      "id": "f348d027d49fb00e",
+      "category": "honmei",
+      "title": "医療機器メーカーのグローバルCX変革：行動ベースのCX測定で収益リスクを可視化",
+      "excerpt": "米・日・中など4市場の顧客ジャーニーを定量調査し、NPSに見えないロイヤルティ低下と収益リスクを発見・改善優先点を特定。",
+      "source": "The Verde Group ブログ",
       "format": "article",
       "estimatedMinutes": 8,
-      "industryTag": "交通",
+      "industryTag": "医療機器",
       "mechanismTags": [
-        "リアルタイム情報提示"
+        "行動ベース測定",
+        "ジャーニーマッピング"
       ],
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6726458"
+      "url": "https://verdegroup.com/blog/global-customer-experience-transformation-manufacturing-case-study/"
     },
     {
-      "id": "282dfd56fca80421",
+      "id": "2f28002782cfbd78",
       "category": "ekkyou",
-      "title": "医療待合室に自然要素を取り入れ不安と待ち時間の印象を低減",
-      "excerpt": "救急待合で植物や自然材導入により不安が減り、待ち時間やサービス品質の印象が向上した実証研究。",
-      "source": "Journal of Environmental Psychology",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "環境デザイン（自然要素）"
-      ],
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0272494423001615"
-    },
-    {
-      "id": "edf47665dc51ddac",
-      "category": "ekkyou",
-      "title": "精神科外来で掲示板コ・デザインによる待ち体験の改善",
-      "excerpt": "精神科クリニックで患者と職員が共同設計し、待ち列表示ホワイトボード導入による待ち体験の向上を図った実例。",
-      "source": "PMC／医療品質改善研究",
+      "title": "救急の待ち時間体験をデジタル情報で改善、ネガティブ感情41%減",
+      "excerpt": "患者にテキストで待ち時間や状況を随時通知する仕組みで、ネガティブ・コメント41%減、未診察離脱率14%減を達成。",
+      "source": "Caroline Stacey ウェブサイト（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
+      "industryTag": "医療（病院）",
       "mechanismTags": [
-        "共創デザイン",
-        "可視化情報提供"
+        "デジタル通知",
+        "心理的安心"
       ],
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9814997/"
+      "url": "https://carolinestacey.com/results/experience-design-and-implementation/"
+    },
+    {
+      "id": "6eb3467e8faec14a",
+      "category": "ekkyou",
+      "title": "NO WAIT：即時トリアージで救急待ち時間・満足度・安全性を改善",
+      "excerpt": "サウジアラビア軍病院で、即時トリアージ設計“NO WAIT”により待機時間・患者体験・職員満足が大幅に改善。",
+      "source": "BMJ Open Quality（論文）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療（救急）",
+      "mechanismTags": [
+        "リアルタイムトリアージ",
+        "プロセス再設計"
+      ],
+      "url": "https://bmjopenquality.bmj.com/content/bmjqir/10/1/e001179.full.pdf"
     }
   ]
 }
