@@ -1,64 +1,65 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "items": [
     {
-      "id": "2f4f5feaa7faf68b",
+      "id": "f270f691eed25a2c",
       "category": "honmei",
-      "title": "Minerva CQによるAgentic AIでのリアルタイムCX向上事例",
-      "excerpt": "音声対応サポートで会話内容をリアルタイム解析し、文脈追跡＋モジュール対応でエージェント支援しCXと効率を改善。",
-      "source": "arXiv（学術事例）",
+      "title": "資産運用企業がユーティリタリアン環境で快感的体験（hedonic）を設計したUX再設計事例",
+      "excerpt": "従来は効用重視だった金融サービスに感情的魅力を持つ体験要素を組み込み、利用開始から購入までの旅程モデルと仕組みを明示している。",
+      "source": "Journal of Service Management 発表記事",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "顧客サポート",
+      "industryTag": "金融・資産運用",
       "mechanismTags": [
-        "Agentic AI」「リアルタイム文脈処理"
+        "感情価値の統合",
+        "カスタマージャーニー再構築"
       ],
-      "url": "https://arxiv.org/abs/2509.12589"
+      "url": "https://www.researchgate.net/publication/358269360_Making_the_customer_experience_journey_more_hedonic_in_a_traditionally_utilitarian_service_context_a_case_study"
     },
     {
-      "id": "f348d027d49fb00e",
+      "id": "dfd4eee2db61f389",
       "category": "honmei",
-      "title": "医療機器メーカーのグローバルCX変革：行動ベースのCX測定で収益リスクを可視化",
-      "excerpt": "米・日・中など4市場の顧客ジャーニーを定量調査し、NPSに見えないロイヤルティ低下と収益リスクを発見・改善優先点を特定。",
-      "source": "The Verde Group ブログ",
+      "title": "Good Sixty：アーティザン小売りを支えるビジネスモデルとUX戦略の再構築",
+      "excerpt": "独立小規模小売者を束ねたEC構造を、UX調査によって簡潔に物語る構造にし、チェックアウトを含む導線を支える仕組みを明確化。",
+      "source": "Unfold（UXデザイン事例）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・Eコマース",
+      "mechanismTags": [
+        "UXリサーチによる導線最適化",
+        "デジタル戦略と業務構造の整合"
+      ],
+      "url": "https://madebyunfold.co/work/good-sixty/"
+    },
+    {
+      "id": "1652c875a747bd9b",
+      "category": "ekkyou",
+      "title": "Co‐designで精神科外来の待ち体験を見える化したホワイトボード介入",
+      "excerpt": "待ち順と過去の待ち時間統計を掲示するホワイトボードを共創導入し、利用者・スタッフの満足改善と持続運用構造を実現した事例。",
+      "source": "BMJ Open Quality",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・精神保健",
+      "mechanismTags": [
+        "共創デザイン",
+        "情報の可視化"
+      ],
+      "url": "https://bmjopenquality.bmj.com/content/12/1/e001781"
+    },
+    {
+      "id": "5fea17a12017eb75",
+      "category": "ekkyou",
+      "title": "視覚障碍者向けEyeBusによる公共交通のオムニチャネルUX設計",
+      "excerpt": "視覚障碍者が公共交通を安心して使えるよう、多チャネル間の顧客接点を統合し、利便性・持続性を考慮したサービス設計の複雑性を解説。",
+      "source": "Chang Gung University 学術記事",
       "format": "article",
       "estimatedMinutes": 8,
-      "industryTag": "医療機器",
+      "industryTag": "交通・公共サービス",
       "mechanismTags": [
-        "行動ベース測定",
-        "ジャーニーマッピング"
+        "オムニチャネル設計",
+        "ステークホルダー共創"
       ],
-      "url": "https://verdegroup.com/blog/global-customer-experience-transformation-manufacturing-case-study/"
-    },
-    {
-      "id": "2f28002782cfbd78",
-      "category": "ekkyou",
-      "title": "救急の待ち時間体験をデジタル情報で改善、ネガティブ感情41%減",
-      "excerpt": "患者にテキストで待ち時間や状況を随時通知する仕組みで、ネガティブ・コメント41%減、未診察離脱率14%減を達成。",
-      "source": "Caroline Stacey ウェブサイト（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療（病院）",
-      "mechanismTags": [
-        "デジタル通知",
-        "心理的安心"
-      ],
-      "url": "https://carolinestacey.com/results/experience-design-and-implementation/"
-    },
-    {
-      "id": "6eb3467e8faec14a",
-      "category": "ekkyou",
-      "title": "NO WAIT：即時トリアージで救急待ち時間・満足度・安全性を改善",
-      "excerpt": "サウジアラビア軍病院で、即時トリアージ設計“NO WAIT”により待機時間・患者体験・職員満足が大幅に改善。",
-      "source": "BMJ Open Quality（論文）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療（救急）",
-      "mechanismTags": [
-        "リアルタイムトリアージ",
-        "プロセス再設計"
-      ],
-      "url": "https://bmjopenquality.bmj.com/content/bmjqir/10/1/e001179.full.pdf"
+      "url": "https://pure.lib.cgu.edu.tw/en/publications/the-complexities-of-transport-service-design-for-visually-impaire/"
     }
   ]
 }
