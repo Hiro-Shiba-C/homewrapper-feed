@@ -1,93 +1,95 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "items": [
     {
-      "id": "5bc8b72b13c28011",
-      "category": "honmei",
-      "title": "予約システム刷新で待ち時間65%短縮し、患者満足度30%向上した内科クリニック事例",
-      "excerpt": "オンライン予約とクラウド電子カルテの導入で、受付混雑を削減し待ち時間を65%短縮、電話対応80%減、キャンセル率40%低下、患者満足度も30%向上した",
-      "source": "TaskBrain 導入事例",
+      "id": "57ee4977e00e0ba9",
+      "category": "ekkyou",
+      "title": "Troski：アクラ市民の通勤不安を「行く前の知る」で解消する多モード交通アプリ",
+      "excerpt": "アクラのtrotoバス待ちの列情報・運賃支払い・複数交通手段の接続を1アプリで可視化し、不安を出発前に軽減",
+      "source": "Noja Designs",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療",
+      "estimatedMinutes": 8,
+      "industryTag": "交通",
       "mechanismTags": [
-        "オンライン予約導入",
-        "電子カルテ連携"
+        "待ち列可視化",
+        "オールインワンUX"
       ],
-      "url": "https://www.taskbrain.co.jp/case-studies/medical-clinic/"
+      "url": "https://www.nojadesigns.com/work/troski"
     },
     {
-      "id": "3da2f0f6d2776f3b",
-      "category": "honmei",
-      "title": "AIによるナンバープレート認識で物流現場の待ち時間を可視化・削減する仕組み",
-      "excerpt": "物流拠点でトラックの入退場を画像解析AIで自動認識し、待ち時間の可視化と通知によってドライバーの滞留を減らし、人員配置も最適化",
-      "source": "FutureStandard 映像解析AIプラットフォーム事例",
+      "id": "e9a11a626a2580f9",
+      "category": "ekkyou",
+      "title": "地域交通DXプロジェクト「COMmmmONS」で病院の予約とバス配車を連携、待ち時間と負担を削減",
+      "excerpt": "病院予約とデマンドバス予約を連携し、帰りの待機時間や駐車待ちの負担を軽減した実証結果あり",
+      "source": "国土交通省地域交通DX推進プロジェクト報告書",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "物流",
+      "industryTag": "交通・医療",
       "mechanismTags": [
-        "AI画像解析",
-        "リアルタイム可視化"
+        "予約対応連携",
+        "待ち時間短縮"
       ],
-      "url": "https://www.futurestandard.co.jp/business/ai/solutions/queue-measurement"
+      "url": "https://www.mlit.go.jp/commmmons/tech_report/003/commmmons_tech_report_003_ver01.pdf"
     },
     {
-      "id": "c79d9a21c06b51c9",
-      "category": "honmei",
-      "title": "CX成功事例10選：業界横断で学べる顧客体験設計の本質",
-      "excerpt": "スターバックスやAmazonなど10社のCX事例を、ビジネスモデルや顧客体験を成立させる仕組みに注目して整理。中小企業向け再現可能な示唆付き",
-      "source": "CX研究所",
-      "format": "article",
-      "estimatedMinutes": 19,
-      "industryTag": "複数業界",
-      "mechanismTags": [
-        "体験設計思想可視化"
-      ],
-      "url": "https://cxkenkyujo.com/cx-success-case-studies-10/"
-    },
-    {
-      "id": "1d479681f305eaf8",
+      "id": "c599dc60fca9cffa",
       "category": "ekkyou",
-      "title": "飲食チェーン向け：待ち時間可視化＆無人オーダーアプリ導入で安心感と効率を両立",
-      "excerpt": "席待ち時間をアプリで可視化し、無人オーダーにより顧客の不安を軽減するとともにスタッフの負荷も軽減した飲食チェーン事例",
-      "source": "Colabmix 事例",
+      "title": "屋台文化を“祭り体験”として再設計した道頓堀屋台村ウェブ体験",
+      "excerpt": "「食べる場所」から「祭りの体験を売る」へ、構造的に体験設計しリピーターと記憶に残るUXを実現",
+      "source": "Brand Experience Design | Kinoshita Studio",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "飲食",
+      "industryTag": "観光・エンタメ",
       "mechanismTags": [
-        "待ち時間可視化",
-        "無人オーダー"
+        "体験軸設計",
+        "ブランド体験"
       ],
-      "url": "https://colabmix.co.jp/uscase/%E9%A3%B2%E9%A3%9F%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%BE%85%E3%81%A1%E6%99%82%E9%96%93%E5%8F%AF%E8%A6%96%E5%8C%96%EF%BC%86%E7%84%A1%E4%BA%BA%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%A2%E3%83%97/"
+      "url": "https://kinoshitastudio.github.io/case-yataimura.html"
     },
     {
-      "id": "09c45c819571cb1f",
-      "category": "ekkyou",
-      "title": "Queue‑itでオンラインの待機時間をブランディング化し不安を軽減するUX設計",
-      "excerpt": "オンライン販売時の待機画面をブランド世界観でカスタマイズし、「列のどこにいるか」「いつアクセスできるか」を可視化。ユーザーの不安を減らしプロモーション機会も創出",
-      "source": "Queue‑it 公式サイト",
+      "id": "4ffc553a4f06443b",
+      "category": "honmei",
+      "title": "FinTech企業、自動引き落とし設計のUX再設計で延滞率50％削減",
+      "excerpt": "調査に基づくUX再設計で返済体験を簡素化し、オートペイ利用促進と延滞率半減、顧客満足向上を達成",
+      "source": "Coforge ケーススタディ",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "金融",
+      "mechanismTags": [
+        "行動データ活用",
+        "返済UX最適化"
+      ],
+      "url": "https://www.coforge.com/success-stories/driving-higher-autopay-adoption-with-research-led-experience-redesign"
+    },
+    {
+      "id": "81fd694bdf8ccd4e",
+      "category": "honmei",
+      "title": "ANA X、ユーザー視点に返るUX改善ワークショップでCX向上",
+      "excerpt": "ANA Xがサイト改善に際し「仮説を立てる力」のUXワークショップを導入し、満足度4.3、学びの定着を創出",
+      "source": "MarTechLab",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "eコマース／IT以外",
+      "industryTag": "航空・旅行",
       "mechanismTags": [
-        "待機画面カスタマイズ",
-        "リアルタイム通知"
+        "ユーザー視点リセット",
+        "ワークショップ型改善"
       ],
-      "url": "https://queue-it.com/jp/end-user-experience/"
+      "url": "https://martechlab.gaprise.jp/archives/interview/anax/"
     },
     {
-      "id": "64963d3961f65f88",
-      "category": "ekkyou",
-      "title": "地域医療に順番待ちシステム導入で、待ち時間の見える化と高齢者向け負荷軽減",
-      "excerpt": "札幌の内科クリニックで、単機能の順番待ち導入により待ち時間の目安を提供し、高齢者の不安軽減と受付スタッフの問い合わせ対応削減を実現",
-      "source": "パブリックリレーションズ 事例",
+      "id": "d73cbd7aaa079625",
+      "category": "honmei",
+      "title": "インバウンド向け体験型観光ガイドの優良事例を集めた観光庁ナビブック",
+      "excerpt": "通訳案内士向けに優良な体験型ガイドサービス事例を体系化し、ビジネスと体験構造が学べるナビブック",
+      "source": "観光庁",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "医療",
+      "estimatedMinutes": 10,
+      "industryTag": "観光",
       "mechanismTags": [
-        "順番待ち見える化"
+        "事業モデル理解",
+        "体験設計事例集"
       ],
-      "url": "https://www.public.co.jp/works/case_hospital-watanabe/"
+      "url": "https://www.mlit.go.jp/kankocho/jirei_shien/tsuyaku_navibook.html"
     }
   ]
 }
