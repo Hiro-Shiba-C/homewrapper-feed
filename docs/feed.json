@@ -1,95 +1,75 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "items": [
     {
-      "id": "57ee4977e00e0ba9",
-      "category": "ekkyou",
-      "title": "Troski：アクラ市民の通勤不安を「行く前の知る」で解消する多モード交通アプリ",
-      "excerpt": "アクラのtrotoバス待ちの列情報・運賃支払い・複数交通手段の接続を1アプリで可視化し、不安を出発前に軽減",
-      "source": "Noja Designs",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "交通",
-      "mechanismTags": [
-        "待ち列可視化",
-        "オールインワンUX"
-      ],
-      "url": "https://www.nojadesigns.com/work/troski"
-    },
-    {
-      "id": "e9a11a626a2580f9",
-      "category": "ekkyou",
-      "title": "地域交通DXプロジェクト「COMmmmONS」で病院の予約とバス配車を連携、待ち時間と負担を削減",
-      "excerpt": "病院予約とデマンドバス予約を連携し、帰りの待機時間や駐車待ちの負担を軽減した実証結果あり",
-      "source": "国土交通省地域交通DX推進プロジェクト報告書",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "交通・医療",
-      "mechanismTags": [
-        "予約対応連携",
-        "待ち時間短縮"
-      ],
-      "url": "https://www.mlit.go.jp/commmmons/tech_report/003/commmmons_tech_report_003_ver01.pdf"
-    },
-    {
-      "id": "c599dc60fca9cffa",
-      "category": "ekkyou",
-      "title": "屋台文化を“祭り体験”として再設計した道頓堀屋台村ウェブ体験",
-      "excerpt": "「食べる場所」から「祭りの体験を売る」へ、構造的に体験設計しリピーターと記憶に残るUXを実現",
-      "source": "Brand Experience Design | Kinoshita Studio",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "観光・エンタメ",
-      "mechanismTags": [
-        "体験軸設計",
-        "ブランド体験"
-      ],
-      "url": "https://kinoshitastudio.github.io/case-yataimura.html"
-    },
-    {
-      "id": "4ffc553a4f06443b",
+      "id": "2ee97582d46e953c",
       "category": "honmei",
-      "title": "FinTech企業、自動引き落とし設計のUX再設計で延滞率50％削減",
-      "excerpt": "調査に基づくUX再設計で返済体験を簡素化し、オートペイ利用促進と延滞率半減、顧客満足向上を達成",
-      "source": "Coforge ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "行動データ活用",
-        "返済UX最適化"
-      ],
-      "url": "https://www.coforge.com/success-stories/driving-higher-autopay-adoption-with-research-led-experience-redesign"
-    },
-    {
-      "id": "81fd694bdf8ccd4e",
-      "category": "honmei",
-      "title": "ANA X、ユーザー視点に返るUX改善ワークショップでCX向上",
-      "excerpt": "ANA Xがサイト改善に際し「仮説を立てる力」のUXワークショップを導入し、満足度4.3、学びの定着を創出",
-      "source": "MarTechLab",
+      "title": "「感動のツボ」を設計する――ユニクロ・セコマのパーソナライズ接客事例",
+      "excerpt": "ロイヤル顧客ほど評価する“言葉にされないニーズに応える”パーソナライズ接客の仕組みと記憶に残す演出設計",
+      "source": "ITmedia ビジネスオンライン",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "航空・旅行",
+      "industryTag": "小売／接客",
       "mechanismTags": [
-        "ユーザー視点リセット",
-        "ワークショップ型改善"
+        "パーソナライズ接客"
       ],
-      "url": "https://martechlab.gaprise.jp/archives/interview/anax/"
+      "url": "https://www.itmedia.co.jp/business/articles/2607/06/news015_3.html"
     },
     {
-      "id": "d73cbd7aaa079625",
+      "id": "d8e63857708847a5",
       "category": "honmei",
-      "title": "インバウンド向け体験型観光ガイドの優良事例を集めた観光庁ナビブック",
-      "excerpt": "通訳案内士向けに優良な体験型ガイドサービス事例を体系化し、ビジネスと体験構造が学べるナビブック",
-      "source": "観光庁",
+      "title": "東京都交通局の定期券Web予約化、UXテストで業務負担と待ち行列を改善",
+      "excerpt": "行動観察やユーザビリティテストで利用者視点を反映し、繁忙期の窓口負担と待ち行列を減らす設計と運用体制",
+      "source": "Gov‑ToolBox",
       "format": "article",
-      "estimatedMinutes": 10,
-      "industryTag": "観光",
+      "estimatedMinutes": 7,
+      "industryTag": "公共交通／行政",
       "mechanismTags": [
-        "事業モデル理解",
-        "体験設計事例集"
+        "ユーザテストの活用"
       ],
-      "url": "https://www.mlit.go.jp/kankocho/jirei_shien/tsuyaku_navibook.html"
+      "url": "https://www.gov‑toolbox.jp/caseitems/tokyo2026"
+    },
+    {
+      "id": "8306043fc74f4b2f",
+      "category": "ekkyou",
+      "title": "LINEミニアプリで待ち時間ストレス軽減「matoca／yoboca」の仕組み",
+      "excerpt": "LINEミニアプリを活用し、順番待ちや呼び出し通知で待ち時間の自由利用とストレス軽減を可能にする仕組み",
+      "source": "LINE Developers",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "飲食／店舗運営",
+      "mechanismTags": [
+        "ミニアプリ通知"
+      ],
+      "url": "https://developers.line.biz/ja/docs/line-mini-app/technicalcase/bravetechnology/"
+    },
+    {
+      "id": "c413be2d208c555c",
+      "category": "ekkyou",
+      "title": "物流現場のトラック荷待ち7割削減、CO₂排出削減にも繋がる荷捌き場予約設計",
+      "excerpt": "荷捌き場の事前予約・到着分散・見える化により待機時間を7割削減し、CO₂排出も7割削減した設計",
+      "source": "シーオス株式会社",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "物流",
+      "mechanismTags": [
+        "予約粒度設計"
+      ],
+      "url": "https://www.seaos.co.jp/case/?p=1400"
+    },
+    {
+      "id": "6f0a65c08f4ec81b",
+      "category": "ekkyou",
+      "title": "医療・調剤現場で待ち時間の見える化、患者不安を90%減少させたQR待ち運用",
+      "excerpt": "QRコードと待ち時間可視化で、車内や外待機を可能にし、“まだですか？”問い合わせ90%減少",
+      "source": "待革（まちかく）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "待ち時間の可視化"
+      ],
+      "url": "https://rxwaittime.com/industries.html"
     }
   ]
 }
