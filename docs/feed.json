@@ -1,75 +1,65 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "items": [
     {
-      "id": "2ee97582d46e953c",
+      "id": "dbfc787f69aa35f6",
       "category": "honmei",
-      "title": "「感動のツボ」を設計する――ユニクロ・セコマのパーソナライズ接客事例",
-      "excerpt": "ロイヤル顧客ほど評価する“言葉にされないニーズに応える”パーソナライズ接客の仕組みと記憶に残す演出設計",
-      "source": "ITmedia ビジネスオンライン",
+      "title": "VMO2（Virgin Media O2）がクラウドとAIで顧客体験を刷新した事例",
+      "excerpt": "合併後のレガシーを一新し、クラウド基盤とAI対応コンタクトセンターでNPSを最大35ポイント改善、即日クローズ率89%を実現。",
+      "source": "Accenture（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売／接客",
+      "industryTag": "通信",
       "mechanismTags": [
-        "パーソナライズ接客"
+        "AIコンタクトセンター",
+        "クラウド基盤"
       ],
-      "url": "https://www.itmedia.co.jp/business/articles/2607/06/news015_3.html"
+      "url": "https://www.accenture.com/ca-en/case-studies/communications-media/vmo2"
     },
     {
-      "id": "d8e63857708847a5",
+      "id": "408e2a735c521e84",
       "category": "honmei",
-      "title": "東京都交通局の定期券Web予約化、UXテストで業務負担と待ち行列を改善",
-      "excerpt": "行動観察やユーザビリティテストで利用者視点を反映し、繁忙期の窓口負担と待ち行列を減らす設計と運用体制",
-      "source": "Gov‑ToolBox",
+      "title": "Persistentによる製品内セルフサービス埋め込みでサポート要求を半減したCX変革",
+      "excerpt": "プロダクト内に文脈的セルフサービスポータルを設計し、ガイド付き診断と知識の再利用で問い合わせ数を25‑50%削減。",
+      "source": "Persistent（クライアントサクセスストーリー）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "テクノロジー",
+      "mechanismTags": [
+        "プロダクト内サポート",
+        "ナレッジ再利用"
+      ],
+      "url": "https://www.persistent.com/client-success/support-tickets-halved-with-contextual-in-product-self-service-at-scale/"
+    },
+    {
+      "id": "e1cea5a4a424191b",
+      "category": "ekkyou",
+      "title": "CareBuddy：認知症介護者向け多機能モバイルケアエコシステムの実装と評価",
+      "excerpt": "ストレスモデルに基づく共感設計でAIチャットボット、GPS見守り、ピア支援など統合し、高いユーザビリティと満足度を達成。",
+      "source": "JMIR Aging（研究記事）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "公共交通／行政",
-      "mechanismTags": [
-        "ユーザテストの活用"
-      ],
-      "url": "https://www.gov‑toolbox.jp/caseitems/tokyo2026"
-    },
-    {
-      "id": "8306043fc74f4b2f",
-      "category": "ekkyou",
-      "title": "LINEミニアプリで待ち時間ストレス軽減「matoca／yoboca」の仕組み",
-      "excerpt": "LINEミニアプリを活用し、順番待ちや呼び出し通知で待ち時間の自由利用とストレス軽減を可能にする仕組み",
-      "source": "LINE Developers",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "飲食／店舗運営",
-      "mechanismTags": [
-        "ミニアプリ通知"
-      ],
-      "url": "https://developers.line.biz/ja/docs/line-mini-app/technicalcase/bravetechnology/"
-    },
-    {
-      "id": "c413be2d208c555c",
-      "category": "ekkyou",
-      "title": "物流現場のトラック荷待ち7割削減、CO₂排出削減にも繋がる荷捌き場予約設計",
-      "excerpt": "荷捌き場の事前予約・到着分散・見える化により待機時間を7割削減し、CO₂排出も7割削減した設計",
-      "source": "シーオス株式会社",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "予約粒度設計"
-      ],
-      "url": "https://www.seaos.co.jp/case/?p=1400"
-    },
-    {
-      "id": "6f0a65c08f4ec81b",
-      "category": "ekkyou",
-      "title": "医療・調剤現場で待ち時間の見える化、患者不安を90%減少させたQR待ち運用",
-      "excerpt": "QRコードと待ち時間可視化で、車内や外待機を可能にし、“まだですか？”問い合わせ90%減少",
-      "source": "待革（まちかく）",
-      "format": "article",
-      "estimatedMinutes": 5,
       "industryTag": "医療・福祉",
       "mechanismTags": [
-        "待ち時間の可視化"
+        "AIチャットボット",
+        "多機能統合"
       ],
-      "url": "https://rxwaittime.com/industries.html"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41543360/"
+    },
+    {
+      "id": "5645d8c7d38e5718",
+      "category": "ekkyou",
+      "title": "CareMOBI：デイサービスと医療提供者の情報を結ぶmHealthアプリ構築の混合手法評価",
+      "excerpt": "介護現場スタッフ視点で、モバイルを介したBidirectional情報共有クラウドを設計し、受容性と実用性を確認。",
+      "source": "JMIR Formative Research（研究記事）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "双方向情報共有",
+        "現場受容性評価"
+      ],
+      "url": "https://formative.jmir.org/2024/1/e49492"
     }
   ]
 }

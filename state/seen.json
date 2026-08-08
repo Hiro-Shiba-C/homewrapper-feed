@@ -74,7 +74,11 @@
     "https://www.gov‑toolbox.jp/caseitems/tokyo2026",
     "https://developers.line.biz/ja/docs/line-mini-app/technicalcase/bravetechnology/",
     "https://www.seaos.co.jp/case/?p=1400",
-    "https://rxwaittime.com/industries.html"
+    "https://rxwaittime.com/industries.html",
+    "https://www.accenture.com/ca-en/case-studies/communications-media/vmo2",
+    "https://www.persistent.com/client-success/support-tickets-halved-with-contextual-in-product-self-service-at-scale/",
+    "https://pubmed.ncbi.nlm.nih.gov/41543360/",
+    "https://formative.jmir.org/2024/1/e49492"
   ],
   "titles": [
     "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
@@ -151,6 +155,10 @@
     "東京都交通局の定期券Web予約化、UXテストで業務負担と待ち行列を改善",
     "LINEミニアプリで待ち時間ストレス軽減「matoca／yoboca」の仕組み",
     "物流現場のトラック荷待ち7割削減、CO₂排出削減にも繋がる荷捌き場予約設計",
-    "医療・調剤現場で待ち時間の見える化、患者不安を90%減少させたQR待ち運用"
+    "医療・調剤現場で待ち時間の見える化、患者不安を90%減少させたQR待ち運用",
+    "VMO2（Virgin Media O2）がクラウドとAIで顧客体験を刷新した事例",
+    "Persistentによる製品内セルフサービス埋め込みでサポート要求を半減したCX変革",
+    "CareBuddy：認知症介護者向け多機能モバイルケアエコシステムの実装と評価",
+    "CareMOBI：デイサービスと医療提供者の情報を結ぶmHealthアプリ構築の混合手法評価"
   ]
 }
