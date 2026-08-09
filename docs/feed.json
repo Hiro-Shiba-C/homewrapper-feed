@@ -1,65 +1,94 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "items": [
     {
-      "id": "dbfc787f69aa35f6",
+      "id": "724f430c1eb33f24",
       "category": "honmei",
-      "title": "VMO2（Virgin Media O2）がクラウドとAIで顧客体験を刷新した事例",
-      "excerpt": "合併後のレガシーを一新し、クラウド基盤とAI対応コンタクトセンターでNPSを最大35ポイント改善、即日クローズ率89%を実現。",
-      "source": "Accenture（ケーススタディ）",
+      "title": "kate spade new york店舗で“Muse”導入によるパーソナライズ小売体験の仕組み",
+      "excerpt": "ブランドらしさを具現化する“Muse”役の再定義と“pack a purse”“dare cards”“shoe selfie”など体験重視設計により店舗体験を再構築。",
+      "source": "IDEO公式サイト",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "通信",
+      "industryTag": "小売・ファッション",
       "mechanismTags": [
-        "AIコンタクトセンター",
-        "クラウド基盤"
+        "店内体験のパーソナライズ",
+        "体験を仕組み化"
       ],
-      "url": "https://www.accenture.com/ca-en/case-studies/communications-media/vmo2"
+      "url": "https://www.ideo.com/case-study/the-future-guest-experience"
     },
     {
-      "id": "408e2a735c521e84",
+      "id": "12a15fc287227871",
       "category": "honmei",
-      "title": "Persistentによる製品内セルフサービス埋め込みでサポート要求を半減したCX変革",
-      "excerpt": "プロダクト内に文脈的セルフサービスポータルを設計し、ガイド付き診断と知識の再利用で問い合わせ数を25‑50%削減。",
-      "source": "Persistent（クライアントサクセスストーリー）",
+      "title": "LUMIXコミュニティによる購入後顧客との関係深化と解約率低減",
+      "excerpt": "LUMIXコミュニティ「名人＋」で顧客同士・開発者との交流促進し、解約率を約10%未満から3%台へ改善。",
+      "source": "Commune Magazine",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "テクノロジー",
+      "estimatedMinutes": 4,
+      "industryTag": "家電",
       "mechanismTags": [
-        "プロダクト内サポート",
-        "ナレッジ再利用"
+        "コミュニティ共創",
+        "顧客教育支援"
       ],
-      "url": "https://www.persistent.com/client-success/support-tickets-halved-with-contextual-in-product-self-service-at-scale/"
+      "url": "https://commune.co.jp/magazine/customer_experience_improvement/"
     },
     {
-      "id": "e1cea5a4a424191b",
-      "category": "ekkyou",
-      "title": "CareBuddy：認知症介護者向け多機能モバイルケアエコシステムの実装と評価",
-      "excerpt": "ストレスモデルに基づく共感設計でAIチャットボット、GPS見守り、ピア支援など統合し、高いユーザビリティと満足度を達成。",
-      "source": "JMIR Aging（研究記事）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "AIチャットボット",
-        "多機能統合"
-      ],
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41543360/"
-    },
-    {
-      "id": "5645d8c7d38e5718",
-      "category": "ekkyou",
-      "title": "CareMOBI：デイサービスと医療提供者の情報を結ぶmHealthアプリ構築の混合手法評価",
-      "excerpt": "介護現場スタッフ視点で、モバイルを介したBidirectional情報共有クラウドを設計し、受容性と実用性を確認。",
-      "source": "JMIR Formative Research（研究記事）",
+      "id": "963ce496a503f06f",
+      "category": "honmei",
+      "title": "NTTデータ×Starによる車載デジタルパーソナリティ型車内コンシェルジュ設計",
+      "excerpt": "移動中のサービス利用を促進するAIコンシェルジュ構想でUX/UI、ビジネスモデル、共創まで含む総合設計プロセスが特徴。",
+      "source": "NTTデータ Starケーススタディ",
       "format": "article",
       "estimatedMinutes": 6,
+      "industryTag": "交通・モビリティ",
+      "mechanismTags": [
+        "AIパーソナライズ",
+        "共創ワークショップ"
+      ],
+      "url": "https://star.global/jp/cases/ntt-data-creating-an-in-car-concierge-service/"
+    },
+    {
+      "id": "1af74465e6bb3f18",
+      "category": "ekkyou",
+      "title": "藤田医科大学病院のSMS呼び出しで待合混雑と患者不安を軽減",
+      "excerpt": "SMS呼び出しでカフェなど院外で待機可能にし、待合混雑と患者のストレスを軽減。",
+      "source": "空電プッシュ導入事例",
+      "format": "article",
+      "estimatedMinutes": 3,
       "industryTag": "医療・福祉",
       "mechanismTags": [
-        "双方向情報共有",
-        "現場受容性評価"
+        "SMS通知による待機場所分散"
       ],
-      "url": "https://formative.jmir.org/2024/1/e49492"
+      "url": "https://www.karaden.jp/case/fujita-hu/"
+    },
+    {
+      "id": "5daf4dc4221efdd2",
+      "category": "ekkyou",
+      "title": "マツバクリニックの“ネコの目”クラウド受付で待ち見える化",
+      "excerpt": "リアルタイム受付状況可視化で「自分の順番がわかる安心感」を提供し、利用者の不安を軽減し業務負荷も改善。",
+      "source": "ネコの目導入事例",
+      "format": "article",
+      "estimatedMinutes": 3,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "待ち時間可視化",
+        "クラウド受付"
+      ],
+      "url": "https://neco.riprice.co.jp/case/case-6638/"
+    },
+    {
+      "id": "b0fa7a30559c6471",
+      "category": "ekkyou",
+      "title": "デジタル問診導入で滞在時間大幅削減：岡山旭東病院事例",
+      "excerpt": "来院前スマホ問診と業務のタスクシフトにより、受付・医師業務負担と患者滞在時間を大幅に削減。",
+      "source": "ユビーAI問診導入事例",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "来院前問診",
+        "業務タスクシフト"
+      ],
+      "url": "https://ubie.app/interview/case/u2wodj-_z_-1"
     }
   ]
 }
