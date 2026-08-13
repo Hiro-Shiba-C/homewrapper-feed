@@ -95,7 +95,11 @@
     "https://design.google/library/airbnb-invites-you-in",
     "https://www.concentinc.jp/news-event/news/2026/04/gov-toolbox/",
     "https://www.dascorp.co.jp/works/post/ip37usb5l5je",
-    "https://www.digital.go.jp/resources/user-centered-approach-guidebook"
+    "https://www.digital.go.jp/resources/user-centered-approach-guidebook",
+    "https://blog.nijibox.jp/article/ux_works/",
+    "https://www.stephanie-gross.com/getgo/",
+    "https://ux-design-agency.co.uk/case-studies/quick-conversion-ux",
+    "https://www.mext.go.jp/co-sha/ideas/case_hayakita_00001.html"
   ],
   "titles": [
     "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
@@ -193,6 +197,10 @@
     "Airbnbアプリのデザイン統一と会話型インタフェースで信頼性向上",
     "行政の定期券予約Web化：観察とユーザビリティテストで混雑解消",
     "足立区の保育施設申込オンライン化におけるUX設計支援",
-    "デジタル庁の「利用者視点」導入ガイドブック：行政サービスUX改善事例とツール紹介"
+    "デジタル庁の「利用者視点」導入ガイドブック：行政サービスUX改善事例とツール紹介",
+    "『あと値決め』における“みんなの値決め”によるUX最適化事例",
+    "GetGoモバイル注文UX改善による操作階層削減事例",
+    "Quick：モバイル決済UX再構築によるカート離脱減少事例",
+    "学校施設にICT予約とスマートロック導入した地域共用化"
   ]
 }

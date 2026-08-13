@@ -1,95 +1,62 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-13",
   "items": [
     {
-      "id": "c12cf22c74dfc7b0",
+      "id": "029f7ded1e30087b",
       "category": "honmei",
-      "title": "PUROホテル向けホテル客向けカスタマーサービスシステム設計",
-      "excerpt": "チェックインキオスクや客室内パネル・スマートTVでゲストが自律的に操作し、照明や空調、ルームサービスを快適にコントロールできる体験をLean UX手法で実現",
-      "source": "Usability LAB",
+      "title": "『あと値決め』における“みんなの値決め”によるUX最適化事例",
+      "excerpt": "ネットプロテクションズの“あと値決め”購買体験に、恣意性を排除し意思決定を補助する「みんなの値決め」フォームを設計し、体験価値を変えた具体的事例。",
+      "source": "ニジボックス公式ブログ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ホテル",
+      "industryTag": "EC／決済",
       "mechanismTags": [
-        "セルフサービス端末",
-        "Lean UXワークショップ"
+        "価格意思決定支援"
       ],
-      "url": "https://www.usability-lab.pl/case-studies/designing-the-customer-service-system-for-hotel-guests/"
+      "url": "https://blog.nijibox.jp/article/ux_works/"
     },
     {
-      "id": "24ae6881c074c4ee",
+      "id": "d812fba358e348f3",
       "category": "honmei",
-      "title": "Holiday Hero：デジタルコンシェルジュアプリで滞在体験を自動化",
-      "excerpt": "ホストやホテルに代わり、チェックイン以降をアプリでガイド。ロイヤルティ向上や運営効率化に資するデジタルコンシェルジュ機能を実装",
-      "source": "Tapptitude case study",
+      "title": "GetGoモバイル注文UX改善による操作階層削減事例",
+      "excerpt": "GetGoアプリの注文メニューの階層を構造的に再設計し、ナビゲーションを最大8クリックから2–3クリックに減らして注文効率を改善した実践事例。",
+      "source": "Stephanie Gross UX Case Study",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "ホテル",
+      "industryTag": "小売／コンビニ",
       "mechanismTags": [
-        "デジタルコンシェルジュ",
-        "運用自動化"
+        "操作階層簡素化"
       ],
-      "url": "https://tapptitude.com/case-studies/holiday-hero"
+      "url": "https://www.stephanie-gross.com/getgo/"
     },
     {
-      "id": "c56420be25ef1b26",
+      "id": "a10ad14c2392238b",
       "category": "honmei",
-      "title": "Airbnbアプリのデザイン統一と会話型インタフェースで信頼性向上",
-      "excerpt": "多言語・多地域でも統一された視覚言語と会話的UIで安心感を構築。タイプとモーション、写真重視の構成でユーザー操作を直感的に支援",
-      "source": "Design Google blog",
+      "title": "Quick：モバイル決済UX再構築によるカート離脱減少事例",
+      "excerpt": "Quick社モバイルチェックアウトを多画面から単一画面に再設計し、Apple PayやGoogle Payを組み込み、離脱率を52％減少させた実績あるUX改善。",
+      "source": "UX Design Agency case study",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "旅行・宿泊",
+      "estimatedMinutes": 4,
+      "industryTag": "SaaS／eコマース",
       "mechanismTags": [
-        "デザインシステム統一",
-        "会話的UI"
+        "決済フロー統合"
       ],
-      "url": "https://design.google/library/airbnb-invites-you-in"
+      "url": "https://ux-design-agency.co.uk/case-studies/quick-conversion-ux"
     },
     {
-      "id": "8debf765510a06f1",
+      "id": "6f15c0cb46d7d0c2",
       "category": "ekkyou",
-      "title": "行政の定期券予約Web化：観察とユーザビリティテストで混雑解消",
-      "excerpt": "学生向け定期券発売所の混雑を起点に、オンライン予約導入プロセスを観察・ペルソナ・テストで繰返改善し現場と利用者双方の負担を軽減",
-      "source": "コンセント／総務省ケーススタディ",
+      "title": "学校施設にICT予約とスマートロック導入した地域共用化",
+      "excerpt": "ICT予約とスマートロックで学校の施設を地域開放しつつ教員負担を抑え、地域交流と安全管理を両立した教育現場のUX設計。",
+      "source": "文部科学省 CO‑SHA Platform",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "交通・公共",
+      "estimatedMinutes": 5,
+      "industryTag": "教育",
       "mechanismTags": [
-        "ユーザビリティテスト",
-        "サービスキャンバス"
+        "スマートロック予約",
+        "業務負荷軽減"
       ],
-      "url": "https://www.concentinc.jp/news-event/news/2026/04/gov-toolbox/"
-    },
-    {
-      "id": "2721e44337317c93",
-      "category": "ekkyou",
-      "title": "足立区の保育施設申込オンライン化におけるUX設計支援",
-      "excerpt": "保育施設申し込みをオンライン化する際、現行プロセスのフローチャート化とペイン抽出を行い、ユーザーと職員双方の体験をUXコンセプトシートで可視化",
-      "source": "内田洋行",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "行政・福祉",
-      "mechanismTags": [
-        "体験フロー整理",
-        "UXコンセプトシート"
-      ],
-      "url": "https://www.dascorp.co.jp/works/post/ip37usb5l5je"
-    },
-    {
-      "id": "2b0a0f99e81a2057",
-      "category": "ekkyou",
-      "title": "デジタル庁の「利用者視点」導入ガイドブック：行政サービスUX改善事例とツール紹介",
-      "excerpt": "行政サービスにおいて、利用者視点に基づく設計の必要性と多数の具体事例、手法、ツールを解説し、制度・業務・システム横断で体験改善を促進",
-      "source": "デジタル庁",
-      "format": "article",
-      "estimatedMinutes": 10,
-      "industryTag": "行政",
-      "mechanismTags": [
-        "利用者視点ガイド",
-        "包括的UX設計"
-      ],
-      "url": "https://www.digital.go.jp/resources/user-centered-approach-guidebook"
+      "url": "https://www.mext.go.jp/co-sha/ideas/case_hayakita_00001.html"
     }
   ]
 }
