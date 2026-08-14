@@ -1,62 +1,50 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "items": [
     {
-      "id": "029f7ded1e30087b",
+      "id": "1c012b87a55ea0eb",
       "category": "honmei",
-      "title": "『あと値決め』における“みんなの値決め”によるUX最適化事例",
-      "excerpt": "ネットプロテクションズの“あと値決め”購買体験に、恣意性を排除し意思決定を補助する「みんなの値決め」フォームを設計し、体験価値を変えた具体的事例。",
-      "source": "ニジボックス公式ブログ",
+      "title": "TOYOTA ARENA TOKYO による未来志向の“場”体験設計",
+      "excerpt": "国内最大規模の映像・音響・照明演出で観客に没入型体験を与える現場設計が評価された事例",
+      "source": "優れた顧客体験を実現できたサービスやプロダクトを表彰する「CX AWARD 2025」受賞発表",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "EC／決済",
+      "industryTag": "スポーツ・エンタメ",
       "mechanismTags": [
-        "価格意思決定支援"
+        "没入演出設備",
+        "現場空間設計"
       ],
-      "url": "https://blog.nijibox.jp/article/ux_works/"
+      "url": "https://cxdive.com/2025/award/"
     },
     {
-      "id": "d812fba358e348f3",
-      "category": "honmei",
-      "title": "GetGoモバイル注文UX改善による操作階層削減事例",
-      "excerpt": "GetGoアプリの注文メニューの階層を構造的に再設計し、ナビゲーションを最大8クリックから2–3クリックに減らして注文効率を改善した実践事例。",
-      "source": "Stephanie Gross UX Case Study",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売／コンビニ",
-      "mechanismTags": [
-        "操作階層簡素化"
-      ],
-      "url": "https://www.stephanie-gross.com/getgo/"
-    },
-    {
-      "id": "a10ad14c2392238b",
-      "category": "honmei",
-      "title": "Quick：モバイル決済UX再構築によるカート離脱減少事例",
-      "excerpt": "Quick社モバイルチェックアウトを多画面から単一画面に再設計し、Apple PayやGoogle Payを組み込み、離脱率を52％減少させた実績あるUX改善。",
-      "source": "UX Design Agency case study",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "SaaS／eコマース",
-      "mechanismTags": [
-        "決済フロー統合"
-      ],
-      "url": "https://ux-design-agency.co.uk/case-studies/quick-conversion-ux"
-    },
-    {
-      "id": "6f15c0cb46d7d0c2",
+      "id": "8b247caa0ab33b2e",
       "category": "ekkyou",
-      "title": "学校施設にICT予約とスマートロック導入した地域共用化",
-      "excerpt": "ICT予約とスマートロックで学校の施設を地域開放しつつ教員負担を抑え、地域交流と安全管理を両立した教育現場のUX設計。",
-      "source": "文部科学省 CO‑SHA Platform",
+      "title": "POGSによる携帯端末外来案内で待ち時間ストレス90％軽減",
+      "excerpt": "携帯端末でオンライン再来受付・診察進捗通知などを行い、待ち時間ストレスが9割軽減された医療UX設計",
+      "source": "携帯情報端末を用いた外来患者案内システムの開発と実証（J-STAGE）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "教育",
+      "estimatedMinutes": 6,
+      "industryTag": "医療",
       "mechanismTags": [
-        "スマートロック予約",
-        "業務負荷軽減"
+        "モバイル案内・通知",
+        "セルフ受付"
       ],
-      "url": "https://www.mext.go.jp/co-sha/ideas/case_hayakita_00001.html"
+      "url": "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article/"
+    },
+    {
+      "id": "c55487203fb7e2a1",
+      "category": "ekkyou",
+      "title": "クリニックTEN：予約・問診・決済を一気通貫化し“待ち時間ゼロ”を実現",
+      "excerpt": "15分刻みWEB予約と電子カルテ連動型管理システムでスムーズな導線を構築し、待ち時間ほぼゼロを実現",
+      "source": "独自の予約管理システムで待ち時間“ほぼ０”を実現。クリニックTENの開発チームが考えていること（note）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "WEB予約フロー",
+        "カルテ連携システム"
+      ],
+      "url": "https://note.com/clinic_ten/n/ne4fe59576a5d"
     }
   ]
 }
