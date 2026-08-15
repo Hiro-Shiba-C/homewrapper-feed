@@ -1,50 +1,80 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "items": [
     {
-      "id": "1c012b87a55ea0eb",
+      "id": "70331c77bdfcab69",
       "category": "honmei",
-      "title": "TOYOTA ARENA TOKYO による未来志向の“場”体験設計",
-      "excerpt": "国内最大規模の映像・音響・照明演出で観客に没入型体験を与える現場設計が評価された事例",
-      "source": "優れた顧客体験を実現できたサービスやプロダクトを表彰する「CX AWARD 2025」受賞発表",
+      "title": "LEGOなどに学ぶユーザー参加型ビジネスモデルの導入プロセス",
+      "excerpt": "LEGOやIBMがユーザーを共同創造プロセスに継続的に組み込み、IP透明性やインセンティブ等により内部抵抗を乗り越える具体手法を提示。",
+      "source": "ScienceDirect 論文",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "スポーツ・エンタメ",
+      "estimatedMinutes": 20,
+      "industryTag": "製造・玩具",
       "mechanismTags": [
-        "没入演出設備",
-        "現場空間設計"
+        "ユーザー共創",
+        "インセンティブ設計"
       ],
-      "url": "https://cxdive.com/2025/award/"
+      "url": "https://www.sciencedirect.com/science/article/pii/S0024630111000501"
     },
     {
-      "id": "8b247caa0ab33b2e",
-      "category": "ekkyou",
-      "title": "POGSによる携帯端末外来案内で待ち時間ストレス90％軽減",
-      "excerpt": "携帯端末でオンライン再来受付・診察進捗通知などを行い、待ち時間ストレスが9割軽減された医療UX設計",
-      "source": "携帯情報端末を用いた外来患者案内システムの開発と実証（J-STAGE）",
+      "id": "1bf14a008eb6245f",
+      "category": "honmei",
+      "title": "デザイン思考による航空会社内でのCX戦略の実践技法",
+      "excerpt": "航空会社内でデザイン思考を活かし、社内への定着を狙って顧客中心文化への変革をハンズオンで推進した実践的事例。",
+      "source": "Design Management Journal",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "estimatedMinutes": 12,
+      "industryTag": "交通（航空）",
       "mechanismTags": [
-        "モバイル案内・通知",
-        "セルフ受付"
+        "デザイン思考",
+        "ハンズオン浸透"
       ],
-      "url": "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article/"
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/dmj.12037"
     },
     {
-      "id": "c55487203fb7e2a1",
+      "id": "bf58d2e798fe084b",
       "category": "ekkyou",
-      "title": "クリニックTEN：予約・問診・決済を一気通貫化し“待ち時間ゼロ”を実現",
-      "excerpt": "15分刻みWEB予約と電子カルテ連動型管理システムでスムーズな導線を構築し、待ち時間ほぼゼロを実現",
-      "source": "独自の予約管理システムで待ち時間“ほぼ０”を実現。クリニックTENの開発チームが考えていること（note）",
+      "title": "クラブツーリズム：KARTE活用によるUXと顧客エンゲージメント強化",
+      "excerpt": "顧客行動に応じたタイミングでのアクションをKARTEで個別に制御し、エンゲージメント向上とUX設計を実現した観光業での実践事例。",
+      "source": "trans+（トランスプラス）",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "estimatedMinutes": 8,
+      "industryTag": "観光",
       "mechanismTags": [
-        "WEB予約フロー",
-        "カルテ連携システム"
+        "CXプラットフォーム",
+        "行動追跡"
       ],
-      "url": "https://note.com/clinic_ten/n/ne4fe59576a5d"
+      "url": "https://www.trans-plus.jp/blog/customercase/202509_case44"
+    },
+    {
+      "id": "e12b2b8bdc80b800",
+      "category": "ekkyou",
+      "title": "KDDIオンラインチャネルUXデザイン伴走による契約率向上",
+      "excerpt": "au／UQのオンラインショップにおいて、顧客のペインを抽出し、注文フローのUI/UXを改善して契約者数を増加させた実践。",
+      "source": "Members 事例紹介",
+      "format": "article",
+      "estimatedMinutes": 10,
+      "industryTag": "通信",
+      "mechanismTags": [
+        "UI/UX伴走支援",
+        "オンライン注文フロー最適化"
+      ],
+      "url": "https://www.members.co.jp/results/case74"
+    },
+    {
+      "id": "7d25e31a5a38bee8",
+      "category": "ekkyou",
+      "title": "イオンリテール：デジタルでも店舗の安心感を届けるUX設計",
+      "excerpt": "店舗の“安心感”をデジタルで再現するため、UIや導線設計で対応時間を削減し、ネットスーパー利用を促進した事例。",
+      "source": "Withdesk 導入事例",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "流通・小売",
+      "mechanismTags": [
+        "デジタル安心感",
+        "対応時間削減"
+      ],
+      "url": "https://www.withdesk.com/cases"
     }
   ]
 }
