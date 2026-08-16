@@ -1,7 +1,7 @@
 // 情報収集モード「Today's News」の日次フィード生成スクリプト。
-// OpenAI Responses API + web_search ツールで「本命3・越境3」を収集し、
+// OpenAI Responses API + web_search ツールで「本命3・越境3・定点観測1〜2」を収集し、
 // アプリの JSON 契約(date / items[...]) に整形して docs/feed.json に書き出す。
-// 定点観測(RSS)は初期は対象外(将来ここに追加する)。外部npm依存なし(Node 20 の組み込み fetch/crypto/fs を使用)。
+// 定点観測(teiten)はプロンプトで指定した固定ソース(アプリマーケティング研究所)を追う。外部npm依存なし(Node 20 の組み込み fetch/crypto/fs を使用)。
 //
 // 必要な環境変数:
 //   OPENAI_API_KEY        必須。OpenAI APIキー(GitHub Secrets 推奨)
@@ -47,13 +47,19 @@ const recentTitles = seen.titles.slice(-20);
 
 // --- プロンプト(memo.txt の方針: UX/体験設計とそれを支える事業・運用。業界軸・仕組み軸) ---
 const prompt = `あなたはUXリサーチャー向けの記事キュレーターです。今日は${dateStr}(${weekdayJp})です。
-Web検索を使い、次の2カテゴリで合計6件の実在する記事/Podcast/動画を選んでください。
+Web検索を使い、次の3カテゴリで合計7〜8件の実在する記事/Podcast/動画を選んでください。
 
 【本命 (category: "honmei") 3件】
 傑出した顧客体験・サービス体験の事例で、その体験を成立させているビジネスモデル・運用・組織・接客・設備・物流などの「仕組み」が具体的に分かるもの。
 
 【越境 (category: "ekkyou") 3件】
 普段のIT/UX界隈から少し離れた業界(医療・福祉・行政・教育・交通・物流・観光・ホテル・飲食・小売・金融・葬祭・スポーツ・エンタメ・地域コミュニティ 等)から、待ち時間・不安軽減・参加・接客・運用・オンラインと現地の接続などの体験設計が秀逸で、他業界にも転用できる示唆がある事例。業界が偏らないようにする。
+
+【定点観測 (category: "teiten") 1〜2件】
+「アプリマーケティング研究所」(https://appmarketinglabo.net/) の最近の新着記事を確認し、次を満たす良質な記事だけを選ぶ(該当が無ければ0件でよい):
+- 具体的な事例が含まれ、利用者体験の変化やビジネスモデル・運用・グロースの話がある
+- 採用広報・イベント告知・単なる新機能ニュース・一般論/用語解説だけの記事は除外
+このカテゴリは固定の定点観測先なので、下記「同じ企業・業界・仕組みに偏らない」条件の対象外とする。source は必ず「アプリマーケティング研究所」とすること。
 
 【共通の選定条件】
 - 単なる新商品/新機能の宣伝ではなく、利用者の体験が具体的に変わっている事例
@@ -64,7 +70,7 @@ Web検索を使い、次の2カテゴリで合計6件の実在する記事/Podca
 - 次の最近扱ったタイトルは避ける: ${recentTitles.length ? recentTitles.map((t) => `「${t}」`).join(' ') : '(なし)'}
 
 【各記事の出力項目】
-- category: "honmei" または "ekkyou"
+- category: "honmei" / "ekkyou" / "teiten" のいずれか
 - title: 記事タイトル(日本語。英語記事なら日本語に要約したタイトル)
 - source: 媒体名/発信元(例: KESIKI note, 99% Invisible など)
 - excerpt: 記事本文を転載せず、あなた自身の言葉で40〜80字の日本語要約
@@ -167,7 +173,7 @@ for (const raw of rawItems) {
   if (url && seenUrls.has(url)) continue; // 既出URLはスキップ(ベストエフォート)
   collected.push({
     id: toId(url || title),
-    category: raw.category === 'ekkyou' ? 'ekkyou' : 'honmei',
+    category: ['honmei', 'ekkyou', 'teiten'].includes(raw.category) ? raw.category : 'honmei',
     title,
     excerpt: String(raw.excerpt || '').slice(0, 120),
     source: String(raw.source || raw.sourceName || '').trim(),
