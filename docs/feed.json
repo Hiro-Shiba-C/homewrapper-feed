@@ -1,80 +1,80 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "items": [
     {
-      "id": "70331c77bdfcab69",
+      "id": "4e52483f89f1a9b2",
       "category": "honmei",
-      "title": "LEGOなどに学ぶユーザー参加型ビジネスモデルの導入プロセス",
-      "excerpt": "LEGOやIBMがユーザーを共同創造プロセスに継続的に組み込み、IP透明性やインセンティブ等により内部抵抗を乗り越える具体手法を提示。",
-      "source": "ScienceDirect 論文",
+      "title": "再春館製薬所：「AI肌診断」で“ご自身の肌と向き合うきっかけ”を創出し、初回購入率2倍・利用者数3倍へ",
+      "excerpt": "AI肌診断と「Webと電話の間」をつなぐ体験設計で、新規体験の楽しさと信頼性を両立し、初回購入率を2倍以上に。",
+      "source": "PERFECT（インタビュー記事）",
       "format": "article",
-      "estimatedMinutes": 20,
-      "industryTag": "製造・玩具",
+      "estimatedMinutes": 5,
+      "industryTag": "化粧品／EC",
       "mechanismTags": [
-        "ユーザー共創",
-        "インセンティブ設計"
+        "AI診断による可視化",
+        "体験のパーソナライズ"
       ],
-      "url": "https://www.sciencedirect.com/science/article/pii/S0024630111000501"
+      "url": "https://www.perfectcorp.com/ja/business/successstory/saishunkan-jp"
     },
     {
-      "id": "1bf14a008eb6245f",
+      "id": "1faed370e94d40a3",
       "category": "honmei",
-      "title": "デザイン思考による航空会社内でのCX戦略の実践技法",
-      "excerpt": "航空会社内でデザイン思考を活かし、社内への定着を狙って顧客中心文化への変革をハンズオンで推進した実践的事例。",
-      "source": "Design Management Journal",
+      "title": "阪急阪神ホールディングス：データ統合によるOne to One顧客体験の事業横断提供",
+      "excerpt": "鉄道・商業施設・ホテル等各事業の顧客データを統合し、クロスチャネルで一人ひとりに最適化された体験を提供。",
+      "source": "INCUDATA ケーススタディ",
       "format": "article",
-      "estimatedMinutes": 12,
-      "industryTag": "交通（航空）",
+      "estimatedMinutes": 6,
+      "industryTag": "交通・不動産・ホテル等複合",
       "mechanismTags": [
-        "デザイン思考",
-        "ハンズオン浸透"
+        "データ統合",
+        "クロスチャネル提案"
       ],
-      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/dmj.12037"
+      "url": "https://www.incudata.co.jp/casestudy/HHHD.html"
     },
     {
-      "id": "bf58d2e798fe084b",
+      "id": "7b81121b71f3f57b",
       "category": "ekkyou",
-      "title": "クラブツーリズム：KARTE活用によるUXと顧客エンゲージメント強化",
-      "excerpt": "顧客行動に応じたタイミングでのアクションをKARTEで個別に制御し、エンゲージメント向上とUX設計を実現した観光業での実践事例。",
-      "source": "trans+（トランスプラス）",
+      "title": "ブルーミー（花のサブスク）：体験に意味づけを重ねた継続設計",
+      "excerpt": "“花が届く体験”にユーザーの“素敵な女性でありたい”という背景を繋ぎ、継続意向と広告効率を向上。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "観光",
+      "estimatedMinutes": 5,
+      "industryTag": "生活雑貨サブスク",
       "mechanismTags": [
-        "CXプラットフォーム",
-        "行動追跡"
+        "ユーザー背景の共感設計",
+        "インタビュー文化"
       ],
-      "url": "https://www.trans-plus.jp/blog/customercase/202509_case44"
+      "url": "https://appmarketinglabo.net/bloomee-marketing/"
     },
     {
-      "id": "e12b2b8bdc80b800",
+      "id": "45094f8eddb9e856",
       "category": "ekkyou",
-      "title": "KDDIオンラインチャネルUXデザイン伴走による契約率向上",
-      "excerpt": "au／UQのオンラインショップにおいて、顧客のペインを抽出し、注文フローのUI/UXを改善して契約者数を増加させた実践。",
-      "source": "Members 事例紹介",
+      "title": "カウシェ：非目的買い＋ゲーム性を融合させたEC体験",
+      "excerpt": "デジタル農園ゲームとショッピングを組み合わせ、“非目的買い”の楽しさを設計し、滞在時間6倍・売上16倍に。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 10,
-      "industryTag": "通信",
+      "estimatedMinutes": 6,
+      "industryTag": "EC／小売",
       "mechanismTags": [
-        "UI/UX伴走支援",
-        "オンライン注文フロー最適化"
+        "ゲーミフィケーション",
+        "非目的体験設計"
       ],
-      "url": "https://www.members.co.jp/results/case74"
+      "url": "https://appmarketinglabo.net/kauche-appgrowth/"
     },
     {
-      "id": "7d25e31a5a38bee8",
-      "category": "ekkyou",
-      "title": "イオンリテール：デジタルでも店舗の安心感を届けるUX設計",
-      "excerpt": "店舗の“安心感”をデジタルで再現するため、UIや導線設計で対応時間を削減し、ネットスーパー利用を促進した事例。",
-      "source": "Withdesk 導入事例",
+      "id": "db0e0430f1212a48",
+      "category": "teiten",
+      "title": "北欧、暮らしの道具店：UXリサーチ×ABテストによるアプリ成長施策",
+      "excerpt": "UXリサーチとABテストを組み合わせ、定番バナー・サムネ追加・カテゴリー配置でアプリ購入体験を改善し成長。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "流通・小売",
+      "industryTag": "ＥＣ／インテリア",
       "mechanismTags": [
-        "デジタル安心感",
-        "対応時間削減"
+        "UXリサーチ",
+        "ABテスト改善"
       ],
-      "url": "https://www.withdesk.com/cases"
+      "url": "https://appmarketinglabo.net/hokuohkurashi-appgrowth/"
     }
   ]
 }
