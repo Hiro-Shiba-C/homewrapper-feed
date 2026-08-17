@@ -1,80 +1,94 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "items": [
     {
-      "id": "4e52483f89f1a9b2",
+      "id": "0a8db24bcda1735f",
       "category": "honmei",
-      "title": "再春館製薬所：「AI肌診断」で“ご自身の肌と向き合うきっかけ”を創出し、初回購入率2倍・利用者数3倍へ",
-      "excerpt": "AI肌診断と「Webと電話の間」をつなぐ体験設計で、新規体験の楽しさと信頼性を両立し、初回購入率を2倍以上に。",
-      "source": "PERFECT（インタビュー記事）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "化粧品／EC",
-      "mechanismTags": [
-        "AI診断による可視化",
-        "体験のパーソナライズ"
-      ],
-      "url": "https://www.perfectcorp.com/ja/business/successstory/saishunkan-jp"
-    },
-    {
-      "id": "1faed370e94d40a3",
-      "category": "honmei",
-      "title": "阪急阪神ホールディングス：データ統合によるOne to One顧客体験の事業横断提供",
-      "excerpt": "鉄道・商業施設・ホテル等各事業の顧客データを統合し、クロスチャネルで一人ひとりに最適化された体験を提供。",
-      "source": "INCUDATA ケーススタディ",
+      "title": "上島珈琲：サブスクリプションモデル×体験設計で注文6倍、定期利用73％増",
+      "excerpt": "日本最大手の珈琲メーカーが新たに導入した柔軟な定期購入モデルや自動コミュニケーション、開封体験の工夫により顧客体験を強化し、注文6倍・定期利用73％増を達成。",
+      "source": "HeyHiHello ケーススタディ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "交通・不動産・ホテル等複合",
+      "industryTag": "飲食",
       "mechanismTags": [
-        "データ統合",
-        "クロスチャネル提案"
+        "サブスク設計",
+        "オンボーディング／アンボクシング"
       ],
-      "url": "https://www.incudata.co.jp/casestudy/HHHD.html"
+      "url": "https://heyhihello.com/work/ueshima"
     },
     {
-      "id": "7b81121b71f3f57b",
-      "category": "ekkyou",
-      "title": "ブルーミー（花のサブスク）：体験に意味づけを重ねた継続設計",
-      "excerpt": "“花が届く体験”にユーザーの“素敵な女性でありたい”という背景を繋ぎ、継続意向と広告効率を向上。",
-      "source": "アプリマーケティング研究所",
+      "id": "7e7f8664e6233655",
+      "category": "honmei",
+      "title": "三井住友カード：Webと電話のチャネル統合で自己解決促進、NPS向上・問合せ減少",
+      "excerpt": "Webとコールセンターの部門を統合し、FAQ強化・クロスチャネルでの顧客データ分析を進めた結果、NPSが改善されメール問い合わせが3分の1に。",
+      "source": "TMJ Global ケーススタディ",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "生活雑貨サブスク",
+      "industryTag": "金融",
       "mechanismTags": [
-        "ユーザー背景の共感設計",
-        "インタビュー文化"
+        "部門統合",
+        "データ連携"
       ],
-      "url": "https://appmarketinglabo.net/bloomee-marketing/"
+      "url": "https://tmj-bpo.com/insights/case-studies/financial-services/transforming-cx-through-integration/"
     },
     {
-      "id": "45094f8eddb9e856",
-      "category": "ekkyou",
-      "title": "カウシェ：非目的買い＋ゲーム性を融合させたEC体験",
-      "excerpt": "デジタル農園ゲームとショッピングを組み合わせ、“非目的買い”の楽しさを設計し、滞在時間6倍・売上16倍に。",
-      "source": "アプリマーケティング研究所",
+      "id": "92d62b26bfc5a6fd",
+      "category": "honmei",
+      "title": "資生堂：PBPs人材とデジタル接点融合によるパーソナライズ体験",
+      "excerpt": "9000人の美容担当者とオンライン相談やAR技術を活用することで店舗とデジタルを融合し、リピート購入やEC売上が増加。",
+      "source": "Accenture ケーススタディ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "EC／小売",
+      "industryTag": "化粧品",
       "mechanismTags": [
-        "ゲーミフィケーション",
-        "非目的体験設計"
+        "オムニチャネル",
+        "パーソナライズ"
       ],
-      "url": "https://appmarketinglabo.net/kauche-appgrowth/"
+      "url": "https://www.accenture.com/gb-en/case-studies/consumer-goods-services/accelerate-personal-beauty-experiences"
     },
     {
-      "id": "db0e0430f1212a48",
+      "id": "36e55ad98df23fd8",
+      "category": "ekkyou",
+      "title": "哈市スタジアム（アトランタ）：モバイルアプリ＋サイネージで試合中情報提供・注文支援",
+      "excerpt": "スタジアムにWi‑Fi／モバイルで座席ビュー再生・注文導線・渋滞案内などを統合し、観戦体験を深化。エンタメ体験の応用可能な設計。",
+      "source": "日本IBM MEXT事例",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "スポーツ・エンタメ",
+      "mechanismTags": [
+        "ライブUX強化",
+        "リアルタイム情報接続"
+      ],
+      "url": "https://www.mext.go.jp/prev_sports/comp/b_menu/shingi/toushin/__icsFiles/afieldfile/2017/09/11/1386876_7.pdf"
+    },
+    {
+      "id": "0a3d2dd1b000d555",
+      "category": "ekkyou",
+      "title": "Shake Shack：ホスピタリティを守りつつキオスク・モバイル自動化を両立する試み",
+      "excerpt": "セルフオーダー・AI導入が進む中、ブランド体験を保ちながらスケール可能な仕組みを模索する飲食チェーンの顧客体験設計。",
+      "source": "HBR Cold Call Podcast",
+      "format": "podcast",
+      "estimatedMinutes": 19,
+      "industryTag": "飲食",
+      "mechanismTags": [
+        "セルフサービス導入",
+        "パーソナライズ"
+      ],
+      "url": "https://hbr.org/podcast/2025/07/shake-shacks-digital-playbook-more-tech-same-hospitality"
+    },
+    {
+      "id": "fb93f77f4314d659",
       "category": "teiten",
-      "title": "北欧、暮らしの道具店：UXリサーチ×ABテストによるアプリ成長施策",
-      "excerpt": "UXリサーチとABテストを組み合わせ、定番バナー・サムネ追加・カテゴリー配置でアプリ購入体験を改善し成長。",
+      "title": "Glasp：800回のオンボーディング改善で持続的にグロースした事例",
+      "excerpt": "累計350万人利用のGlaspが、800回以上オンボーディングを改善し、低コストかつ複利的な成長を実現した具体施策を紹介。",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "ＥＣ／インテリア",
+      "estimatedMinutes": 4,
+      "industryTag": "",
       "mechanismTags": [
-        "UXリサーチ",
-        "ABテスト改善"
+        "オンボーディング改善"
       ],
-      "url": "https://appmarketinglabo.net/hokuohkurashi-appgrowth/"
+      "url": "https://appmarketinglabo.net/list/"
     }
   ]
 }
