@@ -1,94 +1,50 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-19",
   "items": [
     {
-      "id": "0a8db24bcda1735f",
+      "id": "0f7c57a7dca6f65d",
       "category": "honmei",
-      "title": "上島珈琲：サブスクリプションモデル×体験設計で注文6倍、定期利用73％増",
-      "excerpt": "日本最大手の珈琲メーカーが新たに導入した柔軟な定期購入モデルや自動コミュニケーション、開封体験の工夫により顧客体験を強化し、注文6倍・定期利用73％増を達成。",
-      "source": "HeyHiHello ケーススタディ",
+      "title": "経営判断を加速する。データの掛け合わせでF2転換を実現する顧客第一戦略（エディオン」",
+      "excerpt": "エディオンがドコモの会員データと自社データを掛け合わせ、来店動線や競合利用を含めた顧客理解でF2転換などCXを向上させた仕組み",
+      "source": "ドコモマーケティングソリューション",
+      "format": "article",
+      "estimatedMinutes": 10,
+      "industryTag": "小売",
+      "mechanismTags": [
+        "データ統合",
+        "リテールメディア"
+      ],
+      "url": "https://ssw.web.docomo.ne.jp/marketing/article/20260330/"
+    },
+    {
+      "id": "3549d237a69a91e5",
+      "category": "ekkyou",
+      "title": "ショッピングセンターでのアプリ予約とレジレス決済による混雑回避体験",
+      "excerpt": "アプリでレストラン・イベントを事前予約し、無人店舗やレジレスで混雑を回避する購買体験の仕組み設計",
+      "source": "NTTデータビジネスシステムズ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "飲食",
+      "industryTag": "小売／施設運営",
       "mechanismTags": [
-        "サブスク設計",
-        "オンボーディング／アンボクシング"
+        "事前予約",
+        "レジレス"
       ],
-      "url": "https://heyhihello.com/work/ueshima"
+      "url": "https://www.nttdata-bizsys.co.jp/solution-service/business-suite/omnichannel/"
     },
     {
-      "id": "7e7f8664e6233655",
-      "category": "honmei",
-      "title": "三井住友カード：Webと電話のチャネル統合で自己解決促進、NPS向上・問合せ減少",
-      "excerpt": "Webとコールセンターの部門を統合し、FAQ強化・クロスチャネルでの顧客データ分析を進めた結果、NPSが改善されメール問い合わせが3分の1に。",
-      "source": "TMJ Global ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "部門統合",
-        "データ連携"
-      ],
-      "url": "https://tmj-bpo.com/insights/case-studies/financial-services/transforming-cx-through-integration/"
-    },
-    {
-      "id": "92d62b26bfc5a6fd",
-      "category": "honmei",
-      "title": "資生堂：PBPs人材とデジタル接点融合によるパーソナライズ体験",
-      "excerpt": "9000人の美容担当者とオンライン相談やAR技術を活用することで店舗とデジタルを融合し、リピート購入やEC売上が増加。",
-      "source": "Accenture ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "化粧品",
-      "mechanismTags": [
-        "オムニチャネル",
-        "パーソナライズ"
-      ],
-      "url": "https://www.accenture.com/gb-en/case-studies/consumer-goods-services/accelerate-personal-beauty-experiences"
-    },
-    {
-      "id": "36e55ad98df23fd8",
-      "category": "ekkyou",
-      "title": "哈市スタジアム（アトランタ）：モバイルアプリ＋サイネージで試合中情報提供・注文支援",
-      "excerpt": "スタジアムにWi‑Fi／モバイルで座席ビュー再生・注文導線・渋滞案内などを統合し、観戦体験を深化。エンタメ体験の応用可能な設計。",
-      "source": "日本IBM MEXT事例",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "スポーツ・エンタメ",
-      "mechanismTags": [
-        "ライブUX強化",
-        "リアルタイム情報接続"
-      ],
-      "url": "https://www.mext.go.jp/prev_sports/comp/b_menu/shingi/toushin/__icsFiles/afieldfile/2017/09/11/1386876_7.pdf"
-    },
-    {
-      "id": "0a3d2dd1b000d555",
-      "category": "ekkyou",
-      "title": "Shake Shack：ホスピタリティを守りつつキオスク・モバイル自動化を両立する試み",
-      "excerpt": "セルフオーダー・AI導入が進む中、ブランド体験を保ちながらスケール可能な仕組みを模索する飲食チェーンの顧客体験設計。",
-      "source": "HBR Cold Call Podcast",
-      "format": "podcast",
-      "estimatedMinutes": 19,
-      "industryTag": "飲食",
-      "mechanismTags": [
-        "セルフサービス導入",
-        "パーソナライズ"
-      ],
-      "url": "https://hbr.org/podcast/2025/07/shake-shacks-digital-playbook-more-tech-same-hospitality"
-    },
-    {
-      "id": "fb93f77f4314d659",
+      "id": "c1740e5b384b23b5",
       "category": "teiten",
-      "title": "Glasp：800回のオンボーディング改善で持続的にグロースした事例",
-      "excerpt": "累計350万人利用のGlaspが、800回以上オンボーディングを改善し、低コストかつ複利的な成長を実現した具体施策を紹介。",
+      "title": "LIPSが語る検索流入50倍・MAU1,000万人成長のUI最適化とオンボーディング設計",
+      "excerpt": "検索流入中心のWEBとアプリで目的応じたUI最適化、2択によるパーソナライズで継続率や閲覧数を改善した体験変化",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "",
+      "estimatedMinutes": 12,
+      "industryTag": "アプリ",
       "mechanismTags": [
+        "UI目的適応",
         "オンボーディング改善"
       ],
-      "url": "https://appmarketinglabo.net/list/"
+      "url": "https://appmarketinglabo.net/lips-webgrowth/"
     }
   ]
 }
