@@ -1,50 +1,79 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "items": [
     {
-      "id": "0f7c57a7dca6f65d",
+      "id": "31f4bc3cd6333cc4",
       "category": "honmei",
-      "title": "経営判断を加速する。データの掛け合わせでF2転換を実現する顧客第一戦略（エディオン」",
-      "excerpt": "エディオンがドコモの会員データと自社データを掛け合わせ、来店動線や競合利用を含めた顧客理解でF2転換などCXを向上させた仕組み",
-      "source": "ドコモマーケティングソリューション",
+      "title": "Bee順番管理で予約・順番連動による待ち時間ゼロ化を実現した整形外科",
+      "excerpt": "電話予約と待ち番号連携で混雑を平準化し、待ち時間の感覚と実空間の短縮を同時に実現",
+      "source": "3Bees 導入事例",
       "format": "article",
-      "estimatedMinutes": 10,
-      "industryTag": "小売",
+      "estimatedMinutes": 5,
+      "industryTag": "医療・福祉",
       "mechanismTags": [
-        "データ統合",
-        "リテールメディア"
+        "順番管理システム",
+        "待ち時間平準化"
       ],
-      "url": "https://ssw.web.docomo.ne.jp/marketing/article/20260330/"
+      "url": "https://www.3bees.com/customers/voice03.html"
     },
     {
-      "id": "3549d237a69a91e5",
+      "id": "57dc272a4eac9495",
       "category": "ekkyou",
-      "title": "ショッピングセンターでのアプリ予約とレジレス決済による混雑回避体験",
-      "excerpt": "アプリでレストラン・イベントを事前予約し、無人店舗やレジレスで混雑を回避する購買体験の仕組み設計",
-      "source": "NTTデータビジネスシステムズ",
+      "title": "国立病院長崎医療センターのオーダーエントリーシステムで待ち時間短縮",
+      "excerpt": "医師・看護・事務の業務分担と外来フローを再設計し、待ち時間を最大34分短縮",
+      "source": "国立病院長崎医療センター J‑Stage報告",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売／施設運営",
+      "estimatedMinutes": 7,
+      "industryTag": "医療・福祉",
       "mechanismTags": [
-        "事前予約",
-        "レジレス"
+        "運用フロー見直し",
+        "システム導入"
       ],
-      "url": "https://www.nttdata-bizsys.co.jp/solution-service/business-suite/omnichannel/"
+      "url": "https://www.jstage.jst.go.jp/article/jhm2000/4/4/4_4_497/_article/-char/ja"
     },
     {
-      "id": "c1740e5b384b23b5",
+      "id": "d130f3fd7c9e9e61",
+      "category": "ekkyou",
+      "title": "UNIQLOの会話型AI接客「UNIQLO IQ」でショッピング体験を再設計",
+      "excerpt": "チャットで着こなし提案→在庫確認→購入までを一貫提供し、接点の分断を繋ぐ連続体験を実現",
+      "source": "ニューラルオプト AI接客事例15選",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・アパレル",
+      "mechanismTags": [
+        "AI接客",
+        "チャット統合体験"
+      ],
+      "url": "https://neural-opt.com/ai-serving-cases/"
+    },
+    {
+      "id": "6d2a843d0ff89933",
       "category": "teiten",
-      "title": "LIPSが語る検索流入50倍・MAU1,000万人成長のUI最適化とオンボーディング設計",
-      "excerpt": "検索流入中心のWEBとアプリで目的応じたUI最適化、2択によるパーソナライズで継続率や閲覧数を改善した体験変化",
+      "title": "サブスク継続率改善施策まとめ（解約祝福・通知改善・決済成功率向上）",
+      "excerpt": "解約を祝福するコミュニケーションや通知改善、決済成功率向上でサブスクの継続率を高めた複数事例",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 12,
-      "industryTag": "アプリ",
+      "estimatedMinutes": 6,
+      "industryTag": "アプリ／プロダクト",
       "mechanismTags": [
-        "UI目的適応",
-        "オンボーディング改善"
+        "継続率改善施策"
       ],
-      "url": "https://appmarketinglabo.net/lips-webgrowth/"
+      "url": "https://markelabo.com/n/n46a0ce714a8a?gs=7c105ecd9662c"
+    },
+    {
+      "id": "7f95309d4391acef",
+      "category": "teiten",
+      "title": "Cursor社内バイラル施策で企業利用拡大（ARR40億ドル）",
+      "excerpt": "社内バイラル設計によりCursorが企業内で広まり、ARR40億ドルの成長を推進",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "アプリ／プロダクト",
+      "mechanismTags": [
+        "社内バイラル",
+        "グロースモデル"
+      ],
+      "url": "https://markelabo.com/n/n89fbb08dfe1b"
     }
   ]
 }
