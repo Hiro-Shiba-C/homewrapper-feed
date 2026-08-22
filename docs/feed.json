@@ -1,110 +1,33 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "items": [
     {
-      "id": "603cd768f0e9d078",
-      "category": "honmei",
-      "title": "CDPによるオンラインとリアル双方を繋ぐ日産の顧客体験向上",
-      "excerpt": "リアル店舗とオンラインをCDPで一体化し、自走型データ活用で顧客体験を最適化",
-      "source": "INCUDATA ケーススタディ",
+      "id": "dd2bbb515f342635",
+      "category": "ekkyou",
+      "title": "ハウス食品：LINEミニアプリで“棚前想起”をつくるゆるやかなCRM",
+      "excerpt": "接触データ起点でミニアプリ「HOUSE QUEST WORLD」を使い、ブランド想起を自然に促進。",
+      "source": "LINEヤフー for Business",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "食品",
+      "mechanismTags": [
+        "接触体験設計"
+      ],
+      "url": "https://www.lycbiz.com/jp/case-study/line-mini-app/house/"
+    },
+    {
+      "id": "d875831a84425917",
+      "category": "ekkyou",
+      "title": "adidas旗艦店：スポーツ体験とショッピング融合のリテールテイメント",
+      "excerpt": "店舗に観戦スペースやスポーツコートなど体験型施設を設け、訪問そのものを楽しめる場に。",
+      "source": "Grooove ケーススタディ",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "自動車",
+      "industryTag": "小売",
       "mechanismTags": [
-        "CDP導入",
-        "チャネル統合"
+        "体験型空間"
       ],
-      "url": "https://www.incudata.co.jp/casestudy/（日産自動車事例）"
-    },
-    {
-      "id": "6ccd47e856d54333",
-      "category": "honmei",
-      "title": "ジャンカラ／UTAOがデータで“カラオケ体験価値10倍”実現",
-      "excerpt": "カラオケ運営にデータ基盤を導入し、顧客行動に基づく体験向上を10倍とした施策",
-      "source": "INCUDATA ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "エンターテインメント",
-      "mechanismTags": [
-        "データドリブン運用",
-        "顧客理解"
-      ],
-      "url": "https://www.incudata.co.jp/casestudy/（TOAI事例）"
-    },
-    {
-      "id": "d4af2f60198af529",
-      "category": "honmei",
-      "title": "湯快リゾートが3か月でデータ基盤構築、体験改善",
-      "excerpt": "短期間でデータ基盤を整備し、顧客体験の改善と施策最適化を効果的に推進",
-      "source": "INCUDATA ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "宿泊・観光",
-      "mechanismTags": [
-        "データ活用基盤",
-        "施策最適化"
-      ],
-      "url": "https://www.incudata.co.jp/casestudy/（湯快リゾート事例）"
-    },
-    {
-      "id": "691ed949b81e96e4",
-      "category": "ekkyou",
-      "title": "携帯端末×プッシュ通知で待ち時間ストレス90％軽減",
-      "excerpt": "外来患者がスマホで再来受付・進捗確認でき、待ち時間ストレスを大幅に軽減",
-      "source": "J-STAGE／東京大学医学部附属病院 実証研究",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "端末連携",
-        "進捗通知"
-      ],
-      "url": "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article"
-    },
-    {
-      "id": "3aede1bff22161f7",
-      "category": "ekkyou",
-      "title": "クリニック連携基盤で予約・電子カルテ統合し待ち時間45%短縮",
-      "excerpt": "予約システムと電子カルテをAPI統合し、受付効率向上と患者待ち時間大幅短縮",
-      "source": "XECIN 導入事例",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "API連携基盤",
-        "予約最適化"
-      ],
-      "url": "https://xecin.jp/works/medical-a/"
-    },
-    {
-      "id": "7011483b98cf4556",
-      "category": "ekkyou",
-      "title": "院内導線×システム設計で“待ちゼロ”実現のクリニックTEN",
-      "excerpt": "エンジニアと医師が連携し、予約と動線設計を統合して待ち時間ゼロ体験を創出",
-      "source": "SEVENRICH GROUP note",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "導線設計",
-        "システム×現場統合"
-      ],
-      "url": "https://note.com/sevenrich/n/n340e7dfe6005"
-    },
-    {
-      "id": "10d44d79bafd7479",
-      "category": "teiten",
-      "title": "TVer アプリ：オンボーディング簡素化で離脱を1/3に",
-      "excerpt": "TVerアプリでオンボーディング体験を簡素化し離脱率を3分の1に削減した事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "メディア配信",
-      "mechanismTags": [
-        "オンボーディング最適化",
-        "離脱軽減"
-      ],
-      "url": "https://appmarketinglabo.net/list/（TVer事例ページ）"
+      "url": "https://www.grooove.co.jp/case_study_12/"
     }
   ]
 }
