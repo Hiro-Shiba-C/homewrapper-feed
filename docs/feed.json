@@ -1,95 +1,50 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "items": [
     {
-      "id": "7acc29b2ff2769a6",
+      "id": "77f46a947f34b63b",
       "category": "honmei",
-      "title": "Lemonade：AIと行動経済学で保険体験を刷新したビジネスモデル",
-      "excerpt": "保険業界で“ショック的に優れたユーザー体験”を実現。AIと行動経済学で業務を自動化し、仕組みにより顧客満足と効率化を両立。",
-      "source": "INSEAD ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "金融（保険）",
-      "mechanismTags": [
-        "AI自動化",
-        "行動経済学"
-      ],
-      "url": "https://www.insead.edu/faculty-research/publications/case-studies/lemonade-delighting-insurance-customers-ai-and"
-    },
-    {
-      "id": "40d7e14707e64c81",
-      "category": "honmei",
-      "title": "小売大手がCXを16年間維持した高スケールな仕組み",
-      "excerpt": "会員モデル×D2Cの小売企業が、アウトソースCX体制（最大450席）で90％CSAT・安定運用を16年間継続。",
-      "source": "Transcom ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "小売・ライフスタイル",
-      "mechanismTags": [
-        "会員制CX運用",
-        "アウトソース体制"
-      ],
-      "url": "https://transcom.com/case-studies/retail-leader-awesome-CX"
-    },
-    {
-      "id": "8dec70c2a57262d1",
-      "category": "honmei",
-      "title": "B2B SaaSでUX再設計により解約率38％削減した事例",
-      "excerpt": "中堅B2B SaaSが6か月のUX再設計で、解約38％減・NPS大幅向上・ARR2.1MUSD回復を達成した具体的施策。",
-      "source": "Webskyne Technologies ケーススタディ",
+      "title": "サービスブループリントで輸送障害時の体験と業務を設計したJR西日本の鉄道体験改善",
+      "excerpt": "遅延時の顧客と駅員の情報伝達を、観察調査とサービスブループリントの可視化で業務運用と体験を再設計",
+      "source": "コンセント 事例紹介",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ソフトウェア（SaaS）",
-      "mechanismTags": [
-        "UX再設計",
-        "定量的診断"
-      ],
-      "url": "https://www.webskyne.com/posts/how-a-saas-startup-reduced-churn-by-38-through-strategic-ux-redesign"
-    },
-    {
-      "id": "5173011ed7f2cca4",
-      "category": "ekkyou",
-      "title": "警察手続きをデジタル化し精神的負担を軽減",
-      "excerpt": "学・官・産の連携で保健所業務をDX。LINE＋チャットボットで手続きUXを再設計し、現場業務の負担・不安を削減。",
-      "source": "京都大学シンポジウム案内（医療・行政）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "行政・医療",
-      "mechanismTags": [
-        "チャットボット導入",
-        "業務DX"
-      ],
-      "url": "https://www.med.kyoto-u.ac.jp/event/8421/"
-    },
-    {
-      "id": "e28b43d132b74a53",
-      "category": "ekkyou",
-      "title": "Blue Bottleカフェでの注文不安解消UX設計",
-      "excerpt": "Blue Bottle店舗で注文時の“注文不安”に着目し、ミニキオスクによる説明設計で接客体験を改善。",
-      "source": "Stephen Boatright サービスデザインケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食（カフェ）",
+      "industryTag": "交通",
       "mechanismTags": [
         "サービスブループリント",
-        "タブレット案内"
+        "現場観察"
       ],
-      "url": "https://stephenboatright.com/projects/ux-design-case-study-blue-bottle/"
+      "url": "https://www.concentinc.jp/works/jrw_servicedesign_201908/"
     },
     {
-      "id": "064d3f902ad6dd45",
-      "category": "teiten",
-      "title": "なぜ「シャドテン」は年間20億円サブスクに成長できたか",
-      "excerpt": "LINEで検証→アプリ化、インフルエンサー×効果検証動画で認知拡大。学習体験とオペレーションを仕組み化した成長プロセス。",
+      "id": "fa2401ab498806de",
+      "category": "ekkyou",
+      "title": "UXリサーチを元に継続率を伸ばす施策を連続実行したDuolingoの仕組み",
+      "excerpt": "「目標宣言」「喜びを感じる瞬間」「年間レビュー」など、UX改善チームの仕組みで継続率を向上",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "教育（語学）",
+      "estimatedMinutes": 6,
+      "industryTag": "教育",
       "mechanismTags": [
-        "人力→アプリ化オペレーション",
-        "インフルエンサー認知戦略"
+        "ABテスト文化",
+        "Delightチーム"
       ],
-      "url": "https://markelabo.com/n/n4978ad140741"
+      "url": "https://appmarketinglabo.net/duolingo-growth2024/"
+    },
+    {
+      "id": "8cd2b94ee8b94d0e",
+      "category": "ekkyou",
+      "title": "「話したい」ボタンに変えたことでマッチング精度が上がったMeetyのUX改善",
+      "excerpt": "“気になる”から“話したい”に文言変更し、心理的ハードルを明確にしてマッチングの質を改善",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "ヘルスケア・キャリア",
+      "mechanismTags": [
+        "UXライティング変更",
+        "心理的ハードル設計"
+      ],
+      "url": "https://appmarketinglabo.net/meety-growth/"
     }
   ]
 }
