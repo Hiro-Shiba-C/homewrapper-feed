@@ -1,50 +1,80 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "items": [
     {
-      "id": "77f46a947f34b63b",
+      "id": "1d9ffba6cfab6984",
       "category": "honmei",
-      "title": "サービスブループリントで輸送障害時の体験と業務を設計したJR西日本の鉄道体験改善",
-      "excerpt": "遅延時の顧客と駅員の情報伝達を、観察調査とサービスブループリントの可視化で業務運用と体験を再設計",
-      "source": "コンセント 事例紹介",
+      "title": "Uber Eats：地域文化を反映したジャーニー設計でCX統一とKPI連動の仕組み",
+      "excerpt": "Uber Eats が地域ごとの生活様式を反映させた顧客ジャーニー設計と定量・定性のインパクト測定でCXを強化する仕組みが明示されている。",
+      "source": "メンバーズ コラム",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "交通",
+      "estimatedMinutes": 7,
+      "industryTag": "飲食/配送",
       "mechanismTags": [
-        "サービスブループリント",
-        "現場観察"
+        "カスタマージャーニー設計",
+        "定量・定性測定による仕組み"
       ],
-      "url": "https://www.concentinc.jp/works/jrw_servicedesign_201908/"
+      "url": "https://www.members.co.jp/column/20250428-service-design"
     },
     {
-      "id": "fa2401ab498806de",
-      "category": "ekkyou",
-      "title": "UXリサーチを元に継続率を伸ばす施策を連続実行したDuolingoの仕組み",
-      "excerpt": "「目標宣言」「喜びを感じる瞬間」「年間レビュー」など、UX改善チームの仕組みで継続率を向上",
-      "source": "アプリマーケティング研究所",
+      "id": "3eef5505d4894fd0",
+      "category": "honmei",
+      "title": "IKEA／ANA／Monzo：裏側仕組みまで含めた統合的サービス設計事例",
+      "excerpt": "IKEA、ANA、Monzo の体験設計が、UIだけでなく運用・組織・データ基盤まで含めた仕組みとして再設計されている点に注目。",
+      "source": "fake.inc ブログ",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "教育",
+      "estimatedMinutes": 8,
+      "industryTag": "小売／旅行／金融",
       "mechanismTags": [
-        "ABテスト文化",
-        "Delightチーム"
+        "組織横断体制",
+        "データ基盤"
       ],
-      "url": "https://appmarketinglabo.net/duolingo-growth2024/"
+      "url": "https://www.fake.inc/blog/ServiceDesign"
     },
     {
-      "id": "8cd2b94ee8b94d0e",
+      "id": "11397ed83755ea26",
       "category": "ekkyou",
-      "title": "「話したい」ボタンに変えたことでマッチング精度が上がったMeetyのUX改善",
-      "excerpt": "“気になる”から“話したい”に文言変更し、心理的ハードルを明確にしてマッチングの質を改善",
-      "source": "アプリマーケティング研究所",
+      "title": "e‑Gov：行政サービスでステークホルダー巻き込み UX設計キャッチ＆トライ",
+      "excerpt": "行政手続きUX向上のため、社会保険労務士や省庁職員など多ステークホルダーによるワークショップ＋ユーザーテストの仕組みが具体化。",
+      "source": "e‑Govポータル",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "行政",
+      "mechanismTags": [
+        "ワークショップ型共創",
+        "ユーザーテスト"
+      ],
+      "url": "https://www.e‑gov.go.jp/about‑site/e‑gov/servicedesign.html"
+    },
+    {
+      "id": "0925d0f477050b6f",
+      "category": "ekkyou",
+      "title": "Oh My Glass：自宅試着で眼鏡選びUXを再設計",
+      "excerpt": "Oh My Glass は試着眼鏡を複数自宅で試せる設計により、店舗での緊張や時間制約を解消する体験設計が秀逸。",
+      "source": "つわものどもがゆめのあと",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "ヘルスケア・キャリア",
+      "industryTag": "小売",
       "mechanismTags": [
-        "UXライティング変更",
-        "心理的ハードル設計"
+        "自宅試着",
+        "心理的負荷軽減"
       ],
-      "url": "https://appmarketinglabo.net/meety-growth/"
+      "url": "https://ryoharaguchi.jp/book/service‑ux/"
+    },
+    {
+      "id": "5ec987824b9cdcff",
+      "category": "teiten",
+      "title": "SUZURI：日次作成者数2倍へ成長させた施策3つ",
+      "excerpt": "プリントオンデマンド「SUZURI」がアイテム新規作成者数を日次で2倍にした成長施策3つの施策とその仕組みを具体的に解説。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "アプリ",
+      "mechanismTags": [
+        "成長施策",
+        "作成フロー改善"
+      ],
+      "url": "https://appmarketinglabo.net/"
     }
   ]
 }
