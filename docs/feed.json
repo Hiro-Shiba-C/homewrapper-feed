@@ -1,80 +1,94 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "items": [
     {
-      "id": "1d9ffba6cfab6984",
+      "id": "fdd907927c37f323",
       "category": "honmei",
-      "title": "Uber Eats：地域文化を反映したジャーニー設計でCX統一とKPI連動の仕組み",
-      "excerpt": "Uber Eats が地域ごとの生活様式を反映させた顧客ジャーニー設計と定量・定性のインパクト測定でCXを強化する仕組みが明示されている。",
-      "source": "メンバーズ コラム",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "飲食/配送",
-      "mechanismTags": [
-        "カスタマージャーニー設計",
-        "定量・定性測定による仕組み"
-      ],
-      "url": "https://www.members.co.jp/column/20250428-service-design"
-    },
-    {
-      "id": "3eef5505d4894fd0",
-      "category": "honmei",
-      "title": "IKEA／ANA／Monzo：裏側仕組みまで含めた統合的サービス設計事例",
-      "excerpt": "IKEA、ANA、Monzo の体験設計が、UIだけでなく運用・組織・データ基盤まで含めた仕組みとして再設計されている点に注目。",
-      "source": "fake.inc ブログ",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "小売／旅行／金融",
-      "mechanismTags": [
-        "組織横断体制",
-        "データ基盤"
-      ],
-      "url": "https://www.fake.inc/blog/ServiceDesign"
-    },
-    {
-      "id": "11397ed83755ea26",
-      "category": "ekkyou",
-      "title": "e‑Gov：行政サービスでステークホルダー巻き込み UX設計キャッチ＆トライ",
-      "excerpt": "行政手続きUX向上のため、社会保険労務士や省庁職員など多ステークホルダーによるワークショップ＋ユーザーテストの仕組みが具体化。",
-      "source": "e‑Govポータル",
+      "title": "Realとオンライン融合で最高のCX：日産自動車のCDP自走化事例",
+      "excerpt": "CDP導入によりリアルとオンラインを統合し、顧客体験を組織横断で自走できる仕組みを構築した事例。",
+      "source": "INCUDATA ケーススタディ（日産自動車）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "行政",
+      "industryTag": "自動車",
       "mechanismTags": [
-        "ワークショップ型共創",
-        "ユーザーテスト"
+        "CDP導入",
+        "チャネル統合"
       ],
-      "url": "https://www.e‑gov.go.jp/about‑site/e‑gov/servicedesign.html"
+      "url": "https://www.incudata.co.jp/casestudy/"
     },
     {
-      "id": "0925d0f477050b6f",
-      "category": "ekkyou",
-      "title": "Oh My Glass：自宅試着で眼鏡選びUXを再設計",
-      "excerpt": "Oh My Glass は試着眼鏡を複数自宅で試せる設計により、店舗での緊張や時間制約を解消する体験設計が秀逸。",
-      "source": "つわものどもがゆめのあと",
+      "id": "772ada952b469db3",
+      "category": "honmei",
+      "title": "顧客データ統合によるストレスフリーな航空体験：航空業界CX基盤構築",
+      "excerpt": "顧客・運行・問い合わせ等データを仮想基盤で統合し、プッシュ通知や情報連携で搭乗体験を最適化。",
+      "source": "NTT（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売",
+      "industryTag": "交通・航空",
       "mechanismTags": [
-        "自宅試着",
-        "心理的負荷軽減"
+        "仮想データ統合",
+        "リアルタイム通知"
       ],
-      "url": "https://ryoharaguchi.jp/book/service‑ux/"
+      "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/business/services/data-utilization/dxplatform/sdpf/simulation/pdf/01.pdf"
     },
     {
-      "id": "5ec987824b9cdcff",
-      "category": "teiten",
-      "title": "SUZURI：日次作成者数2倍へ成長させた施策3つ",
-      "excerpt": "プリントオンデマンド「SUZURI」がアイテム新規作成者数を日次で2倍にした成長施策3つの施策とその仕組みを具体的に解説。",
+      "id": "d50f0ef4083fd642",
+      "category": "honmei",
+      "title": "KARTE活用で天候連動スタイリング提案、CVR2倍達成",
+      "excerpt": "現在地の天候情報を組み合わせたパーソナルスタイリング提案施策で購入率2倍、詳細遷移率1.3倍を実現。",
+      "source": "KARTE CX Clip",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "小売",
+      "mechanismTags": [
+        "天候連動パーソナライゼーション"
+      ],
+      "url": "https://cxclip.karte.io/casestudy/case/"
+    },
+    {
+      "id": "7614d42bf676a757",
+      "category": "ekkyou",
+      "title": "飲食モバイルオーダー体験最適化：現場観察でカート行動を改善",
+      "excerpt": "現場でユーザー行動を観察し、「未注文のままカートに残す」理解誤認に対策を入れて注文体験を改善。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食",
+      "mechanismTags": [
+        "現場観察",
+        "誤認認識UI改善"
+      ],
+      "url": "https://appmarketinglabo.net/dinii-growth/"
+    },
+    {
+      "id": "370c956c9de8e061",
+      "category": "ekkyou",
+      "title": "レンティオ：返却UX強化とポップアップ導入でCVR1.4倍化",
+      "excerpt": "不安軽減の自己紹介ポップアップ導入と返却UX最適化で、CVRやリピート率が向上したレンタルサービス事例。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・レンタル",
+      "mechanismTags": [
+        "導入時説明ポップアップ",
+        "返却体験改善"
+      ],
+      "url": "https://appmarketinglabo.net/rentio-marketing/"
+    },
+    {
+      "id": "31e0d8d4198a31f9",
+      "category": "ekkyou",
+      "title": "家族アルバム「みてね」ユーザーテストで共感体験設計を深化",
+      "excerpt": "ユーザーテストにより「今日を共有したい」を発見、UIを変更し高評価率70〜80％に向上させた事例。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "アプリ",
+      "industryTag": "写真・コミュニケーション",
       "mechanismTags": [
-        "成長施策",
-        "作成フロー改善"
+        "ユーザーテスト",
+        "体験仮説検証"
       ],
-      "url": "https://appmarketinglabo.net/"
+      "url": "https://appmarketinglabo.net/?p=30530"
     }
   ]
 }
