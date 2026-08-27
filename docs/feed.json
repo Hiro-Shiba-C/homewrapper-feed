@@ -1,94 +1,80 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-28",
   "items": [
     {
-      "id": "fdd907927c37f323",
+      "id": "ddaba493842aacb7",
       "category": "honmei",
-      "title": "Realとオンライン融合で最高のCX：日産自動車のCDP自走化事例",
-      "excerpt": "CDP導入によりリアルとオンラインを統合し、顧客体験を組織横断で自走できる仕組みを構築した事例。",
-      "source": "INCUDATA ケーススタディ（日産自動車）",
+      "title": "丸井ウェブチャンネルのパーソナライズ基盤を進化させた刷新",
+      "excerpt": "レコメンドエンジンを単体変更するのではなく、顧客体験を継続改善できるパーソナライズ基盤へ仕組みを刷新したEC事例。",
+      "source": "InsightX（導入事例）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "自動車",
+      "industryTag": "小売・EC",
       "mechanismTags": [
-        "CDP導入",
-        "チャネル統合"
+        "パーソナライズ基盤",
+        "継続改善体制"
       ],
-      "url": "https://www.incudata.co.jp/casestudy/"
+      "url": "https://insightx.tech/cases/marui/"
     },
     {
-      "id": "772ada952b469db3",
+      "id": "b7d954872cb86752",
       "category": "honmei",
-      "title": "顧客データ統合によるストレスフリーな航空体験：航空業界CX基盤構築",
-      "excerpt": "顧客・運行・問い合わせ等データを仮想基盤で統合し、プッシュ通知や情報連携で搭乗体験を最適化。",
-      "source": "NTT（ケーススタディ）",
+      "title": "三井住友海上のCX向けデータ基盤整備によるUX改善定着",
+      "excerpt": "GA4・GTMなど導入により、現場が自律的に仮説検証できるデータ民主化とUX改善の仕組みを構築。",
+      "source": "プリンシプル（導入事例）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "交通・航空",
+      "estimatedMinutes": 7,
+      "industryTag": "金融・保険",
       "mechanismTags": [
-        "仮想データ統合",
-        "リアルタイム通知"
+        "データドリブン組織",
+        "計測・可視化基盤"
       ],
-      "url": "https://www.ntt.com/content/dam/nttcom/hq/jp/business/services/data-utilization/dxplatform/sdpf/simulation/pdf/01.pdf"
+      "url": "https://www.principle-c.com/case-study/ms-ins/"
     },
     {
-      "id": "d50f0ef4083fd642",
-      "category": "honmei",
-      "title": "KARTE活用で天候連動スタイリング提案、CVR2倍達成",
-      "excerpt": "現在地の天候情報を組み合わせたパーソナルスタイリング提案施策で購入率2倍、詳細遷移率1.3倍を実現。",
-      "source": "KARTE CX Clip",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "小売",
-      "mechanismTags": [
-        "天候連動パーソナライゼーション"
-      ],
-      "url": "https://cxclip.karte.io/casestudy/case/"
-    },
-    {
-      "id": "7614d42bf676a757",
+      "id": "36ea6e8f18ee9635",
       "category": "ekkyou",
-      "title": "飲食モバイルオーダー体験最適化：現場観察でカート行動を改善",
-      "excerpt": "現場でユーザー行動を観察し、「未注文のままカートに残す」理解誤認に対策を入れて注文体験を改善。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食",
-      "mechanismTags": [
-        "現場観察",
-        "誤認認識UI改善"
-      ],
-      "url": "https://appmarketinglabo.net/dinii-growth/"
-    },
-    {
-      "id": "370c956c9de8e061",
-      "category": "ekkyou",
-      "title": "レンティオ：返却UX強化とポップアップ導入でCVR1.4倍化",
-      "excerpt": "不安軽減の自己紹介ポップアップ導入と返却UX最適化で、CVRやリピート率が向上したレンタルサービス事例。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・レンタル",
-      "mechanismTags": [
-        "導入時説明ポップアップ",
-        "返却体験改善"
-      ],
-      "url": "https://appmarketinglabo.net/rentio-marketing/"
-    },
-    {
-      "id": "31e0d8d4198a31f9",
-      "category": "ekkyou",
-      "title": "家族アルバム「みてね」ユーザーテストで共感体験設計を深化",
-      "excerpt": "ユーザーテストにより「今日を共有したい」を発見、UIを変更し高評価率70〜80％に向上させた事例。",
-      "source": "アプリマーケティング研究所",
+      "title": "クラブツーリズムのNPSと基幹システム連携による全社CX文化構築",
+      "excerpt": "旅行業でNPSを調査・ジャーニー分析し、基幹システムと連携することで現場から全社で顧客体験に向き合う文化を形成した事例。",
+      "source": "EmotionTech（導入事例）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "写真・コミュニケーション",
+      "industryTag": "観光・旅行",
       "mechanismTags": [
-        "ユーザーテスト",
-        "体験仮説検証"
+        "NPS活用",
+        "データ連携自動化"
       ],
-      "url": "https://appmarketinglabo.net/?p=30530"
+      "url": "https://emotion-tech.co.jp/case/2026/club-tourism/"
+    },
+    {
+      "id": "26fd5bce80db67ee",
+      "category": "ekkyou",
+      "title": "ANA Xの旅行予約におけるOnboarding導入で問い合わせ3割削減",
+      "excerpt": "複雑な予約プロセスに対し、操作ガイドをノーコードで設置する仕組みにより、満足度向上と問い合わせ削減を同時達成。",
+      "source": "Onboarding（ケース事例）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "旅行・航空",
+      "mechanismTags": [
+        "ノーコード操作ガイド",
+        "エフォートレス体験"
+      ],
+      "url": "https://onboarding.co.jp/case/20250409"
+    },
+    {
+      "id": "30732931043db913",
+      "category": "ekkyou",
+      "title": "DECENCIAによる部門横断型UXワークショップで顧客体験視点に転換",
+      "excerpt": "スキンケアブランドが施策議論中心から、複数部門横断で“体験の場”としてECサイトを再構築するUXワークショップを実施。",
+      "source": "sonicmoov（導入事例）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "化粧品・美容",
+      "mechanismTags": [
+        "部門横断ワークショップ",
+        "体験視点議論"
+      ],
+      "url": "https://sonicmoov.com/works/decencia"
     }
   ]
 }
