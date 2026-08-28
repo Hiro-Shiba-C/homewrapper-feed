@@ -1,80 +1,50 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "items": [
     {
-      "id": "ddaba493842aacb7",
+      "id": "12e9591c735dc090",
       "category": "honmei",
-      "title": "丸井ウェブチャンネルのパーソナライズ基盤を進化させた刷新",
-      "excerpt": "レコメンドエンジンを単体変更するのではなく、顧客体験を継続改善できるパーソナライズ基盤へ仕組みを刷新したEC事例。",
-      "source": "InsightX（導入事例）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売・EC",
-      "mechanismTags": [
-        "パーソナライズ基盤",
-        "継続改善体制"
-      ],
-      "url": "https://insightx.tech/cases/marui/"
-    },
-    {
-      "id": "b7d954872cb86752",
-      "category": "honmei",
-      "title": "三井住友海上のCX向けデータ基盤整備によるUX改善定着",
-      "excerpt": "GA4・GTMなど導入により、現場が自律的に仮説検証できるデータ民主化とUX改善の仕組みを構築。",
-      "source": "プリンシプル（導入事例）",
+      "title": "UX起点でDXを一気通貫に──長瀬産業のWeb刷新と営業連携による顧客体験改革",
+      "excerpt": "化学系商社・長瀬産業がWebサイト刷新を契機に、顧客行動データを活用したMA導入とインサイドセールス組織構築で顧客体験を再設計。",
+      "source": "博報堂アイ・スタジオ Digital Creative Blog Whale",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "金融・保険",
+      "industryTag": "製造・商社",
       "mechanismTags": [
-        "データドリブン組織",
-        "計測・可視化基盤"
+        "顧客行動データ活用",
+        "営業連携組織構築"
       ],
-      "url": "https://www.principle-c.com/case-study/ms-ins/"
+      "url": "https://www.i-studio.co.jp/whale/dx-ux/"
     },
     {
-      "id": "36ea6e8f18ee9635",
+      "id": "8408294e308d9c8f",
       "category": "ekkyou",
-      "title": "クラブツーリズムのNPSと基幹システム連携による全社CX文化構築",
-      "excerpt": "旅行業でNPSを調査・ジャーニー分析し、基幹システムと連携することで現場から全社で顧客体験に向き合う文化を形成した事例。",
-      "source": "EmotionTech（導入事例）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "観光・旅行",
-      "mechanismTags": [
-        "NPS活用",
-        "データ連携自動化"
-      ],
-      "url": "https://emotion-tech.co.jp/case/2026/club-tourism/"
-    },
-    {
-      "id": "26fd5bce80db67ee",
-      "category": "ekkyou",
-      "title": "ANA Xの旅行予約におけるOnboarding導入で問い合わせ3割削減",
-      "excerpt": "複雑な予約プロセスに対し、操作ガイドをノーコードで設置する仕組みにより、満足度向上と問い合わせ削減を同時達成。",
-      "source": "Onboarding（ケース事例）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "旅行・航空",
-      "mechanismTags": [
-        "ノーコード操作ガイド",
-        "エフォートレス体験"
-      ],
-      "url": "https://onboarding.co.jp/case/20250409"
-    },
-    {
-      "id": "30732931043db913",
-      "category": "ekkyou",
-      "title": "DECENCIAによる部門横断型UXワークショップで顧客体験視点に転換",
-      "excerpt": "スキンケアブランドが施策議論中心から、複数部門横断で“体験の場”としてECサイトを再構築するUXワークショップを実施。",
-      "source": "sonicmoov（導入事例）",
+      "title": "スシローの「デジロー」で回転寿司体験にDXとエンタメ融合",
+      "excerpt": "大型ディスプレイ注文「デジロー」で娯楽性と利便性を両立し、Auto Waiterも導入。待ち時間や接客効率を改善。",
+      "source": "あきんどスシロー／関連報道",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "化粧品・美容",
+      "industryTag": "飲食",
       "mechanismTags": [
-        "部門横断ワークショップ",
-        "体験視点議論"
+        "タッチUIエンタメ化",
+        "専用レーン配送"
       ],
-      "url": "https://sonicmoov.com/works/decencia"
+      "url": "https://www.akindo-sushiro.co.jp/digiro/"
+    },
+    {
+      "id": "4a60d04a2ba593a4",
+      "category": "teiten",
+      "title": "ポップ設置で利用件数1.2倍に──「スムーズ」店舗でのUXリサーチ起点のグロース施策",
+      "excerpt": "店舗にポップ設置したUXリサーチ起点の改善で利用件数1.2倍。プロトタイピングや試作品活用も効いた成長事例。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "アプリ/EC",
+      "mechanismTags": [
+        "現場ポップ活用",
+        "UXリサーチ起点"
+      ],
+      "url": "https://appmarketinglabo.net"
     }
   ]
 }
