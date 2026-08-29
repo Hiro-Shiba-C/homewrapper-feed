@@ -2,49 +2,79 @@
   "date": "2026-08-29",
   "items": [
     {
-      "id": "12e9591c735dc090",
+      "id": "8455ee63f3b664ca",
       "category": "honmei",
-      "title": "UX起点でDXを一気通貫に──長瀬産業のWeb刷新と営業連携による顧客体験改革",
-      "excerpt": "化学系商社・長瀬産業がWebサイト刷新を契機に、顧客行動データを活用したMA導入とインサイドセールス組織構築で顧客体験を再設計。",
-      "source": "博報堂アイ・スタジオ Digital Creative Blog Whale",
+      "title": "血管撮影システムTrinias (Opera)における操作ストレス軽減UX設計",
+      "excerpt": "医療従事者がストレスなく操作できるよう、操作ワークフローとコンソールUXの改善プロセスを詳細に紹介",
+      "source": "島津評論（島津製作所）",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "製造・商社",
+      "estimatedMinutes": 6,
+      "industryTag": "医療機器",
       "mechanismTags": [
-        "顧客行動データ活用",
-        "営業連携組織構築"
+        "ワークフロー設計",
+        "ストレスフリーUI"
       ],
-      "url": "https://www.i-studio.co.jp/whale/dx-ux/"
+      "url": "https://www.shimadzu.co.jp/products/tec_news/srv80_12/report05.html"
     },
     {
-      "id": "8408294e308d9c8f",
+      "id": "28cf47a1596cb96a",
+      "category": "honmei",
+      "title": "超音波診断装置“SONIMAGE MX1”における体験中心のインハウスUX設計",
+      "excerpt": "クレードルによる配線一括化など、医療現場の業務体験を支える製品‐UXの具体設計を紹介",
+      "source": "Cocoda",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療機器",
+      "mechanismTags": [
+        "体験中心デザイン",
+        "クレードル設計"
+      ],
+      "url": "https://cocoda.design/hiromiya/p/p407dd22b68f2"
+    },
+    {
+      "id": "4196881fad0d3d64",
+      "category": "honmei",
+      "title": "服薬管理アプリ「吸入サポート」で迷わず続けられるUX設計",
+      "excerpt": "情報表示と操作しやすさを両立、音検知トレーニングや動画・達成感演出による服薬継続体験を設計",
+      "source": "株式会社ジークス",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "音検知フィードバック",
+        "動画＋モチベーション設計"
+      ],
+      "url": "https://www.zyyx.jp/works/13962000/"
+    },
+    {
+      "id": "ed2dc646b592c974",
       "category": "ekkyou",
-      "title": "スシローの「デジロー」で回転寿司体験にDXとエンタメ融合",
-      "excerpt": "大型ディスプレイ注文「デジロー」で娯楽性と利便性を両立し、Auto Waiterも導入。待ち時間や接客効率を改善。",
-      "source": "あきんどスシロー／関連報道",
+      "title": "三菱電機による病院UXエスノグラフィー調査と研修実施事例",
+      "excerpt": "医療機関でエスノグラフィー調査を行い、UX人材育成を兼ねて現場改善の自走体制構築を支援",
+      "source": "DESIGN α（三菱電機）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "飲食",
+      "industryTag": "医療・福祉",
       "mechanismTags": [
-        "タッチUIエンタメ化",
-        "専用レーン配送"
+        "現地観察調査",
+        "UX人材育成"
       ],
-      "url": "https://www.akindo-sushiro.co.jp/digiro/"
+      "url": "https://designalpha.jp/project/ethnography-mitsubishielectric/"
     },
     {
-      "id": "4a60d04a2ba593a4",
-      "category": "teiten",
-      "title": "ポップ設置で利用件数1.2倍に──「スムーズ」店舗でのUXリサーチ起点のグロース施策",
-      "excerpt": "店舗にポップ設置したUXリサーチ起点の改善で利用件数1.2倍。プロトタイピングや試作品活用も効いた成長事例。",
-      "source": "アプリマーケティング研究所",
+      "id": "dd5a804b93e88115",
+      "category": "ekkyou",
+      "title": "電子版お薬手帳『お薬手帳プラス』のUI/UXを一貫支援したDX事例",
+      "excerpt": "処方箋送信・服薬確認などスマホで完結、要件定義から開発・保守までUX視点で一気通貫支援",
+      "source": "メディエイド",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "アプリ/EC",
+      "industryTag": "医療・福祉",
       "mechanismTags": [
-        "現場ポップ活用",
-        "UXリサーチ起点"
+        "ワンストップ開発",
+        "スマホUX"
       ],
-      "url": "https://appmarketinglabo.net"
+      "url": "https://services.mediaid.co.jp/linq-dx/si"
     }
   ]
 }
