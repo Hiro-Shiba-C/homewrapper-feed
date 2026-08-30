@@ -1,80 +1,95 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "items": [
     {
-      "id": "8455ee63f3b664ca",
+      "id": "4b2ad8df2f90021f",
       "category": "honmei",
-      "title": "血管撮影システムTrinias (Opera)における操作ストレス軽減UX設計",
-      "excerpt": "医療従事者がストレスなく操作できるよう、操作ワークフローとコンソールUXの改善プロセスを詳細に紹介",
-      "source": "島津評論（島津製作所）",
+      "title": "トヨタの統合サービス体験「Koto」—デジタルキーとオンライン予約を融合",
+      "excerpt": "オンラインショップと非接触デジタルキーを融合し、予約・アクセス・購入を一体化した車所有体験を再設計。",
+      "source": "Ricky Liu Design（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療機器",
+      "industryTag": "自動車",
       "mechanismTags": [
-        "ワークフロー設計",
-        "ストレスフリーUI"
+        "デジタルキー連携",
+        "オンライン予約統合"
       ],
-      "url": "https://www.shimadzu.co.jp/products/tec_news/srv80_12/report05.html"
+      "url": "https://rickyliudesign.com/koto.html"
     },
     {
-      "id": "28cf47a1596cb96a",
+      "id": "c21042aed85f473a",
       "category": "honmei",
-      "title": "超音波診断装置“SONIMAGE MX1”における体験中心のインハウスUX設計",
-      "excerpt": "クレードルによる配線一括化など、医療現場の業務体験を支える製品‐UXの具体設計を紹介",
-      "source": "Cocoda",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療機器",
-      "mechanismTags": [
-        "体験中心デザイン",
-        "クレードル設計"
-      ],
-      "url": "https://cocoda.design/hiromiya/p/p407dd22b68f2"
-    },
-    {
-      "id": "4196881fad0d3d64",
-      "category": "honmei",
-      "title": "服薬管理アプリ「吸入サポート」で迷わず続けられるUX設計",
-      "excerpt": "情報表示と操作しやすさを両立、音検知トレーニングや動画・達成感演出による服薬継続体験を設計",
-      "source": "株式会社ジークス",
+      "title": "BOOK OFF アプリでレジ前UX改善とオペレーション効率化",
+      "excerpt": "アプリ内調査からUX改善を行い、クーポン利用時の操作を簡潔化し、店舗スタッフの業務も効率化。",
+      "source": "アイリッジ（導入事例）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
+      "industryTag": "小売",
       "mechanismTags": [
-        "音検知フィードバック",
-        "動画＋モチベーション設計"
+        "UXリサーチによるUI改善",
+        "店舗オペレーション連携"
       ],
-      "url": "https://www.zyyx.jp/works/13962000/"
+      "url": "https://iridge.jp/works/case_bookoff/"
     },
     {
-      "id": "ed2dc646b592c974",
+      "id": "ceef81f1d3425d4c",
       "category": "ekkyou",
-      "title": "三菱電機による病院UXエスノグラフィー調査と研修実施事例",
-      "excerpt": "医療機関でエスノグラフィー調査を行い、UX人材育成を兼ねて現場改善の自走体制構築を支援",
-      "source": "DESIGN α（三菱電機）",
+      "title": "キッザニア、リアル体験を支えるデジタル共創チームの取り組み",
+      "excerpt": "リアルな子どもの職業体験をアプリ・サイトで支援。複雑なシステム連携とハイブリッドなチーム運営が鍵。",
+      "source": "グロースエクスパートナーズ（インタビュー記事）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療・福祉",
+      "estimatedMinutes": 7,
+      "industryTag": "教育・エンタメ",
       "mechanismTags": [
-        "現地観察調査",
-        "UX人材育成"
+        "ハイブリッドチーム共創",
+        "デジタルインフラ"
       ],
-      "url": "https://designalpha.jp/project/ethnography-mitsubishielectric/"
+      "url": "https://www.gxp-group.co.jp/case-study/kcj-group"
     },
     {
-      "id": "dd5a804b93e88115",
+      "id": "5d6d1aa5f6c426d7",
       "category": "ekkyou",
-      "title": "電子版お薬手帳『お薬手帳プラス』のUI/UXを一貫支援したDX事例",
-      "excerpt": "処方箋送信・服薬確認などスマホで完結、要件定義から開発・保守までUX視点で一気通貫支援",
-      "source": "メディエイド",
+      "title": "NTTデータ×Starによる車載コンシェルジュ構想",
+      "excerpt": "移動中にAIが目的地・サービスを提案する未来の車内コンシェルジュ。ユーザージャーニーから映像プロトタイプまで提示。",
+      "source": "Star Case Study（動画／記事）",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "交通・モビリティ",
+      "mechanismTags": [
+        "インカーAIアシスタント",
+        "サービス接続設計"
+      ],
+      "url": "https://star.global/cases/ntt-data/"
+    },
+    {
+      "id": "7bd3b708d90bad67",
+      "category": "ekkyou",
+      "title": "建設業向けMixed Realityによる顧客体験DX",
+      "excerpt": "Microsoft協業でMRを導入し、関係者が遠隔で建設現場を人間スケールで確認できる顧客・社員体験の改革。",
+      "source": "J‑Stage 論文（学術記事）",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "建設・建築",
+      "mechanismTags": [
+        "Mixed Reality活用",
+        "顧客と社員の同時体験"
+      ],
+      "url": "https://www.jstage.jst.go.jp/article/marketing/41/3/41_2022.010/_article/-char/en"
+    },
+    {
+      "id": "393a4f3128038e91",
+      "category": "teiten",
+      "title": "売上66億円「北欧、暮らしの道具店」のUXリサーチが支える顧客理解",
+      "excerpt": "UXリサーチに基づきデータだけでは見えない顧客理解を深化させ、アプリ運営の体験設計を強化した事例。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "医療・福祉",
+      "industryTag": "小売・EC",
       "mechanismTags": [
-        "ワンストップ開発",
-        "スマホUX"
+        "UXリサーチ深化",
+        "顧客理解設計"
       ],
-      "url": "https://services.mediaid.co.jp/linq-dx/si"
+      "url": "https://appmarketinglabo.net/list/ (該当記事：2025.6.9 売上66億円に成長した「北欧、暮らしの道具店」のアプリ… ）"
     }
   ]
 }
