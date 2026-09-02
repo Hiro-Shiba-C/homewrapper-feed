@@ -1,34 +1,65 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "items": [
     {
-      "id": "43f5c24fa68b012b",
-      "category": "ekkyou",
-      "title": "EYストラテジー：自治体広報・運用プロセス設計による市民体験向上支援",
-      "excerpt": "自治体の広報戦略・運用設計を地域特性を踏まえて設計し、住民の参加・信頼を高める体験構造を構築",
-      "source": "EYストラテジー・アンド・コンサルティング",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "行政",
+      "id": "f09b1189f91b0884",
+      "category": "honmei",
+      "title": "JR東日本びゅうツーリズム＆セールスにおけるパーソナライズ化で実現する顧客体験",
+      "excerpt": "デジマ基盤整備からパーソナライズ施策導入により、“どんな方でも使いやすい”体験と事業収益性向上を両立した仕組みに迫る対談。",
+      "source": "Adobe 顧客体験のあり方 Podcast",
+      "format": "podcast",
+      "estimatedMinutes": 17,
+      "industryTag": "旅行・観光",
       "mechanismTags": [
-        "広報運用設計"
+        "データ基盤整備",
+        "パーソナライズ"
       ],
-      "url": "https://www.eysc.jp/recruit/capabilities/cxt/case/"
+      "url": "https://business.adobe.com/jp/resources/podcasts/marketers-talk-04.html"
     },
     {
-      "id": "e920a4809821c957",
-      "category": "ekkyou",
-      "title": "NPS導入でスポーツや医療現場のCX改善を組織横断的に推進",
-      "excerpt": "スポーツクラブやクリニックなど現場でNPSを活用し、組織間連携と改善プロセスを迅速化した体験設計",
-      "source": "NTTドコモビジネスX",
+      "id": "3b82adba9a86ff15",
+      "category": "honmei",
+      "title": "ホテルにおける手のひら認証導入による顧客体験創出",
+      "excerpt": "銀座のホテルで手のひら静脈認証を導入し、カードキー廃止によるスマートで安心なチェックイン体験を実現。運用や設備の変革が鍵。",
+      "source": "IT Leaders 事例ニュース",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "スポーツ・医療",
+      "industryTag": "ホテル",
       "mechanismTags": [
-        "NPS活用",
-        "現場PDCA"
+        "生体認証",
+        "チェックイン効率化"
       ],
-      "url": "https://www.nttcoms.com/service/nps/case/"
+      "url": "https://it.impress.co.jp/subcategory/t000023/c100004"
+    },
+    {
+      "id": "024e7d3fcb8f846c",
+      "category": "ekkyou",
+      "title": "Onboarding活用による旅行予約サイトのUX改善（ベルトラ）",
+      "excerpt": "現地体験予約サイトで、仕組み導入によって問い合わせ削減とUX改善、運用負荷軽減を同時に実現。",
+      "source": "Onboarding 事例紹介",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "観光・予約",
+      "mechanismTags": [
+        "オンボーディング自動化",
+        "UX改善"
+      ],
+      "url": "https://onboarding.co.jp/case"
+    },
+    {
+      "id": "a60d0d7f03a3b665",
+      "category": "teiten",
+      "title": "サブスク継続率を上げる施策まとめ（アプリマーケティング研究所）",
+      "excerpt": "解約抑止・再開促進・決済改善など、体験の継続に関する複数施策を採り上げ、ユーザー体験とビジネス成長の関係を紹介。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 10,
+      "industryTag": "アプリ・プロダクト",
+      "mechanismTags": [
+        "チャーン改善",
+        "継続率向上"
+      ],
+      "url": "https://appmarketinglabo.net/（サブスク施策まとめのURL）"
     }
   ]
 }
