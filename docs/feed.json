@@ -1,94 +1,19 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
     {
-      "id": "e2e37ad694cf2bea",
+      "id": "358eed5e27e85f6d",
       "category": "honmei",
-      "title": "DoorDashのマーシャン・ホスピタリティ・ブループリント構築事例",
-      "excerpt": "プラットフォームとしての“接客”を定義し、プロダクト・運用・サポートを横断する仕組みでマーチャント体験を再設計した取組。",
-      "source": "Evelyn Kim（UXケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "物流／フードデリバリー",
-      "mechanismTags": [
-        "サービスブループリント",
-        "組織横断Alignment"
-      ],
-      "url": "https://www.evelynkim.io/work/doordash-1"
-    },
-    {
-      "id": "53a6e68182512535",
-      "category": "honmei",
-      "title": "AMGメルセデス：48時間かかっていたサービス予約をリアルタイム化したUX設計",
-      "excerpt": "予約プロセスをデジタル化し、コストや手間を削減。透明性・モバイル対応・写真による認識など仕組みをUXの起点に再構築。",
-      "source": "Marko Mijailovic（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "自動車（アフターサービス）",
-      "mechanismTags": [
-        "バックエンド統合",
-        "リアルタイム予約"
-      ],
-      "url": "https://marko-m.com/case_study_amg_mercedes"
-    },
-    {
-      "id": "2a7d1b86adc20f57",
-      "category": "ekkyou",
-      "title": "CentX：名古屋鉄道が地域の“おでかけ体験”にUXリサーチを活用したプラットフォーム設計",
-      "excerpt": "地域の移動ニーズにUXリサーチと行動データ分析を組み合わせ、ユーザーに寄り添う“おでかけ支援”基盤を設計・改善。",
-      "source": "株式会社アイリッジ（事例紹介）",
+      "title": "BALANCeによるWebゲームで待ち時間ストレスをエンタメ化した事例",
+      "excerpt": "Feedy施設で待ち時間中にアプリ不要のWebゲームをQRで提供し、待ち時間のストレスを軽減した仕組み。",
+      "source": "BALANCe Magazine",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "交通・地域サービス",
+      "industryTag": "飲食・アミューズメント",
       "mechanismTags": [
-        "定量データ×UXリサーチ",
-        "地域プラットフォーム"
+        "待ち時間のエンタメ化"
       ],
-      "url": "https://iridge.jp/blog/202305/33745/"
-    },
-    {
-      "id": "101b11e11c27201d",
-      "category": "ekkyou",
-      "title": "ホテル向け商業サービス統合プラットフォーム構築事例",
-      "excerpt": "部門ごとに分断されていたホテル商業サービスを、発見・申込・実施・報告まで一括管理できるプラットフォームに統合。",
-      "source": "Maria Tsioma（プロダクトデザイン）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "ホテル／ホスピタリティ",
-      "mechanismTags": [
-        "サービスプラットフォーム",
-        "部署間の業務統一"
-      ],
-      "url": "https://www.mariatsioma.com/projects/unified-services-platform"
-    },
-    {
-      "id": "202a2dab7da5d52a",
-      "category": "ekkyou",
-      "title": "監査クライアント向けポータルUX再設計で視認性と信頼性改善",
-      "excerpt": "外部プラットフォームの混乱を可視化設計で解消し、NPSや作業時間削減に繋がった企業間体験の再設計事例。",
-      "source": "Amit Kumar Shaw（UXケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "専門サービス（監査）",
-      "mechanismTags": [
-        "可視化UX",
-        "成果可視化"
-      ],
-      "url": "https://amitshaw.co.in/work/client-portal"
-    },
-    {
-      "id": "da13382958753d5c",
-      "category": "teiten",
-      "title": "Hinge：ローンチ集中戦略＋真剣な出会いへのUX設計で世界1,500万人が利用",
-      "excerpt": "ローンチ時の注目集約戦術とABテストによる“出会い体験”フォーカスで成長を促進したUXとグロースの連携事例。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリ／出会い",
-      "mechanismTags": [
-        "ABテスト」「ローンチ戦略"
-      ],
-      "url": "https://appmarketinglabo.net/ (該当記事：Hingeのグロース施策レポート)"
+      "url": "https://balance.bz/magazine/category/system/gamecontentcasestudies/"
     }
   ]
 }
