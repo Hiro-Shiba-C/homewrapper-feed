@@ -1,19 +1,65 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "items": [
     {
-      "id": "358eed5e27e85f6d",
+      "id": "f6b74f6d262de8d8",
       "category": "honmei",
-      "title": "BALANCeによるWebゲームで待ち時間ストレスをエンタメ化した事例",
-      "excerpt": "Feedy施設で待ち時間中にアプリ不要のWebゲームをQRで提供し、待ち時間のストレスを軽減した仕組み。",
-      "source": "BALANCe Magazine",
+      "title": "ユーザーの“今”に刺さる共有体験設計——「家族アルバム みてね」のUX改善と成長",
+      "excerpt": "ユーザーの“今日撮った写真”を中心にUIを設計し直し、評価率を10〜20％から70〜80％に向上させたUX改善事例",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "サービス（家庭コミュニケーション）",
+      "mechanismTags": [
+        "ユーザーテスト",
+        "モチベーション文脈デザイン"
+      ],
+      "url": "https://appmarketinglabo.net/mitene-growth/"
+    },
+    {
+      "id": "da0526b55ed81167",
+      "category": "honmei",
+      "title": "言葉で信頼と行動を促す——「Paidy」のUXライティング改善事例",
+      "excerpt": "用語とメッセージを「修正→アップデート」など言葉で置き換え、本人確認完了率や選択率向上を導いた言語UXの事例",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "金融（決済）",
+      "mechanismTags": [
+        "UXライティング",
+        "社会的証明"
+      ],
+      "url": "https://appmarketinglabo.net/paidy-ux/"
+    },
+    {
+      "id": "b9ba9889bd2e33ef",
+      "category": "ekkyou",
+      "title": "モバイル通知で感情に寄り添う体験設計——モバオクの完了画面メッセージ改善",
+      "excerpt": "出品・落札完了画面に「ありがとう」や「おめでとう」を挿入し、翌週の再訪率を1.48倍に引き上げた事例",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "飲食・アミューズメント",
+      "industryTag": "小売（オークション）",
       "mechanismTags": [
-        "待ち時間のエンタメ化"
+        "タイミングUX",
+        "感情トリガー"
       ],
-      "url": "https://balance.bz/magazine/category/system/gamecontentcasestudies/"
+      "url": "https://appmarketinglabo.net/repro-pushtips/"
+    },
+    {
+      "id": "5e938d8e1c0120aa",
+      "category": "ekkyou",
+      "title": "連携UX改善とユーザー交流による信頼構築——マネーフォワード MEのUI改善とイベント運営",
+      "excerpt": "連携画面の“空状態”に導線を追加し連携率1.4倍に。さらにオフィスでユーザーを招いた交流イベントも実施",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "金融（家計管理）",
+      "mechanismTags": [
+        "エンプティステートUX",
+        "ユーザーコミュニティ"
+      ],
+      "url": "https://appmarketinglabo.net/moneyforward-marketing/"
     }
   ]
 }
