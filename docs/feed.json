@@ -1,65 +1,50 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-07",
   "items": [
     {
-      "id": "f6b74f6d262de8d8",
+      "id": "55ea29528c70d9cd",
       "category": "honmei",
-      "title": "ユーザーの“今”に刺さる共有体験設計——「家族アルバム みてね」のUX改善と成長",
-      "excerpt": "ユーザーの“今日撮った写真”を中心にUIを設計し直し、評価率を10〜20％から70〜80％に向上させたUX改善事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "サービス（家庭コミュニケーション）",
-      "mechanismTags": [
-        "ユーザーテスト",
-        "モチベーション文脈デザイン"
-      ],
-      "url": "https://appmarketinglabo.net/mitene-growth/"
-    },
-    {
-      "id": "da0526b55ed81167",
-      "category": "honmei",
-      "title": "言葉で信頼と行動を促す——「Paidy」のUXライティング改善事例",
-      "excerpt": "用語とメッセージを「修正→アップデート」など言葉で置き換え、本人確認完了率や選択率向上を導いた言語UXの事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "金融（決済）",
-      "mechanismTags": [
-        "UXライティング",
-        "社会的証明"
-      ],
-      "url": "https://appmarketinglabo.net/paidy-ux/"
-    },
-    {
-      "id": "b9ba9889bd2e33ef",
-      "category": "ekkyou",
-      "title": "モバイル通知で感情に寄り添う体験設計——モバオクの完了画面メッセージ改善",
-      "excerpt": "出品・落札完了画面に「ありがとう」や「おめでとう」を挿入し、翌週の再訪率を1.48倍に引き上げた事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売（オークション）",
-      "mechanismTags": [
-        "タイミングUX",
-        "感情トリガー"
-      ],
-      "url": "https://appmarketinglabo.net/repro-pushtips/"
-    },
-    {
-      "id": "5e938d8e1c0120aa",
-      "category": "ekkyou",
-      "title": "連携UX改善とユーザー交流による信頼構築——マネーフォワード MEのUI改善とイベント運営",
-      "excerpt": "連携画面の“空状態”に導線を追加し連携率1.4倍に。さらにオフィスでユーザーを招いた交流イベントも実施",
-      "source": "アプリマーケティング研究所",
+      "title": "AIによる“ネクスト・ベスト・エクスペリエンス”で顧客体験を先回りする仕組み",
+      "excerpt": "AIを活用し、顧客ライフサイクル全体を統合データで把握して“今最適な体験”を予測・提供する仕組みを紹介。顧客満足15‑20％向上、収益5‑8％増、コスト20‑30％削減の成果も。",
+      "source": "McKinsey",
       "format": "article",
       "estimatedMinutes": 8,
-      "industryTag": "金融（家計管理）",
+      "industryTag": "小売・保険",
       "mechanismTags": [
-        "エンプティステートUX",
-        "ユーザーコミュニティ"
+        "統合データ活用",
+        "AI予測レコメンド"
       ],
-      "url": "https://appmarketinglabo.net/moneyforward-marketing/"
+      "url": "https://www.mckinsey.com/jp/our-insights/next-best-experience-how-ai-can-power-every-customer-interaction"
+    },
+    {
+      "id": "4603b80388038ee9",
+      "category": "honmei",
+      "title": "MyTurn順番待ちシステムによる会場回遊性と接客負担の改善",
+      "excerpt": "QRコード受付＋通知によって、訪問者は自由に回遊でき、混雑・スタッフ呼び出し負担を改善し売上向上にも寄与。",
+      "source": "MyTurn",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・イベント",
+      "mechanismTags": [
+        "順番待ちの見える化",
+        "通知連携"
+      ],
+      "url": "https://myturn.jp/case.html"
+    },
+    {
+      "id": "cc2aa0da85eab91e",
+      "category": "honmei",
+      "title": "京葉ガス：顧客軸で可視化したサービス提案と“オール京葉ガス”化による体験最適化",
+      "excerpt": "顧客ごとにサービスを可視化し、サービスショップと連携した先回り提案体制「オール京葉ガス」で体験を標準化・最適化。",
+      "source": "Salesforce Japan",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "エネルギー",
+      "mechanismTags": [
+        "サービス可視化",
+        "ショップ連携"
+      ],
+      "url": "https://www.salesforce.com/jp/service/customer-service-incident-management/what-is-customer-satisfaction/"
     }
   ]
 }
