@@ -1,50 +1,47 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "items": [
     {
-      "id": "55ea29528c70d9cd",
+      "id": "9846d4a1b12d3bb0",
       "category": "honmei",
-      "title": "AIによる“ネクスト・ベスト・エクスペリエンス”で顧客体験を先回りする仕組み",
-      "excerpt": "AIを活用し、顧客ライフサイクル全体を統合データで把握して“今最適な体験”を予測・提供する仕組みを紹介。顧客満足15‑20％向上、収益5‑8％増、コスト20‑30％削減の成果も。",
-      "source": "McKinsey",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "小売・保険",
-      "mechanismTags": [
-        "統合データ活用",
-        "AI予測レコメンド"
-      ],
-      "url": "https://www.mckinsey.com/jp/our-insights/next-best-experience-how-ai-can-power-every-customer-interaction"
-    },
-    {
-      "id": "4603b80388038ee9",
-      "category": "honmei",
-      "title": "MyTurn順番待ちシステムによる会場回遊性と接客負担の改善",
-      "excerpt": "QRコード受付＋通知によって、訪問者は自由に回遊でき、混雑・スタッフ呼び出し負担を改善し売上向上にも寄与。",
-      "source": "MyTurn",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・イベント",
-      "mechanismTags": [
-        "順番待ちの見える化",
-        "通知連携"
-      ],
-      "url": "https://myturn.jp/case.html"
-    },
-    {
-      "id": "cc2aa0da85eab91e",
-      "category": "honmei",
-      "title": "京葉ガス：顧客軸で可視化したサービス提案と“オール京葉ガス”化による体験最適化",
-      "excerpt": "顧客ごとにサービスを可視化し、サービスショップと連携した先回り提案体制「オール京葉ガス」で体験を標準化・最適化。",
-      "source": "Salesforce Japan",
+      "title": "トレカ・レトロゲームECで配送選択肢がUX満足を高めた事例",
+      "excerpt": "ネット型リユースで複数の配送方法を提示し、受け取り利便性と満足度を向上させた仕組みが詳細に示されている",
+      "source": "日本郵便導入事例",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "エネルギー",
+      "industryTag": "物流・小売",
       "mechanismTags": [
-        "サービス可視化",
-        "ショップ連携"
+        "配送選択肢の多様化"
       ],
-      "url": "https://www.salesforce.com/jp/service/customer-service-incident-management/what-is-customer-satisfaction/"
+      "url": "https://www.post.japanpost.jp/bizpost/case/case23.html"
+    },
+    {
+      "id": "70dfa948f063b440",
+      "category": "honmei",
+      "title": "WMS導入で2倍売上を実現したEC物流効率化事例",
+      "excerpt": "倉庫管理システム導入による物流効率化で、EC業の出荷体制を強化し売上2倍と運営改善を両立",
+      "source": "日本郵便導入事例",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "物流・EC",
+      "mechanismTags": [
+        "WMS活用"
+      ],
+      "url": "https://www.post.japanpost.jp/bizpost/case/case18.html"
+    },
+    {
+      "id": "f2f771813292dd87",
+      "category": "ekkyou",
+      "title": "待ち時間は設計できる｜病院・店舗の待ちUXを観察",
+      "excerpt": "待ち時間を“体験”として設計する視点から、鏡設置や情報提供などで体感時間を短くする具体策を論じる",
+      "source": "Process Designer note",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・店舗",
+      "mechanismTags": [
+        "注意転換設計"
+      ],
+      "url": "https://note.com/process_kazuki/n/nd4bedc0c5840"
     }
   ]
 }
