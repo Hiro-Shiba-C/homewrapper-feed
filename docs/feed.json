@@ -1,47 +1,65 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-10",
   "items": [
     {
-      "id": "9846d4a1b12d3bb0",
+      "id": "3a1b8c9bed7fe3fd",
       "category": "honmei",
-      "title": "トレカ・レトロゲームECで配送選択肢がUX満足を高めた事例",
-      "excerpt": "ネット型リユースで複数の配送方法を提示し、受け取り利便性と満足度を向上させた仕組みが詳細に示されている",
-      "source": "日本郵便導入事例",
+      "title": "auじぶん銀行：エフォートレス体験を支えるインハウス化とCX改善",
+      "excerpt": "BPOからインハウス化し、応答品質・VOC活用・CX改善により問い合わせ削減・効率化を実現した構造的改善。",
+      "source": "事例研究＜auじぶん銀行＞（コールセンタージャパン）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "物流・小売",
+      "industryTag": "金融",
       "mechanismTags": [
-        "配送選択肢の多様化"
+        "インハウス化",
+        "VOC活用"
       ],
-      "url": "https://www.post.japanpost.jp/bizpost/case/case23.html"
+      "url": "https://callcenter-japan.com/article/6297/1/"
     },
     {
-      "id": "70dfa948f063b440",
+      "id": "723a1a75f63167d8",
       "category": "honmei",
-      "title": "WMS導入で2倍売上を実現したEC物流効率化事例",
-      "excerpt": "倉庫管理システム導入による物流効率化で、EC業の出荷体制を強化し売上2倍と運営改善を両立",
-      "source": "日本郵便導入事例",
+      "title": "業務監査ツールをUX再設計し、作業時間を1/3に削減した事例",
+      "excerpt": "監査業務での摩擦点を特定し、道具と UX を再設計して作業時間を1/3に短縮した仕組み。",
+      "source": "業務監査の道具とUXをヒト起点でリデザイン（NJC）",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流・EC",
+      "estimatedMinutes": 5,
+      "industryTag": "業務プロセス",
       "mechanismTags": [
-        "WMS活用"
+        "摩擦点の削減",
+        "UX再設計"
       ],
-      "url": "https://www.post.japanpost.jp/bizpost/case/case18.html"
+      "url": "https://www.njc.co.jp/dx/casestudies/njc-kansashitsu.html"
     },
     {
-      "id": "f2f771813292dd87",
+      "id": "a197cd528b842481",
       "category": "ekkyou",
-      "title": "待ち時間は設計できる｜病院・店舗の待ちUXを観察",
-      "excerpt": "待ち時間を“体験”として設計する視点から、鏡設置や情報提供などで体感時間を短くする具体策を論じる",
-      "source": "Process Designer note",
+      "title": "JR東日本：待ち時間や混乱を和らげる行政・鉄道接続のCX設計",
+      "excerpt": "行政サービスと鉄道利用をつなぎ、国民の待ちやすさと理解を高めるUX設計の裏側。",
+      "source": "e‑Gov、国民と行政を橋渡しするUXデザインの裏側（Web担当者Forum）",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "行政・交通",
+      "mechanismTags": [
+        "行政連携UI",
+        "待ち時間軽減"
+      ],
+      "url": "https://webtan.impress.co.jp/articles/…/e‑Gov‑UX‑行政"
+    },
+    {
+      "id": "860f4c4e6660aa05",
+      "category": "teiten",
+      "title": "ヨンデミー：子どもの読書習慣化をじゃんけんUIで継続率向上",
+      "excerpt": "習慣化を促す工夫としてレッスン締めにじゃんけんを導入し、継続率を大きく改善した仕組み設計。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療・店舗",
+      "industryTag": "教育",
       "mechanismTags": [
-        "注意転換設計"
+        "習慣化トリガー",
+        "ゲーミフィケーション"
       ],
-      "url": "https://note.com/process_kazuki/n/nd4bedc0c5840"
+      "url": "https://appmarketinglabo.net/yondemy-growth/"
     }
   ]
 }
