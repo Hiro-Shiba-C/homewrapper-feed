@@ -1,65 +1,50 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "items": [
     {
-      "id": "3a1b8c9bed7fe3fd",
+      "id": "e3459be3a3f2d5d0",
       "category": "honmei",
-      "title": "auじぶん銀行：エフォートレス体験を支えるインハウス化とCX改善",
-      "excerpt": "BPOからインハウス化し、応答品質・VOC活用・CX改善により問い合わせ削減・効率化を実現した構造的改善。",
-      "source": "事例研究＜auじぶん銀行＞（コールセンタージャパン）",
+      "title": "グローバルアパレルのオムニチャネル顧客体験再設計事例",
+      "excerpt": "ECと実店舗で分断していた顧客体験をデータ基盤とMAによって統合し、一貫したオムニチャネル体験を実現。",
+      "source": "グロースデータ",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "金融",
+      "estimatedMinutes": 8,
+      "industryTag": "小売・アパレル",
       "mechanismTags": [
-        "インハウス化",
-        "VOC活用"
+        "データ連携",
+        "MAによるシナリオ自動化"
       ],
-      "url": "https://callcenter-japan.com/article/6297/1/"
+      "url": "https://growthdata.co.jp/case/case001/"
     },
     {
-      "id": "723a1a75f63167d8",
+      "id": "8a7bffb82fa40fd8",
       "category": "honmei",
-      "title": "業務監査ツールをUX再設計し、作業時間を1/3に削減した事例",
-      "excerpt": "監査業務での摩擦点を特定し、道具と UX を再設計して作業時間を1/3に短縮した仕組み。",
-      "source": "業務監査の道具とUXをヒト起点でリデザイン（NJC）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "業務プロセス",
-      "mechanismTags": [
-        "摩擦点の削減",
-        "UX再設計"
-      ],
-      "url": "https://www.njc.co.jp/dx/casestudies/njc-kansashitsu.html"
-    },
-    {
-      "id": "a197cd528b842481",
-      "category": "ekkyou",
-      "title": "JR東日本：待ち時間や混乱を和らげる行政・鉄道接続のCX設計",
-      "excerpt": "行政サービスと鉄道利用をつなぎ、国民の待ちやすさと理解を高めるUX設計の裏側。",
-      "source": "e‑Gov、国民と行政を橋渡しするUXデザインの裏側（Web担当者Forum）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "行政・交通",
-      "mechanismTags": [
-        "行政連携UI",
-        "待ち時間軽減"
-      ],
-      "url": "https://webtan.impress.co.jp/articles/…/e‑Gov‑UX‑行政"
-    },
-    {
-      "id": "860f4c4e6660aa05",
-      "category": "teiten",
-      "title": "ヨンデミー：子どもの読書習慣化をじゃんけんUIで継続率向上",
-      "excerpt": "習慣化を促す工夫としてレッスン締めにじゃんけんを導入し、継続率を大きく改善した仕組み設計。",
-      "source": "アプリマーケティング研究所",
+      "title": "ジョブトランジット：LINE内で完結するキャリア支援体験",
+      "excerpt": "面談予約から学習・宿題までLINE LIFF上で完結させ、運営負荷と学習体験を最適化。",
+      "source": "株式会社プリファード",
       "format": "article",
       "estimatedMinutes": 6,
       "industryTag": "教育",
       "mechanismTags": [
-        "習慣化トリガー",
-        "ゲーミフィケーション"
+        "チャットUI",
+        "オペレーション効率化"
       ],
-      "url": "https://appmarketinglabo.net/yondemy-growth/"
+      "url": "https://www.pref.co.jp/work"
+    },
+    {
+      "id": "41d28bc4ee6a8452",
+      "category": "ekkyou",
+      "title": "次世代ファミリーコンシェルジュサービスのUX設計",
+      "excerpt": "忙しい家族向けに、会員向けコンシェルジュ体験を日本向けに設計し直したUXリサーチ＋プロダクト設計。",
+      "source": "AQ株式会社",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "サービス",
+      "mechanismTags": [
+        "UX調査",
+        "会員体験設計"
+      ],
+      "url": "https://www.aqworks.com/ja/work"
     }
   ]
 }
