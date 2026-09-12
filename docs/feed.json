@@ -1,50 +1,65 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "items": [
     {
-      "id": "e3459be3a3f2d5d0",
+      "id": "be7cd6925cbbb5c3",
       "category": "honmei",
-      "title": "グローバルアパレルのオムニチャネル顧客体験再設計事例",
-      "excerpt": "ECと実店舗で分断していた顧客体験をデータ基盤とMAによって統合し、一貫したオムニチャネル体験を実現。",
-      "source": "グロースデータ",
+      "title": "顧客理解を組織の共通言語に。日本KFCとメンバーズが挑んだCX変革の1年半",
+      "excerpt": "顧客視点を組織文化に定着させ、現場の意思決定にまで顧客体験を浸透させる仕組み構築の1年半を描く事例。",
+      "source": "メンバーズ",
       "format": "article",
       "estimatedMinutes": 8,
-      "industryTag": "小売・アパレル",
+      "industryTag": "飲食",
       "mechanismTags": [
-        "データ連携",
-        "MAによるシナリオ自動化"
+        "組織文化",
+        "CX浸透"
       ],
-      "url": "https://growthdata.co.jp/case/case001/"
+      "url": "https://www.members.co.jp/results/case108"
     },
     {
-      "id": "8a7bffb82fa40fd8",
+      "id": "1aeead96cea36e97",
       "category": "honmei",
-      "title": "ジョブトランジット：LINE内で完結するキャリア支援体験",
-      "excerpt": "面談予約から学習・宿題までLINE LIFF上で完結させ、運営負荷と学習体験を最適化。",
-      "source": "株式会社プリファード",
+      "title": "LINEミニアプリ起点の「ゆるやかなCRM」設計",
+      "excerpt": "購買データではなく接触データを起点に“思い出される瞬間”を設計するCRMモデルの再定義。",
+      "source": "LINEヤフー for Business",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "教育",
+      "industryTag": "食品小売",
       "mechanismTags": [
-        "チャットUI",
-        "オペレーション効率化"
+        "接触データ活用",
+        "リマインダー設計"
       ],
-      "url": "https://www.pref.co.jp/work"
+      "url": "https://www.lycbiz.com/jp/case-study/line-mini-app/house/?o=IM0021purpose////////purpose///"
     },
     {
-      "id": "41d28bc4ee6a8452",
+      "id": "1470a3847780a984",
       "category": "ekkyou",
-      "title": "次世代ファミリーコンシェルジュサービスのUX設計",
-      "excerpt": "忙しい家族向けに、会員向けコンシェルジュ体験を日本向けに設計し直したUXリサーチ＋プロダクト設計。",
-      "source": "AQ株式会社",
+      "title": "かんぽ生命：CX重視のカスタマーセンター構築と従業員体験の循環設計",
+      "excerpt": "CXを最優先としたビジネスモデルへ転換し、従業員のやりがい→顧客体験→システムが循環する仕組みを設計。",
+      "source": "電通デジタル KNOWLEDGE CHARGE",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "サービス",
+      "estimatedMinutes": 8,
+      "industryTag": "保険",
       "mechanismTags": [
-        "UX調査",
-        "会員体験設計"
+        "EX‑CX循環",
+        "中期計画"
       ],
-      "url": "https://www.aqworks.com/ja/work"
+      "url": "https://www.dentsudigital.co.jp/knowledge-charge/cases/0417-japanpost"
+    },
+    {
+      "id": "f4cb877d06c0f525",
+      "category": "ekkyou",
+      "title": "NTTドコモビジネス：デザイン思考と手の内化でポータルCXを刷新",
+      "excerpt": "顧客価値起点＋開発内製＋組織横断ワンチームで法人向けポータルCXを短期刷新した事例。",
+      "source": "NTTドコモビジネス",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "通信",
+      "mechanismTags": [
+        "手の内化",
+        "ワンチーム"
+      ],
+      "url": "https://www.ntt.com/business/services/xmanaged/lp/itsmf/202311-nttcom.html"
     }
   ]
 }
