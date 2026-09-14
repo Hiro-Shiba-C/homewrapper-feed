@@ -1,34 +1,79 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-15",
   "items": [
     {
-      "id": "51057fc70354bb38",
+      "id": "7420a2e3221bc1f1",
       "category": "honmei",
-      "title": "BOOKOFF：顧客ジャーニー可視化によるOMO統合でCV率131%向上",
-      "excerpt": "中古書店チェーンBOOKOFFがオンライン・オフラインを統合し、顧客ジャーニー分析でUX改善し、CV率131%、利用頻度104%向上。仕組み＝CX可視化と部門横断連携。",
-      "source": "beBit / BOOKOFF case study",
+      "title": "下着ECで返品減を実現するサイズ提案仕組み",
+      "excerpt": "過去の注文と返品データを分析し、実店舗での試着なしで最適サイズを提案できる仕組みを構築し顧客体験を改善。",
+      "source": "NTTドコモビジネス 法人のお客さま",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売・サービス",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・EC",
       "mechanismTags": [
-        "ジャーニー可視化",
-        "OMO統合"
+        "データ分析",
+        "サイズ提案システム"
       ],
-      "url": "https://www.bebit‑tech.com/en/success‑cases/bookoff"
+      "url": "https://www.ntt.com/business/services/rink/knowledge/archive_49.html"
     },
     {
-      "id": "f6dbe2dbb2456be1",
-      "category": "ekkyou",
-      "title": "渋谷区：検索中心UIで行政サイトUXを迷わず即達成",
-      "excerpt": "渋谷区が行政サイトを縦割りメニューから検索中心UIへ刷新し、利用者が課を意識せず目的情報へ直行できるUX設計。",
-      "source": "博報堂アイ・スタジオブログ",
+      "id": "9981bc1fbb3ecaa3",
+      "category": "honmei",
+      "title": "医療向け超音波機器SONIMAGE UX1シリーズの体験設計",
+      "excerpt": "医療現場の判断を急かさず流れを止めない体験設計を重視し、診断の質を支えるUX設計が評価されている事例。",
+      "source": "コニカミノルタ デザインストーリー",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "行政",
+      "estimatedMinutes": 5,
+      "industryTag": "医療機器",
       "mechanismTags": [
-        "検索UI再設計"
+        "体験設計",
+        "現場に寄り添うUX"
       ],
-      "url": "https://www.i‑studio.co.jp/whale/dx‑ux/"
+      "url": "https://www.konicaminolta.com/jp-ja/design/stories/diagnostic-ultrasound-system.html"
+    },
+    {
+      "id": "5433d13233b6e193",
+      "category": "ekkyou",
+      "title": "医療予約アプリ、SwiftUI導入でUX改善速度2倍",
+      "excerpt": "医療予約・問診アプリで、SwiftUIを採用し改善速度を2倍にし、患者の操作ミスや離脱を減らしたUX設計。",
+      "source": "Wantedly事例紹介",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療／アプリ",
+      "mechanismTags": [
+        "技術刷新による改善速度",
+        "操作ミス削減"
+      ],
+      "url": "https://www.wantedly.com/users/197714441/post_articles/1019232"
+    },
+    {
+      "id": "5cefcff760ef52f6",
+      "category": "ekkyou",
+      "title": "ハウス食品：LINEミニアプリで“ゆるやかなCRM”",
+      "excerpt": "食品接触体験を意図的に設計し、LINEミニアプリで強制せず自然に関係性を深める「ゆるやかなCRM」を構築したCXモデルの再定義。",
+      "source": "LINEヤフー for Business（日経Business転載）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "食品／CRM",
+      "mechanismTags": [
+        "ゆるやかなCRM",
+        "接触データ起点"
+      ],
+      "url": "https://www.lycbiz.com/jp/case-study/line-mini-app/house"
+    },
+    {
+      "id": "e068d9598d601627",
+      "category": "teiten",
+      "title": "SUZURIアプリでアイテム新規作成者数がデイリー2倍に",
+      "excerpt": "「SUZURI」アプリでハードルを下げた新規アイテム作成体験により、デイリーの作成者数が2倍になった成長施策。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "アプリ／マーケティング",
+      "mechanismTags": [
+        "UXリサーチ／新規作成体験改善"
+      ],
+      "url": "https://appmarketinglabo.net/（該当記事）"
     }
   ]
 }
