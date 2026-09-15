@@ -2,78 +2,34 @@
   "date": "2026-09-15",
   "items": [
     {
-      "id": "7420a2e3221bc1f1",
+      "id": "f67c26c269720c87",
       "category": "honmei",
-      "title": "下着ECで返品減を実現するサイズ提案仕組み",
-      "excerpt": "過去の注文と返品データを分析し、実店舗での試着なしで最適サイズを提案できる仕組みを構築し顧客体験を改善。",
-      "source": "NTTドコモビジネス 法人のお客さま",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・EC",
-      "mechanismTags": [
-        "データ分析",
-        "サイズ提案システム"
-      ],
-      "url": "https://www.ntt.com/business/services/rink/knowledge/archive_49.html"
-    },
-    {
-      "id": "9981bc1fbb3ecaa3",
-      "category": "honmei",
-      "title": "医療向け超音波機器SONIMAGE UX1シリーズの体験設計",
-      "excerpt": "医療現場の判断を急かさず流れを止めない体験設計を重視し、診断の質を支えるUX設計が評価されている事例。",
-      "source": "コニカミノルタ デザインストーリー",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療機器",
-      "mechanismTags": [
-        "体験設計",
-        "現場に寄り添うUX"
-      ],
-      "url": "https://www.konicaminolta.com/jp-ja/design/stories/diagnostic-ultrasound-system.html"
-    },
-    {
-      "id": "5433d13233b6e193",
-      "category": "ekkyou",
-      "title": "医療予約アプリ、SwiftUI導入でUX改善速度2倍",
-      "excerpt": "医療予約・問診アプリで、SwiftUIを採用し改善速度を2倍にし、患者の操作ミスや離脱を減らしたUX設計。",
-      "source": "Wantedly事例紹介",
+      "title": "Adobe Experience Cloud で医療サイトをパーソナライズ──アステラス製薬のUX最適化事例",
+      "excerpt": "アステラス製薬がAdobe Experience Cloudで医療向けサイトを刷新し、CXM／MA／CMS統合で顧客体験を最適化した事例。",
+      "source": "Adobe Business",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療／アプリ",
+      "industryTag": "医療・製薬",
       "mechanismTags": [
-        "技術刷新による改善速度",
-        "操作ミス削減"
+        "パーソナライゼーション",
+        "CXM統合"
       ],
-      "url": "https://www.wantedly.com/users/197714441/post_articles/1019232"
+      "url": "https://business.adobe.com/jp/blog/the-latest/dx-astellas-utilizing-adobe-experience-cloud"
     },
     {
-      "id": "5cefcff760ef52f6",
+      "id": "ca2d77a4acb7f328",
       "category": "ekkyou",
-      "title": "ハウス食品：LINEミニアプリで“ゆるやかなCRM”",
-      "excerpt": "食品接触体験を意図的に設計し、LINEミニアプリで強制せず自然に関係性を深める「ゆるやかなCRM」を構築したCXモデルの再定義。",
-      "source": "LINEヤフー for Business（日経Business転載）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "食品／CRM",
-      "mechanismTags": [
-        "ゆるやかなCRM",
-        "接触データ起点"
-      ],
-      "url": "https://www.lycbiz.com/jp/case-study/line-mini-app/house"
-    },
-    {
-      "id": "e068d9598d601627",
-      "category": "teiten",
-      "title": "SUZURIアプリでアイテム新規作成者数がデイリー2倍に",
-      "excerpt": "「SUZURI」アプリでハードルを下げた新規アイテム作成体験により、デイリーの作成者数が2倍になった成長施策。",
+      "title": "キッチン用品ブランドがポップアップ販売でLTV向上：「対面」と「少量購買」の体験設計",
+      "excerpt": "「ココグルメ」が対面販売＋少量購入で顧客の熱量を保持し、LTVを向上させた体験設計に関する分析事例。",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリ／マーケティング",
+      "estimatedMinutes": 7,
+      "industryTag": "小売・食品イベント",
       "mechanismTags": [
-        "UXリサーチ／新規作成体験改善"
+        "ポップアップ販売",
+        "熱量維持"
       ],
-      "url": "https://appmarketinglabo.net/（該当記事）"
+      "url": "https://appmarketinglabo.net/cocogourmet-growth/"
     }
   ]
 }
