@@ -1,35 +1,61 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "id": "f67c26c269720c87",
+      "id": "0e7a7419c15023a9",
       "category": "honmei",
-      "title": "Adobe Experience Cloud で医療サイトをパーソナライズ──アステラス製薬のUX最適化事例",
-      "excerpt": "アステラス製薬がAdobe Experience Cloudで医療向けサイトを刷新し、CXM／MA／CMS統合で顧客体験を最適化した事例。",
-      "source": "Adobe Business",
+      "title": "ANA X：Onboarding導入による“エフォートレス”な旅行予約 UX設計",
+      "excerpt": "旅行予約での迷いや操作つまずきを、画面上ヒント表示で自己解決させ予約完了率向上・問い合わせ約3割減の仕組み。",
+      "source": "ASCII.jp",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・製薬",
+      "estimatedMinutes": 5,
+      "industryTag": "旅行・交通",
       "mechanismTags": [
-        "パーソナライゼーション",
-        "CXM統合"
+        "操作ガイドのリアルタイム提示"
       ],
-      "url": "https://business.adobe.com/jp/blog/the-latest/dx-astellas-utilizing-adobe-experience-cloud"
+      "url": "https://ascii.jp/elem/000/004/399/4399561/"
     },
     {
-      "id": "ca2d77a4acb7f328",
+      "id": "c026579df9d370eb",
       "category": "ekkyou",
-      "title": "キッチン用品ブランドがポップアップ販売でLTV向上：「対面」と「少量購買」の体験設計",
-      "excerpt": "「ココグルメ」が対面販売＋少量購入で顧客の熱量を保持し、LTVを向上させた体験設計に関する分析事例。",
-      "source": "アプリマーケティング研究所",
+      "title": "結婚相談所：婚活メタバースで参加ハードルを下げる設計",
+      "excerpt": "対面前提の婚活を2Dメタバース上で段階導入し、動物モチーフアバターで心理的ハードル低減と利用促進を両立。",
+      "source": "アートリー事例紹介",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "小売・食品イベント",
+      "estimatedMinutes": 5,
+      "industryTag": "結婚相談／イベント",
       "mechanismTags": [
-        "ポップアップ販売",
-        "熱量維持"
+        "段階的慣れ設計"
       ],
-      "url": "https://appmarketinglabo.net/cocogourmet-growth/"
+      "url": "https://artory.co.jp/casestudy/customer-experience/"
+    },
+    {
+      "id": "da4c010076d5242a",
+      "category": "ekkyou",
+      "title": "Krispy Kreme日本：CX重視に転換して店舗満足度・ロイヤルティ向上",
+      "excerpt": "新店拡大より既存店舗でCX改善を実行。CEMプログラムでロイヤルティ会員増・顧客満足7ポイント向上。",
+      "source": "SMGマーケティング",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "小売・飲食",
+      "mechanismTags": [
+        "既存店舗での体験集中"
+      ],
+      "url": "https://marketing.smg.com/krispy-kreme-japan-sweetens-the-customer-experience-and-improves-business-outcomes"
+    },
+    {
+      "id": "d37129e269e6606f",
+      "category": "ekkyou",
+      "title": "友達がやってるカフェ：演劇経験者スタッフによる応答型接客",
+      "excerpt": "演劇経験者のみを採用し、閉店後の相互フィードバックで毎日対応を進化させ、唯一無二の応答体験を生む仕組み。",
+      "source": "Wikipedia",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "飲食・エンタメ",
+      "mechanismTags": [
+        "演技訓練による接客強化"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Tomodachiga_Yatteru_Cafe"
     }
   ]
 }
