@@ -1,61 +1,80 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "items": [
     {
-      "id": "0e7a7419c15023a9",
+      "id": "23a0ea93e2642971",
       "category": "honmei",
-      "title": "ANA X：Onboarding導入による“エフォートレス”な旅行予約 UX設計",
-      "excerpt": "旅行予約での迷いや操作つまずきを、画面上ヒント表示で自己解決させ予約完了率向上・問い合わせ約3割減の仕組み。",
-      "source": "ASCII.jp",
+      "title": "トラックの荷待ち時間を97％「待機なし」に。バース予約システム導入による物流効率化",
+      "excerpt": "バース予約システムにより事前計画・可視化・ペーパーレス誘導を実現し、待機なしを97％に改善",
+      "source": "SBS東芝ロジスティクス（物流サービス事例）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "物流",
+      "mechanismTags": [
+        "予約による平準化",
+        "リアルタイム可視化"
+      ],
+      "url": "https://www.sbs-toshibalogistics.co.jp/sbstlog/solution/case_013/"
+    },
+    {
+      "id": "72890a0e74c155d1",
+      "category": "honmei",
+      "title": "SAP統合で顧客ビューを一元化。ドライバー待ち時間を50％短縮した鉄道事例",
+      "excerpt": "SAPデータを統一しCustomer 360を構築、待機時間を50％削減。Fiori UX導入で使いやすさも改善",
+      "source": "Mindset Consulting（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "旅行・交通",
+      "industryTag": "交通・物流",
       "mechanismTags": [
-        "操作ガイドのリアルタイム提示"
+        "データ統合による可視化",
+        "顧客ビュー一元化"
       ],
-      "url": "https://ascii.jp/elem/000/004/399/4399561/"
+      "url": "https://www.mindsetconsulting.com/portfolio/freight-transportation-company/"
     },
     {
-      "id": "c026579df9d370eb",
+      "id": "6ea6c98ddb8625eb",
+      "category": "honmei",
+      "title": "GPSで到着予測を共有。荷待ち30分超をゼロにした配送業務のデジタル改革",
+      "excerpt": "GPSで到着予定をリアルタイム共有し、荷待ち30分超の案件を月間ゼロに。準備の前倒しも実現",
+      "source": "NTTドコモビジネス Watch",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "物流",
+      "mechanismTags": [
+        "リアルタイム動態共有",
+        "業務標準化"
+      ],
+      "url": "https://www.ntt.com/bizon/d/00745.html"
+    },
+    {
+      "id": "1a2456a66aaaf88e",
       "category": "ekkyou",
-      "title": "結婚相談所：婚活メタバースで参加ハードルを下げる設計",
-      "excerpt": "対面前提の婚活を2Dメタバース上で段階導入し、動物モチーフアバターで心理的ハードル低減と利用促進を両立。",
-      "source": "アートリー事例紹介",
+      "title": "AIと予約で荷待ちほぼゼロ。北海道ロジサービスの業務改善事例",
+      "excerpt": "手書き受付簿を「telesa‑reserve」に置換し、予約運用と可視化で待機時間をほぼゼロに",
+      "source": "JPR 日本パレットレンタル（導入事例）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "結婚相談／イベント",
+      "industryTag": "物流",
       "mechanismTags": [
-        "段階的慣れ設計"
+        "予約枠運用",
+        "データ可視化"
       ],
-      "url": "https://artory.co.jp/casestudy/customer-experience/"
+      "url": "https://www.jpr.co.jp/case/case_37/"
     },
     {
-      "id": "da4c010076d5242a",
+      "id": "cdfaa9381a303834",
       "category": "ekkyou",
-      "title": "Krispy Kreme日本：CX重視に転換して店舗満足度・ロイヤルティ向上",
-      "excerpt": "新店拡大より既存店舗でCX改善を実行。CEMプログラムでロイヤルティ会員増・顧客満足7ポイント向上。",
-      "source": "SMGマーケティング",
+      "title": "サントリーロジスティクスで待機時間削減。「回転寿司的」受付方式の物流改善",
+      "excerpt": "回転寿司の案内方式を物流に転用したDoCoMAPで、倉庫での待機時間とコストを削減",
+      "source": "DoCoMAP JAPAN（導入事例）",
       "format": "article",
       "estimatedMinutes": 4,
-      "industryTag": "小売・飲食",
+      "industryTag": "物流",
       "mechanismTags": [
-        "既存店舗での体験集中"
+        "回転寿司型受付",
+        "待機削減"
       ],
-      "url": "https://marketing.smg.com/krispy-kreme-japan-sweetens-the-customer-experience-and-improves-business-outcomes"
-    },
-    {
-      "id": "d37129e269e6606f",
-      "category": "ekkyou",
-      "title": "友達がやってるカフェ：演劇経験者スタッフによる応答型接客",
-      "excerpt": "演劇経験者のみを採用し、閉店後の相互フィードバックで毎日対応を進化させ、唯一無二の応答体験を生む仕組み。",
-      "source": "Wikipedia",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "飲食・エンタメ",
-      "mechanismTags": [
-        "演技訓練による接客強化"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Tomodachiga_Yatteru_Cafe"
+      "url": "https://www.docomap.jp/notice/118"
     }
   ]
 }
