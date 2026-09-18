@@ -1,80 +1,33 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
-      "id": "23a0ea93e2642971",
-      "category": "honmei",
-      "title": "トラックの荷待ち時間を97％「待機なし」に。バース予約システム導入による物流効率化",
-      "excerpt": "バース予約システムにより事前計画・可視化・ペーパーレス誘導を実現し、待機なしを97％に改善",
-      "source": "SBS東芝ロジスティクス（物流サービス事例）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "予約による平準化",
-        "リアルタイム可視化"
-      ],
-      "url": "https://www.sbs-toshibalogistics.co.jp/sbstlog/solution/case_013/"
-    },
-    {
-      "id": "72890a0e74c155d1",
-      "category": "honmei",
-      "title": "SAP統合で顧客ビューを一元化。ドライバー待ち時間を50％短縮した鉄道事例",
-      "excerpt": "SAPデータを統一しCustomer 360を構築、待機時間を50％削減。Fiori UX導入で使いやすさも改善",
-      "source": "Mindset Consulting（ケーススタディ）",
+      "id": "6fceea495f6cd2dc",
+      "category": "ekkyou",
+      "title": "病院：NAVITによる呼び出し可視化で待ち時間の不安を軽減",
+      "excerpt": "個人名を声に出さず進行状況を表示し、待ち時間の心理的不安を緩和する体験設計が秀逸。",
+      "source": "ゼネラル JP 導入事例",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "交通・物流",
+      "industryTag": "医療・病院",
       "mechanismTags": [
-        "データ統合による可視化",
-        "顧客ビュー一元化"
+        "進行状況可視化"
       ],
-      "url": "https://www.mindsetconsulting.com/portfolio/freight-transportation-company/"
+      "url": "https://www.generalww.com/jp/gbt/products/hospision/case-studies/aichi-med-u_ac_jp/index.html"
     },
     {
-      "id": "6ea6c98ddb8625eb",
-      "category": "honmei",
-      "title": "GPSで到着予測を共有。荷待ち30分超をゼロにした配送業務のデジタル改革",
-      "excerpt": "GPSで到着予定をリアルタイム共有し、荷待ち30分超の案件を月間ゼロに。準備の前倒しも実現",
-      "source": "NTTドコモビジネス Watch",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "リアルタイム動態共有",
-        "業務標準化"
-      ],
-      "url": "https://www.ntt.com/bizon/d/00745.html"
-    },
-    {
-      "id": "1a2456a66aaaf88e",
+      "id": "11567b37b0674af8",
       "category": "ekkyou",
-      "title": "AIと予約で荷待ちほぼゼロ。北海道ロジサービスの業務改善事例",
-      "excerpt": "手書き受付簿を「telesa‑reserve」に置換し、予約運用と可視化で待機時間をほぼゼロに",
-      "source": "JPR 日本パレットレンタル（導入事例）",
+      "title": "地方中小：SNS投稿提示で実店舗体験を強化し来店を誘導",
+      "excerpt": "SNSと実店舗を連携し、投稿提示による限定体験で来店動機とブランド愛着を高める設計。",
+      "source": "翔泳社コラム",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "物流",
+      "industryTag": "小売・地方ブランド",
       "mechanismTags": [
-        "予約枠運用",
-        "データ可視化"
+        "SNS→実店舗統合"
       ],
-      "url": "https://www.jpr.co.jp/case/case_37/"
-    },
-    {
-      "id": "cdfaa9381a303834",
-      "category": "ekkyou",
-      "title": "サントリーロジスティクスで待機時間削減。「回転寿司的」受付方式の物流改善",
-      "excerpt": "回転寿司の案内方式を物流に転用したDoCoMAPで、倉庫での待機時間とコストを削減",
-      "source": "DoCoMAP JAPAN（導入事例）",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "回転寿司型受付",
-        "待機削減"
-      ],
-      "url": "https://www.docomap.jp/notice/118"
+      "url": "https://www.shogeisha.com/column/web_sns_cx/"
     }
   ]
 }
