@@ -2,79 +2,79 @@
   "date": "2026-09-22",
   "items": [
     {
-      "id": "068f776fc0bed90c",
+      "id": "2fdc72fb81200013",
       "category": "honmei",
-      "title": "BayPOS導入で座席から着食まで30％時間短縮、月60時間の労働削減",
-      "excerpt": "しゃぶしゃぶチェーンがiPad POSを導入し、座席から食事開始までの時間を30％短縮し、月60時間の労働を削減。",
-      "source": "BayPOS公式（Plenus MK事例）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食",
-      "mechanismTags": [
-        "セルフ注文システム",
-        "労働効率化"
-      ],
-      "url": "https://www.baypos.net/en/customers/pmk"
-    },
-    {
-      "id": "bc8001a007c734b9",
-      "category": "honmei",
-      "title": "ホテルのデジタルファーストダイニングで混雑と待ち時間を軽減",
-      "excerpt": "ホテルレストランで事前注文とQRでの非接触決済を導入し、混雑と待ち時間を削減、注文確定ボタンの文言改善も実施。",
-      "source": "Shiji Groupケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "ホテル・飲食",
-      "mechanismTags": [
-        "モバイル注文",
-        "UI改善"
-      ],
-      "url": "https://www.shijigroup.com/customers/designing-digital-first-dining-operational-impact-of-integrated-f-b-technologies-at-hotel-nikko-style-niseko-hanazono"
-    },
-    {
-      "id": "c9643c625cde25a5",
-      "category": "honmei",
-      "title": "本と珈琲梟書茶房、新受付システムで待ち時間を可視化・多言語対応",
-      "excerpt": "飲食と書店を兼ねる店舗が受付自動化と多言語番号券呼出で待ち時間とスタッフ負担を軽減。",
-      "source": "Airレジ導入事例",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食・小売",
-      "mechanismTags": [
-        "受付自動化",
-        "多言語対応"
-      ],
-      "url": "https://airregi.jp/wait/case/fukuroshosabo/"
-    },
-    {
-      "id": "37e48467d85b72a6",
-      "category": "ekkyou",
-      "title": "行政キオスクでチェックイン待ちを削減、ホテル業界の応用も",
-      "excerpt": "ホテル・小売等で使われるキオスク端末により、チェックイン／会計の待ち時間を削減する共通UX設計。",
-      "source": "Wikipedia（Interactive kiosk）",
+      "title": "Brazeを活用し＠cosmeのアプリKPIを劇的改善した事例",
+      "excerpt": "@cosmeアプリにBrazeを導入し、ノーコードのポップアップ施策や詳細セグメント配信で、アプリDL数210%増・購買率200%向上の成果を達成。",
+      "source": "Braze（公式サイト）",
       "format": "article",
       "estimatedMinutes": 4,
-      "industryTag": "行政・ホテル",
+      "industryTag": "小売／eコマース",
       "mechanismTags": [
-        "セルフサービス端末",
-        "待ち時間削減"
+        "パーソナライズ配信",
+        "高速PDCA"
       ],
-      "url": "https://en.wikipedia.org/wiki/Interactive_kiosk"
+      "url": "https://www.braze.com/ja/customers/istyle-case-study"
     },
     {
-      "id": "a4d80be447252071",
+      "id": "c9eb0ec633eb7b79",
+      "category": "honmei",
+      "title": "キューサイ、ContentsquareでEC UXの“イライラ行動”を可視化し改善",
+      "excerpt": "Contentsquareの行動可視化で誤タップ原因を特定し、UI改善により誤タップ率を1/10に低減したECサイトのCX改善事例。",
+      "source": "MarTechLab",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "EC／小売",
+      "mechanismTags": [
+        "セッションリプレイ分析",
+        "UIタップ改善"
+      ],
+      "url": "https://martechlab.gaprise.jp/archives/contentsquare/dxclub-qsai/"
+    },
+    {
+      "id": "cc3f36a8e75d5918",
+      "category": "ekkyou",
+      "title": "無印良品：インスタ→店頭O2O施策でファン化を促進",
+      "excerpt": "SNSで世界観に共感した顧客が、店舗で実物確認するO2O導線により心地よさと共感を提供しファン化を実現した体験設計。",
+      "source": "コレクシアマーケティングケーススタディ",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・ブランド",
+      "mechanismTags": [
+        "O2O導線設計",
+        "心理的統一感"
+      ],
+      "url": "https://marketing-casestudy.com/casestudy/738/"
+    },
+    {
+      "id": "b732db454e84b08d",
+      "category": "ekkyou",
+      "title": "New Relic事例：U.S.M.Hが実店舗向け買い物DXを推進",
+      "excerpt": "実店舗を活用する顧客58万人に対し、スマホアプリの導入で買い物体験をデジタル化しサービス体験を向上させた事例。",
+      "source": "New Relic（公式サイト）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売／Eコマース",
+      "mechanismTags": [
+        "店内アプリ連携",
+        "買い物DX"
+      ],
+      "url": "https://newrelic.com/jp/customers"
+    },
+    {
+      "id": "39b5921e300b877f",
       "category": "teiten",
-      "title": "売上66億円「北欧、暮らしの道具店」アプリUXリサーチのポイント",
-      "excerpt": "アプリが売上66億円に成長した北欧雑貨店で、データに頼らないUXリサーチが成果に寄与した事例を紹介。",
+      "title": "オンボーディングで価値を伝える設計によりサブスクCVRが2倍に",
+      "excerpt": "招待画面で段階報酬を視覚化し、オンボーディングで価値を明示する設計によりサブスクのCVRが2倍になった話を紹介。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "アプリ",
+      "industryTag": "アプリ／マーケティング",
       "mechanismTags": [
-        "UXリサーチ",
-        "顧客理解"
+        "オンボーディング改善",
+        "視覚化インセンティブ"
       ],
-      "url": "https://appmarketinglabo.net/list/ (該当記事)"
+      "url": "https://markelabo.com/n/ne..."
     }
   ]
 }
