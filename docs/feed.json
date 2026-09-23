@@ -1,80 +1,50 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
     {
-      "id": "2fdc72fb81200013",
+      "id": "68dc3534506fc99f",
       "category": "honmei",
-      "title": "Brazeを活用し＠cosmeのアプリKPIを劇的改善した事例",
-      "excerpt": "@cosmeアプリにBrazeを導入し、ノーコードのポップアップ施策や詳細セグメント配信で、アプリDL数210%増・購買率200%向上の成果を達成。",
-      "source": "Braze（公式サイト）",
+      "title": "moomoo証券のUXを解剖 — 対話型AI分析×SNSで3年で200万DL達成",
+      "excerpt": "対話型AI分析と投資家コミュニティを軸に、証券アプリでDL数を急成長させた仕組みをUX視点で解剖している事例。",
+      "source": "テクラル研究所",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "小売／eコマース",
+      "estimatedMinutes": 8,
+      "industryTag": "金融・アプリ",
       "mechanismTags": [
-        "パーソナライズ配信",
-        "高速PDCA"
+        "AIとの対話設計",
+        "コミュニティ活用"
       ],
-      "url": "https://www.braze.com/ja/customers/istyle-case-study"
+      "url": "https://www.tekural.com/lab"
     },
     {
-      "id": "c9eb0ec633eb7b79",
+      "id": "b1a3fefa24da7923",
       "category": "honmei",
-      "title": "キューサイ、ContentsquareでEC UXの“イライラ行動”を可視化し改善",
-      "excerpt": "Contentsquareの行動可視化で誤タップ原因を特定し、UI改善により誤タップ率を1/10に低減したECサイトのCX改善事例。",
-      "source": "MarTechLab",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "EC／小売",
-      "mechanismTags": [
-        "セッションリプレイ分析",
-        "UIタップ改善"
-      ],
-      "url": "https://martechlab.gaprise.jp/archives/contentsquare/dxclub-qsai/"
-    },
-    {
-      "id": "cc3f36a8e75d5918",
-      "category": "ekkyou",
-      "title": "無印良品：インスタ→店頭O2O施策でファン化を促進",
-      "excerpt": "SNSで世界観に共感した顧客が、店舗で実物確認するO2O導線により心地よさと共感を提供しファン化を実現した体験設計。",
-      "source": "コレクシアマーケティングケーススタディ",
+      "title": "Shake Shack：セルフオーダー設計とペルソナ／カスタマージャーニー活用",
+      "excerpt": "セルフオーダー型注文プラットフォームで顧客体験を再設計し、ペルソナとジャーニーマップで業績向上に貢献した仕組み。",
+      "source": "モンスターラボ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "小売・ブランド",
+      "industryTag": "飲食",
       "mechanismTags": [
-        "O2O導線設計",
-        "心理的統一感"
+        "ペルソナ設計",
+        "ジャーニーマップ"
       ],
-      "url": "https://marketing-casestudy.com/casestudy/738/"
+      "url": "https://monstar-lab.com/dx/solution/ux-design/"
     },
     {
-      "id": "b732db454e84b08d",
-      "category": "ekkyou",
-      "title": "New Relic事例：U.S.M.Hが実店舗向け買い物DXを推進",
-      "excerpt": "実店舗を活用する顧客58万人に対し、スマホアプリの導入で買い物体験をデジタル化しサービス体験を向上させた事例。",
-      "source": "New Relic（公式サイト）",
+      "id": "978e96ce5a74cd0f",
+      "category": "honmei",
+      "title": "業務システムUX/UI改善：高速道路業界で“つまずき可視化”から直感UIへ",
+      "excerpt": "2,000人の操作データで“つまずき”を可視化し、情報構造とUIを再設計して操作負荷を軽減した成功事例。",
+      "source": "株式会社PIVOT（PR）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売／Eコマース",
+      "estimatedMinutes": 7,
+      "industryTag": "交通・業務システム",
       "mechanismTags": [
-        "店内アプリ連携",
-        "買い物DX"
+        "定量×定性分析",
+        "OOUX情報設計"
       ],
-      "url": "https://newrelic.com/jp/customers"
-    },
-    {
-      "id": "39b5921e300b877f",
-      "category": "teiten",
-      "title": "オンボーディングで価値を伝える設計によりサブスクCVRが2倍に",
-      "excerpt": "招待画面で段階報酬を視覚化し、オンボーディングで価値を明示する設計によりサブスクのCVRが2倍になった話を紹介。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "アプリ／マーケティング",
-      "mechanismTags": [
-        "オンボーディング改善",
-        "視覚化インセンティブ"
-      ],
-      "url": "https://markelabo.com/n/ne..."
+      "url": "https://www.atpress.ne.jp/news/1488497"
     }
   ]
 }
