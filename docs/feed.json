@@ -1,50 +1,65 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-25",
   "items": [
     {
-      "id": "68dc3534506fc99f",
-      "category": "honmei",
-      "title": "moomoo証券のUXを解剖 — 対話型AI分析×SNSで3年で200万DL達成",
-      "excerpt": "対話型AI分析と投資家コミュニティを軸に、証券アプリでDL数を急成長させた仕組みをUX視点で解剖している事例。",
-      "source": "テクラル研究所",
+      "id": "56262d9b92154f14",
+      "category": "ekkyou",
+      "title": "JioEVAが物流体験を刷新：10～15％のEDD精度向上とAHT削減を実現",
+      "excerpt": "AIチャットと仮想番号で配達問い合わせを自動化、配送予定の透明化とプライバシー保護による信頼性向上。",
+      "source": "JioBusiness事例",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "金融・アプリ",
+      "estimatedMinutes": 5,
+      "industryTag": "物流",
       "mechanismTags": [
-        "AIとの対話設計",
-        "コミュニティ活用"
+        "AI顧客対応",
+        "リアルタイム可視化"
       ],
-      "url": "https://www.tekural.com/lab"
+      "url": "https://www.jio.com/jcms/business/resources/case-study/a-global-leader-transforms-customer-experience-with-jioeva/"
     },
     {
-      "id": "b1a3fefa24da7923",
-      "category": "honmei",
-      "title": "Shake Shack：セルフオーダー設計とペルソナ／カスタマージャーニー活用",
-      "excerpt": "セルフオーダー型注文プラットフォームで顧客体験を再設計し、ペルソナとジャーニーマップで業績向上に貢献した仕組み。",
-      "source": "モンスターラボ",
+      "id": "4cd42db4e6de941f",
+      "category": "ekkyou",
+      "title": "ClickPostでCaratLaneがオムニチャネル物流を自動化し配送体験を革新",
+      "excerpt": "API自動連携とNDR対応、自動SLA監視により配送精度・可視化を高め、RTOを30％減らし21倍の出荷量を可能に。",
+      "source": "CaseStudies.com",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "飲食",
+      "estimatedMinutes": 5,
+      "industryTag": "小売（ジュエリー）",
       "mechanismTags": [
-        "ペルソナ設計",
-        "ジャーニーマップ"
+        "配送自動化",
+        "オムニチャネル統合"
       ],
-      "url": "https://monstar-lab.com/dx/solution/ux-design/"
+      "url": "https://www.casestudies.com/company/clickpost/case-study/how-caratlane-perfected-their-omni-channel-customer-experience-with-clickpost"
     },
     {
-      "id": "978e96ce5a74cd0f",
-      "category": "honmei",
-      "title": "業務システムUX/UI改善：高速道路業界で“つまずき可視化”から直感UIへ",
-      "excerpt": "2,000人の操作データで“つまずき”を可視化し、情報構造とUIを再設計して操作負荷を軽減した成功事例。",
-      "source": "株式会社PIVOT（PR）",
+      "id": "ba343b5f0d9a92b9",
+      "category": "ekkyou",
+      "title": "UPS ASCがCommBoxでWhatsAppを活用、顧客応答を即時業務反映へ",
+      "excerpt": "WhatsAppやメールでの顧客対応をAIが解析、CRMや物流システムとリアル連携し問い合わせを自動処理・業務化。",
+      "source": "CommBox事例",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "交通・業務システム",
+      "estimatedMinutes": 5,
+      "industryTag": "物流",
       "mechanismTags": [
-        "定量×定性分析",
-        "OOUX情報設計"
+        "AI自動応答",
+        "リアルタイム連携"
       ],
-      "url": "https://www.atpress.ne.jp/news/1488497"
+      "url": "https://www.commbox.io/customers/ups-asc-case-study/"
+    },
+    {
+      "id": "a54169b430c0acff",
+      "category": "ekkyou",
+      "title": "NXが自動車アフターサービスでCSと物流を統合、応答～配送を一本化",
+      "excerpt": "部品問い合わせから在庫・配送・欠陥対応までを顧客センターと物流倉庫が一体運用し、迅速・信頼性の高い体験に。",
+      "source": "Nippon Express（NX）事例",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "自動車アフターサービス",
+      "mechanismTags": [
+        "センター統合運用",
+        "在庫物流一体化"
+      ],
+      "url": "https://www.nipponexpress.com/knowledge/case/integrated-customer-service-and-logistics-operations/"
     }
   ]
 }
