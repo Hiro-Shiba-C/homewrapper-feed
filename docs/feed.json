@@ -1,65 +1,80 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "items": [
     {
-      "id": "56262d9b92154f14",
-      "category": "ekkyou",
-      "title": "JioEVAが物流体験を刷新：10～15％のEDD精度向上とAHT削減を実現",
-      "excerpt": "AIチャットと仮想番号で配達問い合わせを自動化、配送予定の透明化とプライバシー保護による信頼性向上。",
-      "source": "JioBusiness事例",
+      "id": "adf531c9633dcac4",
+      "category": "honmei",
+      "title": "Reformationが構築した“デジタル＋店舗”で実現する特別な試着体験",
+      "excerpt": "手持ち端末＆店内スクリーンで“試着室を自分で構築”、“照明切替／スタイリング／サステナビリティ情報”提示などUXシステムが詳細に述べられている",
+      "source": "TIME（インタビュー）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "物流",
+      "estimatedMinutes": 7,
+      "industryTag": "小売（アパレル）",
       "mechanismTags": [
-        "AI顧客対応",
-        "リアルタイム可視化"
+        "O2O体験設計",
+        "フィジカル×デジタル統合"
       ],
-      "url": "https://www.jio.com/jcms/business/resources/case-study/a-global-leader-transforms-customer-experience-with-jioeva/"
+      "url": "https://time.com/7345258/reformation-ceo-hali-borenstein-interview/"
     },
     {
-      "id": "4cd42db4e6de941f",
-      "category": "ekkyou",
-      "title": "ClickPostでCaratLaneがオムニチャネル物流を自動化し配送体験を革新",
-      "excerpt": "API自動連携とNDR対応、自動SLA監視により配送精度・可視化を高め、RTOを30％減らし21倍の出荷量を可能に。",
-      "source": "CaseStudies.com",
+      "id": "cb31f346904cf6d5",
+      "category": "honmei",
+      "title": "スーパーマーケットチェーンにおける人中心の顧客体験改革事例",
+      "excerpt": "950店舗以上のスーパーマーケットで、実地サービス行動を組織に定着させ、顧客満足・従業員エンゲージメント・営業利益を向上",
+      "source": "Small and Mighty Group（ケーススタディ）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売（ジュエリー）",
+      "estimatedMinutes": 6,
+      "industryTag": "小売",
       "mechanismTags": [
-        "配送自動化",
-        "オムニチャネル統合"
+        "組織文化改革",
+        "サービス行動モデル"
       ],
-      "url": "https://www.casestudies.com/company/clickpost/case-study/how-caratlane-perfected-their-omni-channel-customer-experience-with-clickpost"
+      "url": "https://www.smallmightygroup.com/case-study/retail-service-culture-transformation-case-study/"
     },
     {
-      "id": "ba343b5f0d9a92b9",
+      "id": "6af1aee8379edecf",
       "category": "ekkyou",
-      "title": "UPS ASCがCommBoxでWhatsAppを活用、顧客応答を即時業務反映へ",
-      "excerpt": "WhatsAppやメールでの顧客対応をAIが解析、CRMや物流システムとリアル連携し問い合わせを自動処理・業務化。",
-      "source": "CommBox事例",
+      "title": "SAPが提唱する“エージェント型コマース”とUXの未来",
+      "excerpt": "AI×構造化商品データで、LLMやAIエージェントによる購入体験開始を目指す未来型UX概念の紹介",
+      "source": "Axios（記事）",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "物流",
+      "estimatedMinutes": 4,
+      "industryTag": "IT（リテール×AI）",
       "mechanismTags": [
-        "AI自動応答",
-        "リアルタイム連携"
+        "エージェント型UX",
+        "構造化データ利用"
       ],
-      "url": "https://www.commbox.io/customers/ups-asc-case-study/"
+      "url": "https://www.axios.com/sponsored/ai-is-reshaping-how-we-shop-heres-how-brands-can-keep-up"
     },
     {
-      "id": "a54169b430c0acff",
+      "id": "28e3300f606e8b63",
       "category": "ekkyou",
-      "title": "NXが自動車アフターサービスでCSと物流を統合、応答～配送を一本化",
-      "excerpt": "部品問い合わせから在庫・配送・欠陥対応までを顧客センターと物流倉庫が一体運用し、迅速・信頼性の高い体験に。",
-      "source": "Nippon Express（NX）事例",
+      "title": "メディア企業がプレミアム音声体験を6週間でプロトタイプ化した事例",
+      "excerpt": "英国Bauer Mediaが、広告なしかつプレミアムなラジオ体験を短期間でUX設計・映像化し経営陣巻き込みに成功",
+      "source": "Softwire（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "自動車アフターサービス",
+      "industryTag": "エンタメ・メディア",
       "mechanismTags": [
-        "センター統合運用",
-        "在庫物流一体化"
+        "UXスプリント",
+        "経営巻き込み"
       ],
-      "url": "https://www.nipponexpress.com/knowledge/case/integrated-customer-service-and-logistics-operations/"
+      "url": "https://www.softwire.com/work/from-service-proposition-to-premium-prototype-in-six-short-weeks"
+    },
+    {
+      "id": "d787fd4a1ee5c08f",
+      "category": "ekkyou",
+      "title": "コンビニ小売で実体験からCX改善し売上に直結した事例",
+      "excerpt": "2,500以上の顧客アンケートによるセグメント分析とCX改善施策で、販売プロセス修正による売上7％増、施策で9％増",
+      "source": "Sintec Consulting（ケーススタディ）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売（コンビニ）",
+      "mechanismTags": [
+        "顧客セグメント分析",
+        "サービスプロセス改善"
+      ],
+      "url": "https://sintec.com/case-study/customer-centricity-driving-growth-in-convenience-retail/"
     }
   ]
 }
