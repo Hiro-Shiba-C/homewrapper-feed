@@ -1,80 +1,50 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "items": [
     {
-      "id": "adf531c9633dcac4",
+      "id": "9f553b736ed5a3d0",
       "category": "honmei",
-      "title": "Reformationが構築した“デジタル＋店舗”で実現する特別な試着体験",
-      "excerpt": "手持ち端末＆店内スクリーンで“試着室を自分で構築”、“照明切替／スタイリング／サステナビリティ情報”提示などUXシステムが詳細に述べられている",
-      "source": "TIME（インタビュー）",
+      "title": "Minna Bank：日本初のデジタルネイティブ銀行によるエンドツーエンド体験設計",
+      "excerpt": "クラウド基盤＋BaaSモデルで、支店依存を脱し、デジタルネイティブ向けにパーソナライズUXを構築",
+      "source": "Accenture Case Study",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "金融（銀行）",
+      "mechanismTags": [
+        "クラウドネイティブ",
+        "BaaS"
+      ],
+      "url": "https://www.accenture.com/en/case-studies/banking/minna-bank"
+    },
+    {
+      "id": "486823fdf3710096",
+      "category": "ekkyou",
+      "title": "くらしのマーケット：メッセージ対応＋アプリ誘導で出張サービスUXを劇的改善",
+      "excerpt": "予約後のアプリ誘導や「電話不要」訴求でDL1.7倍・単価1.5倍・流通額11倍を実現",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "生活サービス",
+      "mechanismTags": [
+        "アプリ誘導設計",
+        "非対面訴求"
+      ],
+      "url": "https://appmarketinglabo.net/curama-growth/"
+    },
+    {
+      "id": "1d19c6aa645a25ad",
+      "category": "ekkyou",
+      "title": "e‑Gov リニューアル：国民と行政をつなぐUXデザイン設計",
+      "excerpt": "行政手続きUXを再設計し、不安軽減・利用促進を目指すデジタルインターフェース刷新の舞台裏",
+      "source": "Web担当者Forum",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "小売（アパレル）",
+      "industryTag": "行政",
       "mechanismTags": [
-        "O2O体験設計",
-        "フィジカル×デジタル統合"
+        "行政UX改善",
+        "不安軽減"
       ],
-      "url": "https://time.com/7345258/reformation-ceo-hali-borenstein-interview/"
-    },
-    {
-      "id": "cb31f346904cf6d5",
-      "category": "honmei",
-      "title": "スーパーマーケットチェーンにおける人中心の顧客体験改革事例",
-      "excerpt": "950店舗以上のスーパーマーケットで、実地サービス行動を組織に定着させ、顧客満足・従業員エンゲージメント・営業利益を向上",
-      "source": "Small and Mighty Group（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売",
-      "mechanismTags": [
-        "組織文化改革",
-        "サービス行動モデル"
-      ],
-      "url": "https://www.smallmightygroup.com/case-study/retail-service-culture-transformation-case-study/"
-    },
-    {
-      "id": "6af1aee8379edecf",
-      "category": "ekkyou",
-      "title": "SAPが提唱する“エージェント型コマース”とUXの未来",
-      "excerpt": "AI×構造化商品データで、LLMやAIエージェントによる購入体験開始を目指す未来型UX概念の紹介",
-      "source": "Axios（記事）",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "IT（リテール×AI）",
-      "mechanismTags": [
-        "エージェント型UX",
-        "構造化データ利用"
-      ],
-      "url": "https://www.axios.com/sponsored/ai-is-reshaping-how-we-shop-heres-how-brands-can-keep-up"
-    },
-    {
-      "id": "28e3300f606e8b63",
-      "category": "ekkyou",
-      "title": "メディア企業がプレミアム音声体験を6週間でプロトタイプ化した事例",
-      "excerpt": "英国Bauer Mediaが、広告なしかつプレミアムなラジオ体験を短期間でUX設計・映像化し経営陣巻き込みに成功",
-      "source": "Softwire（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "エンタメ・メディア",
-      "mechanismTags": [
-        "UXスプリント",
-        "経営巻き込み"
-      ],
-      "url": "https://www.softwire.com/work/from-service-proposition-to-premium-prototype-in-six-short-weeks"
-    },
-    {
-      "id": "d787fd4a1ee5c08f",
-      "category": "ekkyou",
-      "title": "コンビニ小売で実体験からCX改善し売上に直結した事例",
-      "excerpt": "2,500以上の顧客アンケートによるセグメント分析とCX改善施策で、販売プロセス修正による売上7％増、施策で9％増",
-      "source": "Sintec Consulting（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売（コンビニ）",
-      "mechanismTags": [
-        "顧客セグメント分析",
-        "サービスプロセス改善"
-      ],
-      "url": "https://sintec.com/case-study/customer-centricity-driving-growth-in-convenience-retail/"
+      "url": "https://webtan.impress.co.jp/articles?article_category%5B2755%5D=2755&article_type%5B2743%5D=2743"
     }
   ]
 }
