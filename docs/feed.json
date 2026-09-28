@@ -1,50 +1,47 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-29",
   "items": [
     {
-      "id": "9f553b736ed5a3d0",
+      "id": "4513dc79e8d7c507",
       "category": "honmei",
-      "title": "Minna Bank：日本初のデジタルネイティブ銀行によるエンドツーエンド体験設計",
-      "excerpt": "クラウド基盤＋BaaSモデルで、支店依存を脱し、デジタルネイティブ向けにパーソナライズUXを構築",
-      "source": "Accenture Case Study",
+      "title": "星野リゾート、従業員裁量とフラット組織でCX向上",
+      "excerpt": "従業員に裁量権を与え、画一性ではなく潜在ニーズに応える感動体験を創出した仕組み。",
+      "source": "CREX（CX向上事例）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "金融（銀行）",
+      "industryTag": "宿泊",
       "mechanismTags": [
-        "クラウドネイティブ",
-        "BaaS"
+        "裁量権委譲"
       ],
-      "url": "https://www.accenture.com/en/case-studies/banking/minna-bank"
+      "url": "https://crexgroup.com/ja/marketing/crm-sales/cx-improvement-case-studies/"
     },
     {
-      "id": "486823fdf3710096",
+      "id": "3d39f278ec14cae7",
       "category": "ekkyou",
-      "title": "くらしのマーケット：メッセージ対応＋アプリ誘導で出張サービスUXを劇的改善",
-      "excerpt": "予約後のアプリ誘導や「電話不要」訴求でDL1.7倍・単価1.5倍・流通額11倍を実現",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "生活サービス",
-      "mechanismTags": [
-        "アプリ誘導設計",
-        "非対面訴求"
-      ],
-      "url": "https://appmarketinglabo.net/curama-growth/"
-    },
-    {
-      "id": "1d19c6aa645a25ad",
-      "category": "ekkyou",
-      "title": "e‑Gov リニューアル：国民と行政をつなぐUXデザイン設計",
-      "excerpt": "行政手続きUXを再設計し、不安軽減・利用促進を目指すデジタルインターフェース刷新の舞台裏",
-      "source": "Web担当者Forum",
+      "title": "ANA CX基盤：デジタルとリアルを統合したストリーミングエンジン",
+      "excerpt": "リアル現場とデジタルをつなぐCX基盤＋ストリーミングで最適タイミング提供。",
+      "source": "CTC Best Engine（Case Study）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "行政",
+      "industryTag": "交通・航空",
       "mechanismTags": [
-        "行政UX改善",
-        "不安軽減"
+        "データ統合基盤"
       ],
-      "url": "https://webtan.impress.co.jp/articles?article_category%5B2755%5D=2755&article_type%5B2743%5D=2743"
+      "url": "https://www.ctc-g.co.jp/bestengine/article/2021/0511b_01.html"
+    },
+    {
+      "id": "3982dc9eee3e056b",
+      "category": "teiten",
+      "title": "広告費ゼロでグローバル展開：ノート投稿アプリ「Clear」の現地インターン施策",
+      "excerpt": "現地大学生インターン運用＋検索流入工夫で広告ゼロ、180万DL達成の成長施策。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "アプリ／教育",
+      "mechanismTags": [
+        "現地運営＋検索集客"
+      ],
+      "url": "https://appmarketinglabo.net/clear-marketing/"
     }
   ]
 }
