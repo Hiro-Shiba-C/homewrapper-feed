@@ -2,46 +2,62 @@
   "date": "2026-09-29",
   "items": [
     {
-      "id": "4513dc79e8d7c507",
+      "id": "80a427a732e28bdc",
       "category": "honmei",
-      "title": "星野リゾート、従業員裁量とフラット組織でCX向上",
-      "excerpt": "従業員に裁量権を与え、画一性ではなく潜在ニーズに応える感動体験を創出した仕組み。",
-      "source": "CREX（CX向上事例）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "宿泊",
-      "mechanismTags": [
-        "裁量権委譲"
-      ],
-      "url": "https://crexgroup.com/ja/marketing/crm-sales/cx-improvement-case-studies/"
-    },
-    {
-      "id": "3d39f278ec14cae7",
-      "category": "ekkyou",
-      "title": "ANA CX基盤：デジタルとリアルを統合したストリーミングエンジン",
-      "excerpt": "リアル現場とデジタルをつなぐCX基盤＋ストリーミングで最適タイミング提供。",
-      "source": "CTC Best Engine（Case Study）",
+      "title": "JR東日本：カスタマージャーニーマップマネジメントで組織的にCXを高める",
+      "excerpt": "事業ビジョンからUXフローまでを、カスタマージャーニーマップマネジメントで組織的に接続・運用し、CXを体質化した組織設計事例。",
+      "source": "コンセント（事例紹介）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "交通・航空",
+      "industryTag": "交通",
       "mechanismTags": [
-        "データ統合基盤"
+        "CJMM",
+        "組織的デザイン活用"
       ],
-      "url": "https://www.ctc-g.co.jp/bestengine/article/2021/0511b_01.html"
+      "url": "https://www.concentinc.jp/works/jre_designseminar_202503/"
     },
     {
-      "id": "3982dc9eee3e056b",
+      "id": "d35c51eff45a13ba",
+      "category": "ekkyou",
+      "title": "Contentsquare × ゴルフダイジェスト・オンライン：UX改善サイクルを高速化",
+      "excerpt": "GDOがデジタルUX調査をContentsquareで効率化し、改善サイクルを高速に回せる仕組みを構築したEC体験設計事例。",
+      "source": "Contentsquare（顧客事例）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "スポーツ・EC",
+      "mechanismTags": [
+        "定性定量調査サイクル",
+        "高速PDCA"
+      ],
+      "url": "https://contentsquare.com/ja-ja/customers/golf-digest-online/"
+    },
+    {
+      "id": "a1ea9ae5ea94fc07",
       "category": "teiten",
-      "title": "広告費ゼロでグローバル展開：ノート投稿アプリ「Clear」の現地インターン施策",
-      "excerpt": "現地大学生インターン運用＋検索流入工夫で広告ゼロ、180万DL達成の成長施策。",
+      "title": "ハードルを下げたらアイテムの新規作成者数がデイリーで2倍に—「SUZURI」の成長施策",
+      "excerpt": "新規ユーザーがアイテムを作成しやすいUI/UX設計により、SUZURIのデイリー新規作成者数が2倍になった事例。",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "アプリ／教育",
+      "estimatedMinutes": 5,
+      "industryTag": "アプリ（eコマース）",
       "mechanismTags": [
-        "現地運営＋検索集客"
+        "オンボーディング簡易化"
       ],
-      "url": "https://appmarketinglabo.net/clear-marketing/"
+      "url": "https://appmarketinglabo.net/（2025.9.22 SUZURI 成長施策 記事）"
+    },
+    {
+      "id": "884ef2f184c0257e",
+      "category": "teiten",
+      "title": "「続ける理由」を訴求したら広告経由の継続率が約2倍に—コスメアプリLIPS",
+      "excerpt": "プロモーション内で“続ける理由”を明示したことで、広告経由での継続率が約2倍になったLIPSのUX改善事例。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "アプリ（コスメ）",
+      "mechanismTags": [
+        "広告内体験訴求"
+      ],
+      "url": "https://appmarketinglabo.net/（2025.9.8 LIPS 継続率 記事）"
     }
   ]
 }
