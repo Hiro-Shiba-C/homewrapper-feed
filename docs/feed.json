@@ -1,63 +1,20 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-10-01",
   "items": [
     {
-      "id": "80a427a732e28bdc",
+      "id": "35f0400be3e21e48",
       "category": "honmei",
-      "title": "JR東日本：カスタマージャーニーマップマネジメントで組織的にCXを高める",
-      "excerpt": "事業ビジョンからUXフローまでを、カスタマージャーニーマップマネジメントで組織的に接続・運用し、CXを体質化した組織設計事例。",
-      "source": "コンセント（事例紹介）",
+      "title": "百貨店のWebリニューアルでO2O戦略を強化し顧客体験を向上",
+      "excerpt": "オンラインと店舗の役割を整理し、KPI設計・ダッシュボード導入によるUX向上の仕組みが明確",
+      "source": "アンダーワークス",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "交通",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・百貨店",
       "mechanismTags": [
-        "CJMM",
-        "組織的デザイン活用"
+        "O2O連携",
+        "KPI可視化"
       ],
-      "url": "https://www.concentinc.jp/works/jre_designseminar_202503/"
-    },
-    {
-      "id": "d35c51eff45a13ba",
-      "category": "ekkyou",
-      "title": "Contentsquare × ゴルフダイジェスト・オンライン：UX改善サイクルを高速化",
-      "excerpt": "GDOがデジタルUX調査をContentsquareで効率化し、改善サイクルを高速に回せる仕組みを構築したEC体験設計事例。",
-      "source": "Contentsquare（顧客事例）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "スポーツ・EC",
-      "mechanismTags": [
-        "定性定量調査サイクル",
-        "高速PDCA"
-      ],
-      "url": "https://contentsquare.com/ja-ja/customers/golf-digest-online/"
-    },
-    {
-      "id": "a1ea9ae5ea94fc07",
-      "category": "teiten",
-      "title": "ハードルを下げたらアイテムの新規作成者数がデイリーで2倍に—「SUZURI」の成長施策",
-      "excerpt": "新規ユーザーがアイテムを作成しやすいUI/UX設計により、SUZURIのデイリー新規作成者数が2倍になった事例。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリ（eコマース）",
-      "mechanismTags": [
-        "オンボーディング簡易化"
-      ],
-      "url": "https://appmarketinglabo.net/（2025.9.22 SUZURI 成長施策 記事）"
-    },
-    {
-      "id": "884ef2f184c0257e",
-      "category": "teiten",
-      "title": "「続ける理由」を訴求したら広告経由の継続率が約2倍に—コスメアプリLIPS",
-      "excerpt": "プロモーション内で“続ける理由”を明示したことで、広告経由での継続率が約2倍になったLIPSのUX改善事例。",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリ（コスメ）",
-      "mechanismTags": [
-        "広告内体験訴求"
-      ],
-      "url": "https://appmarketinglabo.net/（2025.9.8 LIPS 継続率 記事）"
+      "url": "https://www.underworks.co.jp/case/a001"
     }
   ]
 }
