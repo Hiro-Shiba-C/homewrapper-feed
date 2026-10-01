@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "items": [
     {
-      "id": "35f0400be3e21e48",
+      "id": "edb11dbd7c01fc15",
       "category": "honmei",
-      "title": "百貨店のWebリニューアルでO2O戦略を強化し顧客体験を向上",
-      "excerpt": "オンラインと店舗の役割を整理し、KPI設計・ダッシュボード導入によるUX向上の仕組みが明確",
-      "source": "アンダーワークス",
+      "title": "行政の「利用者視点」デジタル事例集（デジタル庁）",
+      "excerpt": "マイナポータルや給付支援サービスなど、行政UXを支える組織体制・業務とUX設計の接続仕組みが具体的に紹介されている。",
+      "source": "デジタル庁公式サイト",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売・百貨店",
+      "estimatedMinutes": 10,
+      "industryTag": "行政サービス",
       "mechanismTags": [
-        "O2O連携",
-        "KPI可視化"
+        "現場／運用設計",
+        "担当者の声"
       ],
-      "url": "https://www.underworks.co.jp/case/a001"
+      "url": "https://www.digital.go.jp/resources/user-centered-approach-guidebook/case-study"
     }
   ]
 }
