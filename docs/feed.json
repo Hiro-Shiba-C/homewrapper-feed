@@ -2,19 +2,64 @@
   "date": "2026-10-02",
   "items": [
     {
-      "id": "edb11dbd7c01fc15",
+      "id": "a6b8e52d9a520c84",
       "category": "honmei",
-      "title": "行政の「利用者視点」デジタル事例集（デジタル庁）",
-      "excerpt": "マイナポータルや給付支援サービスなど、行政UXを支える組織体制・業務とUX設計の接続仕組みが具体的に紹介されている。",
-      "source": "デジタル庁公式サイト",
+      "title": "予約の瞬間から“特別な体験”が始まる対話型UIによる写真撮影サービス事例",
+      "excerpt": "対話型UIで必要な情報だけを順次聞くことで、透明性ある料金提示と納得感の高い予約体験を設計。特別な体験を予約段階から始める仕組み。",
+      "source": "株式会社アートリー",
       "format": "article",
-      "estimatedMinutes": 10,
-      "industryTag": "行政サービス",
+      "estimatedMinutes": 5,
+      "industryTag": "サービス（写真）",
       "mechanismTags": [
-        "現場／運用設計",
-        "担当者の声"
+        "対話型UI",
+        "期待値マッチング"
       ],
-      "url": "https://www.digital.go.jp/resources/user-centered-approach-guidebook/case-study"
+      "url": "https://artory.co.jp/casestudy/271"
+    },
+    {
+      "id": "499c1022a72819bc",
+      "category": "honmei",
+      "title": "Contentsquareによる「ロストジャーニー」可視化でCX改善",
+      "excerpt": "離脱原因を視覚化し、入力フォームの違和感改修や新規登録率向上など複数業界でUI/UX改善を進めるデータに基づく仕組み。",
+      "source": "Contentsquare顧客事例集",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "金融・小売・通信",
+      "mechanismTags": [
+        "ロストジャーニー可視化",
+        "データ駆動改善"
+      ],
+      "url": "https://go.contentsquare.com/ja/customer-stories"
+    },
+    {
+      "id": "bed339b2e599e3e8",
+      "category": "ekkyou",
+      "title": "matoca：LINEで順番待ち業務を見える化し待ち時間の負担を軽減",
+      "excerpt": "LINE上で順番待ち状況が確認でき、店舗前や窓口で待たずに済む仕組みで、飲食業や鉄道窓口など複数業界に展開。",
+      "source": "matoca導入事例",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食・交通",
+      "mechanismTags": [
+        "順番待ちの見える化",
+        "LINEミニアプリ"
+      ],
+      "url": "https://junbanmachi.jp/case/"
+    },
+    {
+      "id": "db4637d720da2b22",
+      "category": "teiten",
+      "title": "ヨンデミー：読書習慣化サービスに80万件の感想が集まった仕組み",
+      "excerpt": "東大生考案サービス「ヨンデミー」で、子どもの読書習慣化を支える工夫と、感想投稿を引き出す体験設計が成功要因。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "教育",
+      "mechanismTags": [
+        "習慣化設計",
+        "ユーザー参加促進"
+      ],
+      "url": "https://appmarketinglabo.net/list/ (該当記事 2025.8.5)"
     }
   ]
 }
