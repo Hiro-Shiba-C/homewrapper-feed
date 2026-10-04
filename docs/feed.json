@@ -1,19 +1,62 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "items": [
     {
-      "id": "fb16e5fa8c39212a",
-      "category": "ekkyou",
-      "title": "メンバーズ×日本KFC：CX変革に取り組んだ店舗とデジタルの統合支援",
-      "excerpt": "ケンタッキーと協働し、店舗とデジタルを横断するCX改善の組織・運用設計の取り組み",
-      "source": "Members",
+      "id": "15db898e6bcfa471",
+      "category": "honmei",
+      "title": "東京ドームホテルがPREWAIT導入で受付体験を効率化",
+      "excerpt": "直感的な順番待ちシステム導入で混雑時の受付負担を削減し顧客の体験向上を実現",
+      "source": "シャープマーケティングジャパン導入事例",
       "format": "article",
       "estimatedMinutes": 4,
-      "industryTag": "飲食・小売",
+      "industryTag": "宿泊",
       "mechanismTags": [
-        "組織横断型運用"
+        "順番待ちデジタル化",
+        "受付オペレーション改善"
       ],
-      "url": "https://www.members.co.jp/results"
+      "url": "https://smj.jp.sharp/bs/cases/prewait/tokyo_dome_hotel.html"
+    },
+    {
+      "id": "c531253caf81ca0c",
+      "category": "ekkyou",
+      "title": "四つ角飯店がLINE連携matocaで行列ストレスを解消",
+      "excerpt": "LINEで順番待ち受付・通知実現し、店前の長時間待機を自由な時間に変えた仕組み",
+      "source": "junbanmachi.jp",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "飲食",
+      "mechanismTags": [
+        "LINE呼び出し運用",
+        "待ち時間解放"
+      ],
+      "url": "https://junbanmachi.jp/case/yotsukado-hanten/"
+    },
+    {
+      "id": "b8db2cc028323856",
+      "category": "ekkyou",
+      "title": "CodeMintLabによる東京バー向けオンライン予約UI設計",
+      "excerpt": "モバイル重視の予約・事前決済導入で混雑緩和とUX向上を両立したバー運営の仕組み",
+      "source": "CodeMintLab（ケーススタディ）",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食・バー",
+      "mechanismTags": [
+        "オンライン予約",
+        "モバイルファースト設計"
+      ],
+      "url": "https://codemintlab.com/case-studies/tokyo-bar"
+    },
+    {
+      "id": "39298c3247fb30ab",
+      "category": "teiten",
+      "title": "該当なし",
+      "excerpt": "直近30日で事例・体験変化を扱った記事は確認できず",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 0,
+      "industryTag": "",
+      "mechanismTags": [],
+      "url": ""
     }
   ]
 }
