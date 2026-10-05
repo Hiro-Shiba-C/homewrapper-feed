@@ -1,62 +1,61 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-06",
   "items": [
     {
-      "id": "15db898e6bcfa471",
+      "id": "f3b572e64e64509a",
       "category": "honmei",
-      "title": "東京ドームホテルがPREWAIT導入で受付体験を効率化",
-      "excerpt": "直感的な順番待ちシステム導入で混雑時の受付負担を削減し顧客の体験向上を実現",
-      "source": "シャープマーケティングジャパン導入事例",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "宿泊",
-      "mechanismTags": [
-        "順番待ちデジタル化",
-        "受付オペレーション改善"
-      ],
-      "url": "https://smj.jp.sharp/bs/cases/prewait/tokyo_dome_hotel.html"
-    },
-    {
-      "id": "c531253caf81ca0c",
-      "category": "ekkyou",
-      "title": "四つ角飯店がLINE連携matocaで行列ストレスを解消",
-      "excerpt": "LINEで順番待ち受付・通知実現し、店前の長時間待機を自由な時間に変えた仕組み",
-      "source": "junbanmachi.jp",
+      "title": "タイムアウトマーケット大阪：編集者厳選店舗を集め“場”の体験を再設計したCX事例",
+      "excerpt": "“地元編集者が厳選した名店を一ヶ所に集める”ことで、社交と食の体験を文化的に再構築",
+      "source": "プレイド CX AWARD 2025",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "飲食",
+      "industryTag": "飲食・観光",
       "mechanismTags": [
-        "LINE呼び出し運用",
-        "待ち時間解放"
+        "キュレーション×場設計"
       ],
-      "url": "https://junbanmachi.jp/case/yotsukado-hanten/"
+      "url": "https://plaid.co.jp/news/20251218/"
     },
     {
-      "id": "b8db2cc028323856",
+      "id": "52cff773bfa0b97a",
       "category": "ekkyou",
-      "title": "CodeMintLabによる東京バー向けオンライン予約UI設計",
-      "excerpt": "モバイル重視の予約・事前決済導入で混雑緩和とUX向上を両立したバー運営の仕組み",
-      "source": "CodeMintLab（ケーススタディ）",
+      "title": "美容医療×飲食店：予約・会計などをLINE／POSで統合した仕組み",
+      "excerpt": "業界別モデルケースで、予約・会計・顧客対応・写真共有までを一気通貫で整理した業務設計を紹介",
+      "source": "バナナラボ",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食・バー",
+      "estimatedMinutes": 6,
+      "industryTag": "美容医療",
       "mechanismTags": [
-        "オンライン予約",
-        "モバイルファースト設計"
+        "業務統合システム"
       ],
-      "url": "https://codemintlab.com/case-studies/tokyo-bar"
+      "url": "https://bananalabo.org/cases/"
     },
     {
-      "id": "39298c3247fb30ab",
+      "id": "03e2f28a4e67c651",
+      "category": "ekkyou",
+      "title": "ドラッグ＆ドロップだけのUX改善：あすけんの個別化体験設計",
+      "excerpt": "ダイエット記録やチャレンジ機能を通じ、ユーザーごとに寄り添うUX設計で利用継続を促進",
+      "source": "株式会社アイリッジ",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "教育・ヘルスケア",
+      "mechanismTags": [
+        "個別体験設計"
+      ],
+      "url": "https://iridge.jp/blog/202512/40288/"
+    },
+    {
+      "id": "6b154e0668ec3bc1",
       "category": "teiten",
-      "title": "該当なし",
-      "excerpt": "直近30日で事例・体験変化を扱った記事は確認できず",
+      "title": "ハードルを下げたらアイテム新規作成者が倍増した「SUZURI」の成長施策",
+      "excerpt": "作成ボタンを目立つタブ配置に、エディタ改善で“作る敷居”を下げ、新規作成者数がデイリーで約2倍に",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 0,
+      "estimatedMinutes": 6,
       "industryTag": "",
-      "mechanismTags": [],
-      "url": ""
+      "mechanismTags": [
+        "UI配置変更"
+      ],
+      "url": "https://appmarketinglabo.net/suzuri-kaizen/"
     }
   ]
 }
