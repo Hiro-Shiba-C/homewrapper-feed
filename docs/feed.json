@@ -1,35 +1,20 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "items": [
     {
-      "id": "5d88b0ec6a9fcf9e",
-      "category": "honmei",
-      "title": "LINEミニアプリ起点の“ゆるやかなCRM”設計",
-      "excerpt": "LINEミニアプリで“思い出される瞬間”を意図的に設計し、接触を積み重ねることで自然な顧客との関係深化を図った事例です。",
-      "source": "LINEヤフー for Business",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・食品",
-      "mechanismTags": [
-        "CRM設計",
-        "接触データ起点"
-      ],
-      "url": "https://www.lycbiz.com/jp/case-study/line-mini-app/house/?o=JP1161%2F%2F%2Fpurpose%2F%2F%2Fpurpose%2F"
-    },
-    {
-      "id": "60450c9382a9bb01",
-      "category": "ekkyou",
-      "title": "「最高のリユース体験」を目指すブックオフの取り組み",
-      "excerpt": "ブックオフが“最高のリユース体験”を掲げ、データ活用やUX改善を組織横断で推進した具体的施策を紹介。",
-      "source": "USERGRAM（UXチームクラウド）",
+      "id": "da975bb0faade9e5",
+      "category": "teiten",
+      "title": "“検索条件”を引き継ぐUX設計：「LIFULL HOME’S」アプリの体験デザイン",
+      "excerpt": "Webで設定した検索条件をアプリに引き継ぎ、ユーザーの手間を減らして継続利用を促進するUXリサーチと設計。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "小売・リユース",
+      "industryTag": "不動産／アプリ",
       "mechanismTags": [
-        "データ活用",
-        "組織横断UX"
+        "検索条件継承",
+        "UXリサーチ"
       ],
-      "url": "https://www.bebit.co.jp/services/case/service/"
+      "url": "https://appmarketinglabo.net/listr/ (該当記事)"
     }
   ]
 }
