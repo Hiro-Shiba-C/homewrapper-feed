@@ -2,19 +2,79 @@
   "date": "2026-10-10",
   "items": [
     {
-      "id": "da975bb0faade9e5",
-      "category": "teiten",
-      "title": "“検索条件”を引き継ぐUX設計：「LIFULL HOME’S」アプリの体験デザイン",
-      "excerpt": "Webで設定した検索条件をアプリに引き継ぎ、ユーザーの手間を減らして継続利用を促進するUXリサーチと設計。",
-      "source": "アプリマーケティング研究所",
+      "id": "b551233c3091c9a7",
+      "category": "honmei",
+      "title": "医療DX「eyeMIRU」による外来のリアルタイム可視化と会計待ち50%短縮｜淡海医療センター",
+      "excerpt": "混雑予測の可視化と職員配置の最適化により、患者の会計待ち時間を約50%、滞在時間を5–10%短縮した医療現場の仕組み。",
+      "source": "シミズ Technonews",
+      "format": "video",
+      "estimatedMinutes": 5,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "リアルタイム可視化",
+        "職員配置予測"
+      ],
+      "url": "https://www.shimztechnonews.com/solution/case/2025-01.html"
+    },
+    {
+      "id": "6c537dd878468498",
+      "category": "honmei",
+      "title": "多言語セルフ予約とリマインダーで待機時間80%減｜アメリカ安全ネットクリニック",
+      "excerpt": "多言語対応のオンライン・SMS予約とリマインダー導入により、電話待機80%、ノーショー減少・満足度向上と成果が定量化されている。",
+      "source": "UX for Social Good",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "不動産／アプリ",
+      "industryTag": "医療",
       "mechanismTags": [
-        "検索条件継承",
-        "UXリサーチ"
+        "オンライン予約",
+        "多チャネルリマインダー"
       ],
-      "url": "https://appmarketinglabo.net/listr/ (該当記事)"
+      "url": "https://uxforsocialgood.org/case/community-clinic-appointment"
+    },
+    {
+      "id": "6361fe7ba1446763",
+      "category": "ekkyou",
+      "title": "中国大病院におけるインテリジェント案内システムによる待ち時間短縮と満足度向上",
+      "excerpt": "自動チェックインと屋内ナビ・SMS通知による患者誘導で、待ち時間が数分短縮し満足度が90%→92%台へ改善した研究報告。",
+      "source": "JMIR Medical Informatics（PMC報告）",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "スマート案内",
+        "プロセス統合"
+      ],
+      "url": "https://medinform.jmir.org/2025/1/e60219"
+    },
+    {
+      "id": "18e3ac63830401e4",
+      "category": "ekkyou",
+      "title": "POGS：携帯端末で外来進捗通知、待ち時間ストレス90%軽減｜東京大学病院実証",
+      "excerpt": "携帯端末で受付・進捗通知をプッシュ配信し、呼出から診察室入室までの時間短縮と待ち時間ストレス軽減を実証した実験事例。",
+      "source": "東京大学医学系研究科実証研究",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "プッシュ通知",
+        "進捗可視化"
+      ],
+      "url": "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article/-char/ja/"
+    },
+    {
+      "id": "243e8ce0ce4caef6",
+      "category": "ekkyou",
+      "title": "地方眼科における予約・動静管理による在院時間最適化と離脱防止施策",
+      "excerpt": "予約と患者動線管理による在院時間短縮やドロップアウト防止、環境に応じたPDCA体制を整備した診療所の改善仕組み。",
+      "source": "PLEX 事例詳細ページ",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "動線管理",
+        "PDCA体制"
+      ],
+      "url": "https://www.plexsys.jp/example/example_detail01.html"
     }
   ]
 }
