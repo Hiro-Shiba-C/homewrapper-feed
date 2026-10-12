@@ -1,34 +1,20 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "items": [
     {
-      "id": "221fb67ccc333092",
-      "category": "ekkyou",
-      "title": "越谷市パスポート窓口における「QTicket」で待ち時間の見える化",
-      "excerpt": "タブレット型整理券で待ち時間を可視化し、不安と問い合わせを解消して窓口業務を効率化",
-      "source": "Vacan, Inc.",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "行政",
-      "mechanismTags": [
-        "デジタル整理券",
-        "待ち時間可視化"
-      ],
-      "url": "https://corp.vacan.com/casestudy/koshigaya-city.html"
-    },
-    {
-      "id": "87c26c9edc7af47b",
+      "id": "eb06fc3d596ccb81",
       "category": "teiten",
-      "title": "LIFULL HOME’S：Webからアプリへの検索条件引き継ぎで継続率向上",
-      "excerpt": "Web版の検索条件をアプリに引き継ぐUX改善により、MAU・問合せ数が30%以上成長",
+      "title": "プロモーションで「続ける理由」を訴求したら広告経由の継続率が約2倍に：コスメアプリ「LIPS」の成功施策",
+      "excerpt": "LIPSでは“続ける理由”を広告訴求に盛り込み、ステップ型投稿UIなどで投稿完了率や継続率を大幅改善。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "不動産・住宅",
+      "industryTag": "美容・プラットフォーム",
       "mechanismTags": [
-        "検索条件引継ぎ"
+        "広告訴求",
+        "UX改善"
       ],
-      "url": "https://appmarketinglabo.net/lifullhomes-webtoapp/"
+      "url": "https://appmarketinglabo.net/lips-kaizen/"
     }
   ]
 }
