@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
-      "id": "eb06fc3d596ccb81",
-      "category": "teiten",
-      "title": "プロモーションで「続ける理由」を訴求したら広告経由の継続率が約2倍に：コスメアプリ「LIPS」の成功施策",
-      "excerpt": "LIPSでは“続ける理由”を広告訴求に盛り込み、ステップ型投稿UIなどで投稿完了率や継続率を大幅改善。",
+      "id": "05afa6607f8755d6",
+      "category": "ekkyou",
+      "title": "越境ECサブスク「ICHIGO」が箱のテーマ設計で体験深化＆解約率低減",
+      "excerpt": "毎月テーマを設けたプロデュース型ボックス（桜味コーラ等）で”開封体験”設計し、海外顧客に高評価",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "美容・プラットフォーム",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・越境EC",
       "mechanismTags": [
-        "広告訴求",
-        "UX改善"
+        "テーマ設計",
+        "UX演出"
       ],
-      "url": "https://appmarketinglabo.net/lips-kaizen/"
+      "url": "https://appmarketinglabo.net/ichigo-marketing/"
     }
   ]
 }
