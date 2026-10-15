@@ -1,79 +1,35 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
-      "id": "649b39884347cdcf",
-      "category": "honmei",
-      "title": "VMO2がAIとクラウドで通話体験を革新、NPSが最大35ポイント改善",
-      "excerpt": "VMO2がクラウド基盤とAIコンタクトセンターで業務効率を高め、即日解決率とNPSが大幅改善されたCX変革の事例。",
-      "source": "Accenture",
+      "id": "b8daa5d277de494e",
+      "category": "ekkyou",
+      "title": "「保育園留学」こども主役の暮らし体験サービス事例",
+      "excerpt": "地域と子育て家庭をつなぎ、保育体験を生活の一部にする「保育園留学」による新たな暮らし設計。",
+      "source": "日本のサービスイノベーション2025（サービスイノベーション・サファリ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "通信",
+      "industryTag": "教育・福祉",
       "mechanismTags": [
-        "AIガイド応答",
-        "クラウド統合"
+        "地域連携",
+        "体験の共創"
       ],
-      "url": "https://www.accenture.com/en/case-studies/communications-media/vmo2"
+      "url": "https://service-safari.jp/servicei2025/"
     },
     {
-      "id": "4573756e5fe5d4c9",
-      "category": "honmei",
-      "title": "World Courierの医薬物流UX刷新で受注時間22分短縮・年収益75万ドル増",
-      "excerpt": "医薬品物流の複雑な受注ワークフローをUI刷新し、注文時間を22分短縮し売上を75万ドル増加させた設計改善。",
-      "source": "GeekHive case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療物流",
-      "mechanismTags": [
-        "ワークフロー簡素化",
-        "デザインシステム"
-      ],
-      "url": "https://www.manjidesigns.com/case-studies/world-courier"
-    },
-    {
-      "id": "dcb5f8b6bc3bf8fe",
-      "category": "ekkyou",
-      "title": "Echo Drive：トラック業者と荷主を繋ぐ可視化UXによる物流業務改革",
-      "excerpt": "ドライバーと運送会社の負担を軽減するマルチプラットフォームで、荷の状況共有とロードの自己予約が進化。",
-      "source": "Carolyn Chandler（動画付き）",
-      "format": "video",
-      "estimatedMinutes": 7,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "現場調査／可視化"
-      ],
-      "url": "https://www.carolynchandler.com/overview/echodrive"
-    },
-    {
-      "id": "4f0658e1ed435cbc",
-      "category": "ekkyou",
-      "title": "Dropla：受け渡しの“見える化”で配送体験を信頼と安心に変えたUI設計",
-      "excerpt": "荷物の引き渡しすべてを可視化し、顧客とスタッフ双方が安心できるラストマイルUXを実現。",
-      "source": "Frooxi",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "配送可視化",
-        "UIシステム"
-      ],
-      "url": "https://frooxi.com/work/ui-ux-design/dropla"
-    },
-    {
-      "id": "37ddc6f3d5f55155",
+      "id": "9cc58e674d14b31a",
       "category": "teiten",
-      "title": "Schoo：コメントや“着席”でライブ学習の体験を深め、法人向け展開で黒字化達成",
-      "excerpt": "「着席」「コメント見られている感」「注目度可視化」で参加体験を強化し、法人プランで黒字転換した成長事例。",
+      "title": "売上66億円に成長した「北欧、暮らしの道具店」アプリを支えるUXリサーチのポイント",
+      "excerpt": "定性的理解とABテストを組み合わせたUXリサーチで、データだけでは掴めない顧客理解を深めた成功施策。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "教育",
+      "industryTag": "アプリ（EC）",
       "mechanismTags": [
-        "ライブ双方向UX",
-        "行動可視化"
+        "UXリサーチ",
+        "ABテスト"
       ],
-      "url": "https://appmarketinglabo.net/schoo-growth/"
+      "url": "https://appmarketinglabo.net/list/ (対象記事参照)"
     }
   ]
 }
