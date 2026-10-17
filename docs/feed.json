@@ -1,65 +1,65 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
-      "id": "3b3c72230715f56b",
+      "id": "5ffbe19a121aa604",
       "category": "honmei",
-      "title": "John Lewisのキッチン設置サービス再設計：効率改善と顧客満足向上を両立する仕組み",
-      "excerpt": "ステークホルダー調整やCXマップ・サービスブループリントで新サービスモデルを開発し、満足度と利益率を改善。",
-      "source": "Shareef Ayyad",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "小売・住宅設備",
-      "mechanismTags": [
-        "CXマップ",
-        "サービス設計"
-      ],
-      "url": "https://shareefayyad.com/redesigning-the-john-lewis-kitchen-installations-service/"
-    },
-    {
-      "id": "c86f1c5289183730",
-      "category": "ekkyou",
-      "title": "FORESTARIUM：インスタレーションとリサーチを融合した体験空間設計",
-      "excerpt": "来場者が木を体験しつつ、生体情報・感性分析で心理変容を“リサーチ”と同時に行う空間 UX の仕組み。",
-      "source": "電通 Showcase",
+      "title": "American Airlines：AI活用オムニチャネルでCSAT11%向上した顧客接点再設計",
+      "excerpt": "AI搭載のオムニチャネル対応をモバイルアプリ含む接点に導入し、CSATを6ヶ月で11％改善。迅速な導入と仕組み構築が明示的。",
+      "source": "ASAPP case study",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "展示・空間デザイン",
+      "industryTag": "交通（航空）",
       "mechanismTags": [
-        "インスタレーションUX",
-        "リサーチ統合"
+        "オムニチャネルAI",
+        "CSAT向上"
       ],
-      "url": "https://www.dentsu.co.jp/showcase/forestarium.html"
+      "url": "https://www.asapp.com/case-studies/american-case-study"
     },
     {
-      "id": "0894752ef4377e0d",
+      "id": "43535dbd951fba7d",
       "category": "ekkyou",
-      "title": "シアトルのニュースサイト：読者信頼優先の“信頼ファースト”コンバージョン戦略",
-      "excerpt": "ポップアップ削除で読了体験を守り、価値提供後の文脈で会員登録を促す信頼構築型戦略設計。",
-      "source": "Varun Khanduja（Service Design事例）",
+      "title": "Lion Parcel：セグメンテーションと統合プラットフォームで即時対応・信頼構築を実現",
+      "excerpt": "顧客の階層と行動に応じた自動ルーティングやAPI連携により、対応迅速化と信頼構築を両立。物流におけるCX設計の示唆。",
+      "source": "Salesforce customer story",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ニュース・メディア",
+      "industryTag": "物流",
       "mechanismTags": [
-        "信頼優先転換",
-        "サービス設計"
+        "顧客セグメンテーション",
+        "統合ワークフロー"
       ],
-      "url": "https://varunkhanduja.com/case-study-service-design"
+      "url": "https://www.salesforce.com/ap/resources/customer-stories/lion-parcel/"
     },
     {
-      "id": "80e630740c7a8322",
+      "id": "8bb3d5d38543f94b",
       "category": "ekkyou",
-      "title": "Nova Capitalによる地方保険会社のCX再構築：チャネル断絶を“ケース中心”モデルに再設計",
-      "excerpt": "多数チャネルの断絶を“ケース単位で共有・担当”に改め、解決志向の仕組みでNPS＋46／解約−38％を達成。",
-      "source": "Nova Capital Consulting（ケーススタディ）",
+      "title": "Upstream BPO：複数チャネル統一のオペレーティングモデルによる一貫した配送CX",
+      "excerpt": "複数チャネルを統合し、“ケース中心”の対応プロセスとオペレーティングフレームで、一貫性ある最後の数マイル顧客体験を設計。",
+      "source": "Upstream case study",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "金融・保険",
+      "estimatedMinutes": 6,
+      "industryTag": "物流",
       "mechanismTags": [
-        "ケース所有モデル",
-        "KPI再設計"
+        "オムニチャネル統合",
+        "ケース中心プロセス"
       ],
-      "url": "https://novacapitalconsulting.com/case-study/customer-experience-transformation/"
+      "url": "https://upstreambpo.com/case-studies/cross-border-logistics-cx"
+    },
+    {
+      "id": "22b3663549218a2f",
+      "category": "ekkyou",
+      "title": "GEODIS：信頼性高いファイナルマイル配送網でEC体験を支える仕組み",
+      "excerpt": "Eコマースにおける配送品質を担保する国家規模ネットワーク構築と運用体系で、顧客体験の基盤を強化。",
+      "source": "GEODIS case study",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "物流",
+      "mechanismTags": [
+        "ファイナルマイル強化",
+        "ネットワーク運用"
+      ],
+      "url": "https://geodis.com/us-en/resources/case-studies/retail-logistics-case-study-home-delivery-excellence"
     }
   ]
 }

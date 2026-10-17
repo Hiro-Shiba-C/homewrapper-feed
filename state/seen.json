@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://doi.org/10.1016/j.ijhm.2026.104588",
-    "https://smart-comic.co.jp/blog/hotel-customer-satisfaction-operations/",
     "https://cloud.google.com/blog/ja/topics/customers/panasonic-accelerates-customer-understanding-with-virtual-research?",
     "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp",
     "https://www.sciencedirect.com/org/science/article/pii/S2292949525000707",
@@ -297,12 +295,13 @@
     "https://shareefayyad.com/redesigning-the-john-lewis-kitchen-installations-service/",
     "https://www.dentsu.co.jp/showcase/forestarium.html",
     "https://varunkhanduja.com/case-study-service-design",
-    "https://novacapitalconsulting.com/case-study/customer-experience-transformation/"
+    "https://novacapitalconsulting.com/case-study/customer-experience-transformation/",
+    "https://www.asapp.com/case-studies/american-case-study",
+    "https://www.salesforce.com/ap/resources/customer-stories/lion-parcel/",
+    "https://upstreambpo.com/case-studies/cross-border-logistics-cx",
+    "https://geodis.com/us-en/resources/case-studies/retail-logistics-case-study-home-delivery-excellence"
   ],
   "titles": [
-    "スマートホテルでの「Smart Service Experience」がゲストの記憶・価値・再訪意向に影響",
-    "属人的接客から脱却するホテル業のオペレーション設計5選",
-    "パナソニックがVoC起点でAI・ナレッジグラフ活用し顧客理解を高速化",
     "AI問診Ubie、クリニック導入にアニメ＋ガイドブックで導入体験設計",
     "患者の声を可視化した腎臓病のeHealth体験マップ作成事例",
     "Linc'wellがUI前に医療体験を設計するプロセス",
@@ -598,6 +597,10 @@
     "John Lewisのキッチン設置サービス再設計：効率改善と顧客満足向上を両立する仕組み",
     "FORESTARIUM：インスタレーションとリサーチを融合した体験空間設計",
     "シアトルのニュースサイト：読者信頼優先の“信頼ファースト”コンバージョン戦略",
-    "Nova Capitalによる地方保険会社のCX再構築：チャネル断絶を“ケース中心”モデルに再設計"
+    "Nova Capitalによる地方保険会社のCX再構築：チャネル断絶を“ケース中心”モデルに再設計",
+    "American Airlines：AI活用オムニチャネルでCSAT11%向上した顧客接点再設計",
+    "Lion Parcel：セグメンテーションと統合プラットフォームで即時対応・信頼構築を実現",
+    "Upstream BPO：複数チャネル統一のオペレーティングモデルによる一貫した配送CX",
+    "GEODIS：信頼性高いファイナルマイル配送網でEC体験を支える仕組み"
   ]
 }
