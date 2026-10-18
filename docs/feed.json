@@ -1,65 +1,34 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
-      "id": "5ffbe19a121aa604",
+      "id": "1d9734eb8e2d2702",
       "category": "honmei",
-      "title": "American Airlines：AI活用オムニチャネルでCSAT11%向上した顧客接点再設計",
-      "excerpt": "AI搭載のオムニチャネル対応をモバイルアプリ含む接点に導入し、CSATを6ヶ月で11％改善。迅速な導入と仕組み構築が明示的。",
-      "source": "ASAPP case study",
+      "title": "クックパッド：専任UXリサーチャーによる日常導入で慎重さと大胆さを共存させる組織設計",
+      "excerpt": "UXリサーチャーオンデマンドを導入し、日常業務に調査を組み込んだことでチームに“慎重さ”と“大胆さ”が共存する文化が創出",
+      "source": "PopInsight",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "交通（航空）",
+      "industryTag": "IT／レシピサービス",
       "mechanismTags": [
-        "オムニチャネルAI",
-        "CSAT向上"
+        "リサーチ常設体制"
       ],
-      "url": "https://www.asapp.com/case-studies/american-case-study"
+      "url": "https://popinsight.jp/case/cookpad"
     },
     {
-      "id": "43535dbd951fba7d",
-      "category": "ekkyou",
-      "title": "Lion Parcel：セグメンテーションと統合プラットフォームで即時対応・信頼構築を実現",
-      "excerpt": "顧客の階層と行動に応じた自動ルーティングやAPI連携により、対応迅速化と信頼構築を両立。物流におけるCX設計の示唆。",
-      "source": "Salesforce customer story",
+      "id": "11e169974f408dc3",
+      "category": "honmei",
+      "title": "MINIMO：ペルソナ浸透と仮説検証で意思決定の軸を組織に根づかせたUX設計",
+      "excerpt": "“わかるユーザー像”とカスタマージャーニーを可視化し、ワークショップと仮説テストで意思決定にユーザー視点を定着",
+      "source": "セブンデックス",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "物流",
+      "industryTag": "ビューティ／予約アプリ",
       "mechanismTags": [
-        "顧客セグメンテーション",
-        "統合ワークフロー"
+        "ペルソナと組織浸透",
+        "仮説検証ワークショップ"
       ],
-      "url": "https://www.salesforce.com/ap/resources/customer-stories/lion-parcel/"
-    },
-    {
-      "id": "8bb3d5d38543f94b",
-      "category": "ekkyou",
-      "title": "Upstream BPO：複数チャネル統一のオペレーティングモデルによる一貫した配送CX",
-      "excerpt": "複数チャネルを統合し、“ケース中心”の対応プロセスとオペレーティングフレームで、一貫性ある最後の数マイル顧客体験を設計。",
-      "source": "Upstream case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "オムニチャネル統合",
-        "ケース中心プロセス"
-      ],
-      "url": "https://upstreambpo.com/case-studies/cross-border-logistics-cx"
-    },
-    {
-      "id": "22b3663549218a2f",
-      "category": "ekkyou",
-      "title": "GEODIS：信頼性高いファイナルマイル配送網でEC体験を支える仕組み",
-      "excerpt": "Eコマースにおける配送品質を担保する国家規模ネットワーク構築と運用体系で、顧客体験の基盤を強化。",
-      "source": "GEODIS case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流",
-      "mechanismTags": [
-        "ファイナルマイル強化",
-        "ネットワーク運用"
-      ],
-      "url": "https://geodis.com/us-en/resources/case-studies/retail-logistics-case-study-home-delivery-excellence"
+      "url": "https://sevendex.com/post/38949/"
     }
   ]
 }
