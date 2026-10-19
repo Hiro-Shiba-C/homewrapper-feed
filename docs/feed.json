@@ -1,34 +1,33 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-20",
   "items": [
     {
-      "id": "1d9734eb8e2d2702",
+      "id": "3c5c67f70a56faa9",
       "category": "honmei",
-      "title": "クックパッド：専任UXリサーチャーによる日常導入で慎重さと大胆さを共存させる組織設計",
-      "excerpt": "UXリサーチャーオンデマンドを導入し、日常業務に調査を組み込んだことでチームに“慎重さ”と“大胆さ”が共存する文化が創出",
-      "source": "PopInsight",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "IT／レシピサービス",
-      "mechanismTags": [
-        "リサーチ常設体制"
-      ],
-      "url": "https://popinsight.jp/case/cookpad"
-    },
-    {
-      "id": "11e169974f408dc3",
-      "category": "honmei",
-      "title": "MINIMO：ペルソナ浸透と仮説検証で意思決定の軸を組織に根づかせたUX設計",
-      "excerpt": "“わかるユーザー像”とカスタマージャーニーを可視化し、ワークショップと仮説テストで意思決定にユーザー視点を定着",
-      "source": "セブンデックス",
+      "title": "医療のスマート治療室：手術情報を統合表示するUX設計｜OPeLiNK",
+      "excerpt": "手術室の複数機器の情報を１画面に統合表示するUI/UXで、医師の移動・確認負荷を軽減",
+      "source": "株式会社ジャイロ（プロジェクト紹介）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "ビューティ／予約アプリ",
+      "industryTag": "医療",
       "mechanismTags": [
-        "ペルソナと組織浸透",
-        "仮説検証ワークショップ"
+        "情報統合表示"
       ],
-      "url": "https://sevendex.com/post/38949/"
+      "url": "https://www.gyro.co.jp/works/opelink/"
+    },
+    {
+      "id": "0443825aede3c9e1",
+      "category": "ekkyou",
+      "title": "在宅医療業務に最適化した画面設計｜ファストドクター",
+      "excerpt": "現場業務に即した聞き取り→観察から画面を最適化し、誤認や見落としリスクを軽減するUX設計",
+      "source": "ファストドクター（Wantedly記事）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・在宅医療",
+      "mechanismTags": [
+        "現場観察型設計"
+      ],
+      "url": "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813"
     }
   ]
 }

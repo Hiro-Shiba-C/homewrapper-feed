@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.sciencedirect.com/org/science/article/pii/S2292949525000707",
-    "https://note.linc-well.com/n/na3cec4a01519?hl=en",
     "https://www.dlb-creative.com/cases/cvs-kidney-care",
     "https://magazine.serviceology.org/2025/06/20/2503/",
     "https://primaldesignlabo.jp/html/products/detail/189",
@@ -299,11 +297,11 @@
     "https://upstreambpo.com/case-studies/cross-border-logistics-cx",
     "https://geodis.com/us-en/resources/case-studies/retail-logistics-case-study-home-delivery-excellence",
     "https://popinsight.jp/case/cookpad",
-    "https://sevendex.com/post/38949/"
+    "https://sevendex.com/post/38949/",
+    "https://www.gyro.co.jp/works/opelink/",
+    "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813"
   ],
   "titles": [
-    "Linc'wellがUI前に医療体験を設計するプロセス",
-    "CVS Kidney Careの在宅透析トレーニング体験の再設計",
     "メルペイにおける反復型UXリサーチ運用『Weekly UXR』",
     "病院受付の導線・不安軽減設計で混乱を解消",
     "MedConciergeによる診察待ち時間の見える化アプリ",
@@ -601,6 +599,8 @@
     "Upstream BPO：複数チャネル統一のオペレーティングモデルによる一貫した配送CX",
     "GEODIS：信頼性高いファイナルマイル配送網でEC体験を支える仕組み",
     "クックパッド：専任UXリサーチャーによる日常導入で慎重さと大胆さを共存させる組織設計",
-    "MINIMO：ペルソナ浸透と仮説検証で意思決定の軸を組織に根づかせたUX設計"
+    "MINIMO：ペルソナ浸透と仮説検証で意思決定の軸を組織に根づかせたUX設計",
+    "医療のスマート治療室：手術情報を統合表示するUX設計｜OPeLiNK",
+    "在宅医療業務に最適化した画面設計｜ファストドクター"
   ]
 }
