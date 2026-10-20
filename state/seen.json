@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.dlb-creative.com/cases/cvs-kidney-care",
-    "https://magazine.serviceology.org/2025/06/20/2503/",
     "https://primaldesignlabo.jp/html/products/detail/189",
     "https://www.allisonkobren.com/portfolio/medconcierge",
     "https://www.co-well.jp/case/e_commerce/4880635",
@@ -299,11 +297,11 @@
     "https://popinsight.jp/case/cookpad",
     "https://sevendex.com/post/38949/",
     "https://www.gyro.co.jp/works/opelink/",
-    "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813"
+    "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813",
+    "https://appmarketinglabo.net/ (SUZURI記事)",
+    "https://appmarketinglabo.net/ (スペースマーケット記事)"
   ],
   "titles": [
-    "メルペイにおける反復型UXリサーチ運用『Weekly UXR』",
-    "病院受付の導線・不安軽減設計で混乱を解消",
     "MedConciergeによる診察待ち時間の見える化アプリ",
     "Eコマースで営業DX。Adobe Commerceによるセルフサービス型UX刷新事例",
     "複雑な業務システムのUI改善で販売業務DXと顧客体験向上",
@@ -601,6 +599,8 @@
     "クックパッド：専任UXリサーチャーによる日常導入で慎重さと大胆さを共存させる組織設計",
     "MINIMO：ペルソナ浸透と仮説検証で意思決定の軸を組織に根づかせたUX設計",
     "医療のスマート治療室：手術情報を統合表示するUX設計｜OPeLiNK",
-    "在宅医療業務に最適化した画面設計｜ファストドクター"
+    "在宅医療業務に最適化した画面設計｜ファストドクター",
+    "SUZURIの成長施策：新規作成者数倍増の仕組み構築",
+    "スペースマーケット：タグ設計とタイムラグ削減で予約率向上"
   ]
 }

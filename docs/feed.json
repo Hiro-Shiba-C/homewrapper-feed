@@ -2,32 +2,33 @@
   "date": "2026-10-20",
   "items": [
     {
-      "id": "3c5c67f70a56faa9",
-      "category": "honmei",
-      "title": "医療のスマート治療室：手術情報を統合表示するUX設計｜OPeLiNK",
-      "excerpt": "手術室の複数機器の情報を１画面に統合表示するUI/UXで、医師の移動・確認負荷を軽減",
-      "source": "株式会社ジャイロ（プロジェクト紹介）",
+      "id": "c79cba6054f1c11b",
+      "category": "teiten",
+      "title": "SUZURIの成長施策：新規作成者数倍増の仕組み構築",
+      "excerpt": "ハードルを下げたことでアイテムの新規作成者数がデイリーで2倍に。年間流通額20億円超の成長を支える施策。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "estimatedMinutes": 5,
+      "industryTag": "アプリ・プラットフォーム",
       "mechanismTags": [
-        "情報統合表示"
+        "参加障壁低減"
       ],
-      "url": "https://www.gyro.co.jp/works/opelink/"
+      "url": "https://appmarketinglabo.net/ (SUZURI記事)"
     },
     {
-      "id": "0443825aede3c9e1",
-      "category": "ekkyou",
-      "title": "在宅医療業務に最適化した画面設計｜ファストドクター",
-      "excerpt": "現場業務に即した聞き取り→観察から画面を最適化し、誤認や見落としリスクを軽減するUX設計",
-      "source": "ファストドクター（Wantedly記事）",
+      "id": "2ce7f22aea46551c",
+      "category": "teiten",
+      "title": "スペースマーケット：タグ設計とタイムラグ削減で予約率向上",
+      "excerpt": "用途別複数タグと予約完了までの遅延削減で予約率が向上。年間GMV55億円超のUX改善施策。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・在宅医療",
+      "estimatedMinutes": 5,
+      "industryTag": "物流・スペースレンタル",
       "mechanismTags": [
-        "現場観察型設計"
+        "タグ最適化",
+        "タイムラグ最小化"
       ],
-      "url": "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813"
+      "url": "https://appmarketinglabo.net/ (スペースマーケット記事)"
     }
   ]
 }
