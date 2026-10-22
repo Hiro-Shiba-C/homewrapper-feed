@@ -1,34 +1,95 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "items": [
     {
-      "id": "c79cba6054f1c11b",
-      "category": "teiten",
-      "title": "SUZURIの成長施策：新規作成者数倍増の仕組み構築",
-      "excerpt": "ハードルを下げたことでアイテムの新規作成者数がデイリーで2倍に。年間流通額20億円超の成長を支える施策。",
-      "source": "アプリマーケティング研究所",
+      "id": "02c8941b6630017f",
+      "category": "honmei",
+      "title": "Smart Powder Room：AI×非接触パウダールームで化粧品購入体験を再設計",
+      "excerpt": "商業施設でAI顔診断＋鏡一体型ディスプレイでパーソナライズ化粧体験。非接触設計と居心地の良い設備で満足度高く、実証実験で再利用意欲89％。",
+      "source": "NTTドコモ プロジェクト事例",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリ・プラットフォーム",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・化粧品",
       "mechanismTags": [
-        "参加障壁低減"
+        "AI診断",
+        "非接触パウダールーム"
       ],
-      "url": "https://appmarketinglabo.net/ (SUZURI記事)"
+      "url": "https://information.nttdocomo‑fresh.jp/docomo/project/spr/"
     },
     {
-      "id": "2ce7f22aea46551c",
+      "id": "4f6ce9d8c7c9ed9e",
+      "category": "honmei",
+      "title": "USAAの自動車保険請求体験：AIオーケストレーションで非対面プロセスをシームレスに",
+      "excerpt": "破損写真と車両データをAIが判断し、修理・交換や時間を予測。非対面オーケストレーションにより、顧客と社内の一貫した体験を実現。",
+      "source": "KPMG調査報告",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "保険",
+      "mechanismTags": [
+        "AIプロセス自動化",
+        "顧客体験オーケストレーション"
+      ],
+      "url": "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-cu-cee-research2022.pdf"
+    },
+    {
+      "id": "781bbe33d78b32df",
+      "category": "ekkyou",
+      "title": "KARTEで支えるプレミアムウォーターの決済エラー対応CX",
+      "excerpt": "決済エラー顧客にマルチチャネル案内を実施。行動に応じた導線で解消率が20％→50％に改善され、継続利用ボトルのCXを設計。",
+      "source": "CX Clip by KARTE",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "物流・宅配水",
+      "mechanismTags": [
+        "マルチチャネル案内",
+        "状況依存導線"
+      ],
+      "url": "https://cxclip.karte.io/casestudy/tips/customer-lifecycle-cx/"
+    },
+    {
+      "id": "68e9c1e6036da482",
+      "category": "ekkyou",
+      "title": "NTTデータ：生成AIでイベント広告訴求を自動生成、来場促進",
+      "excerpt": "豊洲スマートシティ謎解きイベントで生成AIがターゲット毎にタイトルやビジュアルを自動生成し、クリック率・訪問率向上を図る。",
+      "source": "NTTデータ DATA INSIGHT",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "地域コミュニティ・行政",
+      "mechanismTags": [
+        "生成AI自動生成",
+        "ターゲット別訴求"
+      ],
+      "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0526/"
+    },
+    {
+      "id": "f4c0e742d98b1736",
+      "category": "ekkyou",
+      "title": "AnotherAddress：百貨店サブスクにアジャイルUXで“選ぶ楽しさ”をデザイン",
+      "excerpt": "ファッションサブスク「AnotherAddress」は、顧客フィードバックを即改善に活かすアジャイルUX設計で“選ぶ楽しさ”と持続可能性を両立。",
+      "source": "KARTE導入事例",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・アパレル",
+      "mechanismTags": [
+        "アジャイルUX改善",
+        "サブスク体験"
+      ],
+      "url": "https://karte.io/customers/anotheraddress/"
+    },
+    {
+      "id": "b72c58b3af71c532",
       "category": "teiten",
-      "title": "スペースマーケット：タグ設計とタイムラグ削減で予約率向上",
-      "excerpt": "用途別複数タグと予約完了までの遅延削減で予約率が向上。年間GMV55億円超のUX改善施策。",
+      "title": "TVer：オンボーディング簡素化で離脱を1/3に、定着ステップ3構造とは",
+      "excerpt": "月4100万ユーザーのTVerアプリで、登録導線を簡素化し離脱を1/3に減らしたオンボーディング3ステップの設計が詳細に解説される。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "物流・スペースレンタル",
+      "industryTag": "メディア・アプリ",
       "mechanismTags": [
-        "タグ最適化",
-        "タイムラグ最小化"
+        "オンボーディング簡素化",
+        "ステップ設計"
       ],
-      "url": "https://appmarketinglabo.net/ (スペースマーケット記事)"
+      "url": "https://appmarketinglabo.net/list/ (該当2025.8.12記事へのリンク)"
     }
   ]
 }

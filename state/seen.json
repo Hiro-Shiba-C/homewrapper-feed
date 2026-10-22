@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://primaldesignlabo.jp/html/products/detail/189",
-    "https://www.allisonkobren.com/portfolio/medconcierge",
-    "https://www.co-well.jp/case/e_commerce/4880635",
-    "https://ncdc.co.jp/cases/8434/",
-    "https://meetsc.co.jp/ourclients/case_platform_bizmodel_story.html",
-    "https://www.ncbi.nlm.nih.gov/articles/PMC13233469/",
     "https://www.ncbi.nlm.nih.gov/articles/PMC7190261/",
     "https://www.epg.co.jp/service/epark/",
     "https://publishing.insead.edu/case/lemonade",
@@ -299,15 +293,15 @@
     "https://www.gyro.co.jp/works/opelink/",
     "https://www.wantedly.com/companies/fastdoctor2/post_articles/971813",
     "https://appmarketinglabo.net/ (SUZURI記事)",
-    "https://appmarketinglabo.net/ (スペースマーケット記事)"
+    "https://appmarketinglabo.net/ (スペースマーケット記事)",
+    "https://information.nttdocomo‑fresh.jp/docomo/project/spr/",
+    "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-cu-cee-research2022.pdf",
+    "https://cxclip.karte.io/casestudy/tips/customer-lifecycle-cx/",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0526/",
+    "https://karte.io/customers/anotheraddress/",
+    "https://appmarketinglabo.net/list/ (該当2025.8.12記事へのリンク)"
   ],
   "titles": [
-    "MedConciergeによる診察待ち時間の見える化アプリ",
-    "Eコマースで営業DX。Adobe Commerceによるセルフサービス型UX刷新事例",
-    "複雑な業務システムのUI改善で販売業務DXと顧客体験向上",
-    "赤字アプリをビジネスモデル再設計で収益化したプラットフォーム再構築",
-    "病院の外来を患者中心型に再編。ワンストップ外来モデル導入で待ち時間短縮",
-    "小児ERの受付プロセス再設計でドアから診療まで25分に待ち時間短縮",
     "飲食店の行列解消。EPARK順番待ちシステム導入事例",
     "LemonadeによるAIと行動経済学を用いたショッキングに優れた保険UX構築の事例",
     "スマートホテルにおけるSmart Service Experience（SSE）がゲストの記憶・価値・再訪意図に与える影響",
@@ -601,6 +595,12 @@
     "医療のスマート治療室：手術情報を統合表示するUX設計｜OPeLiNK",
     "在宅医療業務に最適化した画面設計｜ファストドクター",
     "SUZURIの成長施策：新規作成者数倍増の仕組み構築",
-    "スペースマーケット：タグ設計とタイムラグ削減で予約率向上"
+    "スペースマーケット：タグ設計とタイムラグ削減で予約率向上",
+    "Smart Powder Room：AI×非接触パウダールームで化粧品購入体験を再設計",
+    "USAAの自動車保険請求体験：AIオーケストレーションで非対面プロセスをシームレスに",
+    "KARTEで支えるプレミアムウォーターの決済エラー対応CX",
+    "NTTデータ：生成AIでイベント広告訴求を自動生成、来場促進",
+    "AnotherAddress：百貨店サブスクにアジャイルUXで“選ぶ楽しさ”をデザイン",
+    "TVer：オンボーディング簡素化で離脱を1/3に、定着ステップ3構造とは"
   ]
 }
