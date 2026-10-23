@@ -1,95 +1,77 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
-      "id": "02c8941b6630017f",
+      "id": "54fdfaff17593b00",
       "category": "honmei",
-      "title": "Smart Powder Room：AI×非接触パウダールームで化粧品購入体験を再設計",
-      "excerpt": "商業施設でAI顔診断＋鏡一体型ディスプレイでパーソナライズ化粧体験。非接触設計と居心地の良い設備で満足度高く、実証実験で再利用意欲89％。",
-      "source": "NTTドコモ プロジェクト事例",
+      "title": "Lemonade：AIと行動経済学で保険業界に“ショックリー素晴らしい”顧客体験を築く仕組み",
+      "excerpt": "AIと行動経済学を活用し、自動化・サブスクリプション型の保険モデルで顧客努力を減らし高満足を低コストで実現する事例。",
+      "source": "INSEAD Publishing",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "小売・化粧品",
+      "industryTag": "金融（保険）",
       "mechanismTags": [
-        "AI診断",
-        "非接触パウダールーム"
+        "AI活用",
+        "行動経済学"
       ],
-      "url": "https://information.nttdocomo‑fresh.jp/docomo/project/spr/"
+      "url": "https://publishing.insead.edu/case/lemonade-delighting-insurance-customers-ai-and-behavioural-economics-a-disruptive-insurtech-business-model-outstanding-customer-experience-and-cost-effective-service-excellence-spanish?src=author"
     },
     {
-      "id": "4f6ce9d8c7c9ed9e",
+      "id": "8c718980a791d7d9",
       "category": "honmei",
-      "title": "USAAの自動車保険請求体験：AIオーケストレーションで非対面プロセスをシームレスに",
-      "excerpt": "破損写真と車両データをAIが判断し、修理・交換や時間を予測。非対面オーケストレーションにより、顧客と社内の一貫した体験を実現。",
-      "source": "KPMG調査報告",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "保険",
-      "mechanismTags": [
-        "AIプロセス自動化",
-        "顧客体験オーケストレーション"
-      ],
-      "url": "https://assets.kpmg.com/content/dam/kpmgsites/jp/pdf/2023/jp-cu-cee-research2022.pdf"
-    },
-    {
-      "id": "781bbe33d78b32df",
-      "category": "ekkyou",
-      "title": "KARTEで支えるプレミアムウォーターの決済エラー対応CX",
-      "excerpt": "決済エラー顧客にマルチチャネル案内を実施。行動に応じた導線で解消率が20％→50％に改善され、継続利用ボトルのCXを設計。",
-      "source": "CX Clip by KARTE",
+      "title": "グローバル自動車OEM：ケース担当者制度でCXを再構築しCSAT295%向上",
+      "excerpt": "従来の階層型ではなくワンオーナー体制を導入し、対応の一貫性と責任を明確化。結果としてCSATが4年で295%上昇。",
+      "source": "TTEC（ケーススタディ）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "物流・宅配水",
+      "industryTag": "自動車",
       "mechanismTags": [
-        "マルチチャネル案内",
-        "状況依存導線"
+        "ケース所有制"
       ],
-      "url": "https://cxclip.karte.io/casestudy/tips/customer-lifecycle-cx/"
+      "url": "https://www.ttec.com/client-stories/full-throttle-cx-re-engineering-customer-care-global-oem"
     },
     {
-      "id": "68e9c1e6036da482",
+      "id": "076512947e1ec74c",
       "category": "ekkyou",
-      "title": "NTTデータ：生成AIでイベント広告訴求を自動生成、来場促進",
-      "excerpt": "豊洲スマートシティ謎解きイベントで生成AIがターゲット毎にタイトルやビジュアルを自動生成し、クリック率・訪問率向上を図る。",
-      "source": "NTTデータ DATA INSIGHT",
+      "title": "AIA：18市場にわたるテクノロジーと文化横断的な“顧客への執着”体制でCXをスケール",
+      "excerpt": "リーダーシップ・組織文化・技術を連動させて“顧客執着”を全社化し、18のアジア太平洋市場でCX変革を実現。",
+      "source": "Forrester",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "地域コミュニティ・行政",
+      "estimatedMinutes": 7,
+      "industryTag": "金融・保険",
       "mechanismTags": [
-        "生成AI自動生成",
-        "ターゲット別訴求"
+        "組織文化変革",
+        "技術整備"
       ],
-      "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0526/"
+      "url": "https://www.forrester.com/report/customer-obsession-at-scale-inside-aias-enterprisewide-transformation/RES192473/"
     },
     {
-      "id": "f4c0e742d98b1736",
+      "id": "1f055806437da333",
       "category": "ekkyou",
-      "title": "AnotherAddress：百貨店サブスクにアジャイルUXで“選ぶ楽しさ”をデザイン",
-      "excerpt": "ファッションサブスク「AnotherAddress」は、顧客フィードバックを即改善に活かすアジャイルUX設計で“選ぶ楽しさ”と持続可能性を両立。",
-      "source": "KARTE導入事例",
+      "title": "DTC ECブランド：AIサポートエージェント導入で対応時間14時間→2分、コスト62%削減・CSAT改善",
+      "excerpt": "AIエージェントによる問い合わせ自動応答導入で、対応時間は14時間から2分に短縮、コスト62%削減、CSATも向上。",
+      "source": "Mintzoro ブログ",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売・アパレル",
+      "estimatedMinutes": 4,
+      "industryTag": "小売・EC",
       "mechanismTags": [
-        "アジャイルUX改善",
-        "サブスク体験"
+        "AIエージェント"
       ],
-      "url": "https://karte.io/customers/anotheraddress/"
+      "url": "https://www.mintzoro.com/blog/case-study-cutting-support-costs-62-percent-with-an-ai-agent/"
     },
     {
-      "id": "b72c58b3af71c532",
+      "id": "20a5528049423ea3",
       "category": "teiten",
-      "title": "TVer：オンボーディング簡素化で離脱を1/3に、定着ステップ3構造とは",
-      "excerpt": "月4100万ユーザーのTVerアプリで、登録導線を簡素化し離脱を1/3に減らしたオンボーディング3ステップの設計が詳細に解説される。",
+      "title": "SUZURI：アイテム作成ハードルを下げ、作者数を日次で倍増させた成長施策",
+      "excerpt": "プリントオンデマンドのSUZURIが、アイテム作成プロセスのハードルを下げ、作成者が日次で2倍になる仕組みを実践。",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "メディア・アプリ",
+      "estimatedMinutes": 6,
+      "industryTag": "toCアプリ",
       "mechanismTags": [
-        "オンボーディング簡素化",
-        "ステップ設計"
+        "UI障壁低減"
       ],
-      "url": "https://appmarketinglabo.net/list/ (該当2025.8.12記事へのリンク)"
+      "url": "https://appmarketinglabo.net/list/ (該当SUZURI記事)"
     }
   ]
 }
