@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://arxiv.org/abs/2605.31147",
-    "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1916785/abstract",
-    "https://www.sciencedirect.com/science/article/pii/S0278431925004359",
     "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja",
     "https://www.members.co.jp/results/casestudy/case59.html",
     "https://techplay.jp/column/1950",
@@ -299,12 +296,12 @@
     "https://www.ttec.com/client-stories/full-throttle-cx-re-engineering-customer-care-global-oem",
     "https://www.forrester.com/report/customer-obsession-at-scale-inside-aias-enterprisewide-transformation/RES192473/",
     "https://www.mintzoro.com/blog/case-study-cutting-support-costs-62-percent-with-an-ai-agent/",
-    "https://appmarketinglabo.net/list/ (該当SUZURI記事)"
+    "https://appmarketinglabo.net/list/ (該当SUZURI記事)",
+    "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems",
+    "https://yokoku.kokuyo.co.jp/wp-content/uploads/2025/06/CREATIVE-SHIFT.pdf",
+    "https://www.consulnote.com/articles/problem-solving/service-safari/"
   ],
   "titles": [
-    "UAEスマートホテルのオンラインレビュー分析によるテクノロジー体験と満足度の相関",
-    "高級ホテルにおける音声制御ハブ（Alexa）のゲストエンゲージメントへの影響",
-    "ハレクラニに見る“組織文化浸透による高品質サービス”の仕組み",
     "au/UQオンラインショップ改革による契約者体験変革",
     "NTTデータTangityによるカスタマージャーニーマネジメント実践",
     "e‑Gov行政ポータル UX改善におけるキャッチ＆トライ型プロトタイピング",
@@ -601,6 +598,9 @@
     "グローバル自動車OEM：ケース担当者制度でCXを再構築しCSAT295%向上",
     "AIA：18市場にわたるテクノロジーと文化横断的な“顧客への執着”体制でCXをスケール",
     "DTC ECブランド：AIサポートエージェント導入で対応時間14時間→2分、コスト62%削減・CSAT改善",
-    "SUZURI：アイテム作成ハードルを下げ、作者数を日次で倍増させた成長施策"
+    "SUZURI：アイテム作成ハードルを下げ、作者数を日次で倍増させた成長施策",
+    "明治安田生命 全社横断でUXデザインシステム導入し「お客さま専用Web」を改革",
+    "DiDi／アリババ ファーマフレッシュ：UX起点の倉庫立地とフィードバックループで即時配送実現",
+    "サービスサファリ：現場体験からインサイト獲得するフィールドリサーチ手法"
   ]
 }

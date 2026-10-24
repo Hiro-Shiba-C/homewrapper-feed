@@ -1,77 +1,49 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
-      "id": "54fdfaff17593b00",
+      "id": "40277a1e1931899c",
       "category": "honmei",
-      "title": "Lemonade：AIと行動経済学で保険業界に“ショックリー素晴らしい”顧客体験を築く仕組み",
-      "excerpt": "AIと行動経済学を活用し、自動化・サブスクリプション型の保険モデルで顧客努力を減らし高満足を低コストで実現する事例。",
-      "source": "INSEAD Publishing",
+      "title": "明治安田生命 全社横断でUXデザインシステム導入し「お客さま専用Web」を改革",
+      "excerpt": "デザインシステムを用い、ビジネス部門・開発部門を横断するスクラム体制でUXコンセプトを具現化し、顧客Web体験を刷新。",
+      "source": "Accenture Financial Services Blog",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "金融",
+      "mechanismTags": [
+        "デザインシステム導入",
+        "横串スクラム組成"
+      ],
+      "url": "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems"
+    },
+    {
+      "id": "b9fbd616a470a63c",
+      "category": "honmei",
+      "title": "DiDi／アリババ ファーマフレッシュ：UX起点の倉庫立地とフィードバックループで即時配送実現",
+      "excerpt": "アルゴリズムによる倉庫立地最適化とドライバー評価フィードバックループで、高速配送体験とUX進化の仕組みを構築。",
+      "source": "創造性シフト（Kokuyo）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "金融（保険）",
+      "industryTag": "物流・小売",
       "mechanismTags": [
-        "AI活用",
-        "行動経済学"
+        "倉庫立地最適化",
+        "フィードバックループ"
       ],
-      "url": "https://publishing.insead.edu/case/lemonade-delighting-insurance-customers-ai-and-behavioural-economics-a-disruptive-insurtech-business-model-outstanding-customer-experience-and-cost-effective-service-excellence-spanish?src=author"
+      "url": "https://yokoku.kokuyo.co.jp/wp-content/uploads/2025/06/CREATIVE-SHIFT.pdf"
     },
     {
-      "id": "8c718980a791d7d9",
-      "category": "honmei",
-      "title": "グローバル自動車OEM：ケース担当者制度でCXを再構築しCSAT295%向上",
-      "excerpt": "従来の階層型ではなくワンオーナー体制を導入し、対応の一貫性と責任を明確化。結果としてCSATが4年で295%上昇。",
-      "source": "TTEC（ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "自動車",
-      "mechanismTags": [
-        "ケース所有制"
-      ],
-      "url": "https://www.ttec.com/client-stories/full-throttle-cx-re-engineering-customer-care-global-oem"
-    },
-    {
-      "id": "076512947e1ec74c",
+      "id": "2446f2df2c0a4e4c",
       "category": "ekkyou",
-      "title": "AIA：18市場にわたるテクノロジーと文化横断的な“顧客への執着”体制でCXをスケール",
-      "excerpt": "リーダーシップ・組織文化・技術を連動させて“顧客執着”を全社化し、18のアジア太平洋市場でCX変革を実現。",
-      "source": "Forrester",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融・保険",
-      "mechanismTags": [
-        "組織文化変革",
-        "技術整備"
-      ],
-      "url": "https://www.forrester.com/report/customer-obsession-at-scale-inside-aias-enterprisewide-transformation/RES192473/"
-    },
-    {
-      "id": "1f055806437da333",
-      "category": "ekkyou",
-      "title": "DTC ECブランド：AIサポートエージェント導入で対応時間14時間→2分、コスト62%削減・CSAT改善",
-      "excerpt": "AIエージェントによる問い合わせ自動応答導入で、対応時間は14時間から2分に短縮、コスト62%削減、CSATも向上。",
-      "source": "Mintzoro ブログ",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "小売・EC",
-      "mechanismTags": [
-        "AIエージェント"
-      ],
-      "url": "https://www.mintzoro.com/blog/case-study-cutting-support-costs-62-percent-with-an-ai-agent/"
-    },
-    {
-      "id": "20a5528049423ea3",
-      "category": "teiten",
-      "title": "SUZURI：アイテム作成ハードルを下げ、作者数を日次で倍増させた成長施策",
-      "excerpt": "プリントオンデマンドのSUZURIが、アイテム作成プロセスのハードルを下げ、作成者が日次で2倍になる仕組みを実践。",
-      "source": "アプリマーケティング研究所",
+      "title": "サービスサファリ：現場体験からインサイト獲得するフィールドリサーチ手法",
+      "excerpt": "プロジェクトメンバーが実際利用者としてサービスを体験し、「事実・感情・解釈・改善機会」を記録する体験設計手法。",
+      "source": "コンサルノート",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "toCアプリ",
+      "industryTag": "汎用（調査手法）",
       "mechanismTags": [
-        "UI障壁低減"
+        "フィールド体験リサーチ"
       ],
-      "url": "https://appmarketinglabo.net/list/ (該当SUZURI記事)"
+      "url": "https://www.consulnote.com/articles/problem-solving/service-safari/"
     }
   ]
 }
