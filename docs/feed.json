@@ -1,49 +1,80 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
-      "id": "40277a1e1931899c",
+      "id": "88bf27d98209cd42",
       "category": "honmei",
-      "title": "明治安田生命 全社横断でUXデザインシステム導入し「お客さま専用Web」を改革",
-      "excerpt": "デザインシステムを用い、ビジネス部門・開発部門を横断するスクラム体制でUXコンセプトを具現化し、顧客Web体験を刷新。",
-      "source": "Accenture Financial Services Blog",
+      "title": "Webster Bankのデジタル体験刷新：意図ベースのルーティングとデザインシステムによるUX転換",
+      "excerpt": "顧客が“住宅購入”や“起業”など意図に応じて案内されるナビゲーション設計や、2,000ページ超の再編による操作性向上とUX組織構築を実現。",
+      "source": "Tim Roberts Design Leader｜Webster Bankケーススタディ",
       "format": "article",
-      "estimatedMinutes": 8,
+      "estimatedMinutes": 6,
       "industryTag": "金融",
       "mechanismTags": [
-        "デザインシステム導入",
-        "横串スクラム組成"
+        "意図ベースルーティング",
+        "デザインシステム"
       ],
-      "url": "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems"
+      "url": "https://troberts.me/selected-work/rebuilding-digital-banking-for-scale-high-growth-acquisition/"
     },
     {
-      "id": "b9fbd616a470a63c",
-      "category": "honmei",
-      "title": "DiDi／アリババ ファーマフレッシュ：UX起点の倉庫立地とフィードバックループで即時配送実現",
-      "excerpt": "アルゴリズムによる倉庫立地最適化とドライバー評価フィードバックループで、高速配送体験とUX進化の仕組みを構築。",
-      "source": "創造性シフト（Kokuyo）",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物流・小売",
-      "mechanismTags": [
-        "倉庫立地最適化",
-        "フィードバックループ"
-      ],
-      "url": "https://yokoku.kokuyo.co.jp/wp-content/uploads/2025/06/CREATIVE-SHIFT.pdf"
-    },
-    {
-      "id": "2446f2df2c0a4e4c",
+      "id": "55750090fa444621",
       "category": "ekkyou",
-      "title": "サービスサファリ：現場体験からインサイト獲得するフィールドリサーチ手法",
-      "excerpt": "プロジェクトメンバーが実際利用者としてサービスを体験し、「事実・感情・解釈・改善機会」を記録する体験設計手法。",
-      "source": "コンサルノート",
+      "title": "Solid State Coffeeの行列対策：コーヒーショップで待ち時間UX再設計",
+      "excerpt": "週末の待ち時間データを定量・定性分析し、従業員スケジュール・サービスフローを再設計して離脱削減を狙ったUX設計。",
+      "source": "coenthornton.comケーススタディ",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食",
+      "mechanismTags": [
+        "待ち時間再設計",
+        "サービスフローブループ"
+      ],
+      "url": "https://www.coenthornton.com/solid-state/"
+    },
+    {
+      "id": "d164d6835d9e56a7",
+      "category": "ekkyou",
+      "title": "SWIFTの多チャネルサポート再構築：自己解決と満足の両立",
+      "excerpt": "1,000件の事例分析とステークホルダー参画で、自己解決導線と顧客満足を両立するサポートチャンネル戦略を設計。",
+      "source": "Belly & Brain ケーススタディ",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "金融",
+      "mechanismTags": [
+        "セルフサービス誘導",
+        "サポートチャネル設計"
+      ],
+      "url": "https://www.belly-and-brain.com/works/swift-cx-support"
+    },
+    {
+      "id": "ca43e4dbd31f5f4d",
+      "category": "ekkyou",
+      "title": "会員制レクリエーション施設のUX統合と予約体験再構築",
+      "excerpt": "400拠点以上の会員制施設の予約・特典可視化を統合し、一貫したブランド体験をデジタルと現地で実現。",
+      "source": "Heather Waughケーススタディ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "汎用（調査手法）",
+      "industryTag": "エンタメ",
       "mechanismTags": [
-        "フィールド体験リサーチ"
+        "予約体験統合",
+        "UX戦略"
       ],
-      "url": "https://www.consulnote.com/articles/problem-solving/service-safari/"
+      "url": "https://heatherwaugh.com/work/membership-experience"
+    },
+    {
+      "id": "f29a6e0f4b21aae7",
+      "category": "teiten",
+      "title": "AIファースト戦略で成長する音声ドラマアプリの事例まとめ",
+      "excerpt": "ARR750億円超の音声ドラマアプリがAI活用で急成長した背景と仕組みを、数値と戦略を元にまとめている記事。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "アプリ",
+      "mechanismTags": [
+        "AI戦略",
+        "成長仕組み"
+      ],
+      "url": "https://markelabo.com/"
     }
   ]
 }
