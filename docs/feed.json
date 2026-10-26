@@ -1,80 +1,77 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-27",
   "items": [
     {
-      "id": "88bf27d98209cd42",
+      "id": "389a2bdc28d4ea59",
       "category": "honmei",
-      "title": "Webster Bankのデジタル体験刷新：意図ベースのルーティングとデザインシステムによるUX転換",
-      "excerpt": "顧客が“住宅購入”や“起業”など意図に応じて案内されるナビゲーション設計や、2,000ページ超の再編による操作性向上とUX組織構築を実現。",
-      "source": "Tim Roberts Design Leader｜Webster Bankケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "意図ベースルーティング",
-        "デザインシステム"
-      ],
-      "url": "https://troberts.me/selected-work/rebuilding-digital-banking-for-scale-high-growth-acquisition/"
-    },
-    {
-      "id": "55750090fa444621",
-      "category": "ekkyou",
-      "title": "Solid State Coffeeの行列対策：コーヒーショップで待ち時間UX再設計",
-      "excerpt": "週末の待ち時間データを定量・定性分析し、従業員スケジュール・サービスフローを再設計して離脱削減を狙ったUX設計。",
-      "source": "coenthornton.comケーススタディ",
+      "title": "医療AIアプリLocoStepのUX/UIリデザインで現場実用性と信頼性を向上",
+      "excerpt": "歩行分析アプリの結果画面をスコアから実測値ベースに再設計し、臨床現場での導入停滞を解消したUXリデザイン",
+      "source": "kirikooo",
       "format": "article",
       "estimatedMinutes": 5,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "結果画面再設計"
+      ],
+      "url": "https://kirikooo.com/work/works-locostep-productdesign-jp"
+    },
+    {
+      "id": "2fb5d61b8a8df2c6",
+      "category": "ekkyou",
+      "title": "Ubie「AI問診Ubie」、クリニック導入時のオンボーディング体験をデザイン",
+      "excerpt": "問診の紙からAI問診タブレットへの移行に、訪問なしでもスムーズ導入できるオンボーディング設計を展開した事例",
+      "source": "IDEO",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "導入オンボーディング設計"
+      ],
+      "url": "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp"
+    },
+    {
+      "id": "702ea030a92bb84a",
+      "category": "ekkyou",
+      "title": "スタバ モバイルオーダーで待ち時間解消とニックネーム化によるCX改善",
+      "excerpt": "モバイルオーダー導入で列に並ぶ待ち時間を解消、ニックネームによる識別でパーソナルな体験を提供した取り組み",
+      "source": "NTTドコモビジネスX",
+      "format": "article",
+      "estimatedMinutes": 4,
       "industryTag": "飲食",
       "mechanismTags": [
-        "待ち時間再設計",
-        "サービスフローブループ"
+        "モバイルオーダー",
+        "パーソナル識別"
       ],
-      "url": "https://www.coenthornton.com/solid-state/"
+      "url": "https://www.nttcoms.com/service/nps/column/cxm/"
     },
     {
-      "id": "d164d6835d9e56a7",
-      "category": "ekkyou",
-      "title": "SWIFTの多チャネルサポート再構築：自己解決と満足の両立",
-      "excerpt": "1,000件の事例分析とステークホルダー参画で、自己解決導線と顧客満足を両立するサポートチャンネル戦略を設計。",
-      "source": "Belly & Brain ケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "セルフサービス誘導",
-        "サポートチャネル設計"
-      ],
-      "url": "https://www.belly-and-brain.com/works/swift-cx-support"
-    },
-    {
-      "id": "ca43e4dbd31f5f4d",
-      "category": "ekkyou",
-      "title": "会員制レクリエーション施設のUX統合と予約体験再構築",
-      "excerpt": "400拠点以上の会員制施設の予約・特典可視化を統合し、一貫したブランド体験をデジタルと現地で実現。",
-      "source": "Heather Waughケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "エンタメ",
-      "mechanismTags": [
-        "予約体験統合",
-        "UX戦略"
-      ],
-      "url": "https://heatherwaugh.com/work/membership-experience"
-    },
-    {
-      "id": "f29a6e0f4b21aae7",
+      "id": "b290c10117a3cb8d",
       "category": "teiten",
-      "title": "AIファースト戦略で成長する音声ドラマアプリの事例まとめ",
-      "excerpt": "ARR750億円超の音声ドラマアプリがAI活用で急成長した背景と仕組みを、数値と戦略を元にまとめている記事。",
+      "title": "スクー：学習体験を高めた3施策とマネタイズの工夫",
+      "excerpt": "累計会員120万人のスクーがユーザー学習体験を高める3施策を軸にマネタイズに成功した取り組み",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "アプリ",
+      "estimatedMinutes": 5,
+      "industryTag": "教育",
       "mechanismTags": [
-        "AI戦略",
-        "成長仕組み"
+        "学習体験最適化"
       ],
-      "url": "https://markelabo.com/"
+      "url": "https://appmarketinglabo.net/2025/05/07/schoo-ux-growth"
+    },
+    {
+      "id": "522aebcac981508a",
+      "category": "teiten",
+      "title": "北欧、暮らしの道具店：UXリサーチに基づくABテストでアプリ売上66億円に",
+      "excerpt": "「データだけでは辿り着けない顧客理解」に向けたUXリサーチとABテストでアプリ売上を大幅成長させた事例",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売",
+      "mechanismTags": [
+        "UXリサーチ",
+        "ABテスト"
+      ],
+      "url": "https://appmarketinglabo.net/2025/06/09/hokuou-kurashi-ux-labo"
     }
   ]
 }

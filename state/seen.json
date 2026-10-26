@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.ueyesdesign.co.jp/case/administrative-information-portal-site.html",
-    "https://aws.amazon.com/jp/blogs/news/business-user-is-the-new-architect-of-customer-experience/",
-    "https://sarin.pro/portfolio/revive/",
-    "https://www.casandrasohlstrom.com/stairs",
-    "https://ux-design-awards.com/winners/2026-1-translating-science-a-dual-ux-for-respite-impact",
     "https://www.apple.com/healthcare/success-stories/",
     "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2017.00058/full",
     "https://www.forrester.com/report/customer-obsession-at‑scale‑inside‑aias‑enterprisewide‑transformation/RES192473",
@@ -299,14 +294,14 @@
     "https://www.coenthornton.com/solid-state/",
     "https://www.belly-and-brain.com/works/swift-cx-support",
     "https://heatherwaugh.com/work/membership-experience",
-    "https://markelabo.com/"
+    "https://markelabo.com/",
+    "https://kirikooo.com/work/works-locostep-productdesign-jp",
+    "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp",
+    "https://www.nttcoms.com/service/nps/column/cxm/",
+    "https://appmarketinglabo.net/2025/05/07/schoo-ux-growth",
+    "https://appmarketinglabo.net/2025/06/09/hokuou-kurashi-ux-labo"
   ],
   "titles": [
-    "ノーコードでリアルタイムな顧客体験設計を可能にしたAmazon Connectの実例",
-    "HCA Healthcareの“Revive”によるCode Blue中のリアルタイム記録体験の再設計",
-    "Karolinska大学病院“STairs”研修医向け教育プラットフォームの情報整理UX再設計",
-    "Singaporeの“Translating Science”──患者とドナー向けUXを両立したデジタル体験",
-    "Appleデバイスで医療ケアと患者体験を同時に革新したUMC Utrechtの事例",
     "SCiPad──脊髄損傷患者向けiPad遠隔医療で待ち時間・移動負担を解消",
     "AIAが18市場で実現したカスタマーオブセッションなCX変革",
     "American Expressの顧客体験中心化で継続率が400％上昇した事例",
@@ -601,6 +596,11 @@
     "Solid State Coffeeの行列対策：コーヒーショップで待ち時間UX再設計",
     "SWIFTの多チャネルサポート再構築：自己解決と満足の両立",
     "会員制レクリエーション施設のUX統合と予約体験再構築",
-    "AIファースト戦略で成長する音声ドラマアプリの事例まとめ"
+    "AIファースト戦略で成長する音声ドラマアプリの事例まとめ",
+    "医療AIアプリLocoStepのUX/UIリデザインで現場実用性と信頼性を向上",
+    "Ubie「AI問診Ubie」、クリニック導入時のオンボーディング体験をデザイン",
+    "スタバ モバイルオーダーで待ち時間解消とニックネーム化によるCX改善",
+    "スクー：学習体験を高めた3施策とマネタイズの工夫",
+    "北欧、暮らしの道具店：UXリサーチに基づくABテストでアプリ売上66億円に"
   ]
 }
