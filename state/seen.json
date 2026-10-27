@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.apple.com/healthcare/success-stories/",
-    "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2017.00058/full",
-    "https://www.forrester.com/report/customer-obsession-at‑scale‑inside‑aias‑enterprisewide‑transformation/RES192473",
-    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2024/assets/pdf/future-of-customer-experience.pdf",
     "https://hbr.org/podcast/2026/02/if‑and‑how‑to‑scale‑the‑acquired‑podcast?ab=HP‑latest‑image‑8",
     "https://www.frontiersin.org/journals/public‑health/articles/10.3389/fpubh.2026.1801326/full",
     "https://arxiv.org/abs/2605.19139",
@@ -299,13 +295,13 @@
     "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp",
     "https://www.nttcoms.com/service/nps/column/cxm/",
     "https://appmarketinglabo.net/2025/05/07/schoo-ux-growth",
-    "https://appmarketinglabo.net/2025/06/09/hokuou-kurashi-ux-labo"
+    "https://appmarketinglabo.net/2025/06/09/hokuou-kurashi-ux-labo",
+    "https://www.brainpad.co.jp/doors/contents/02_rtoaster_genai_customer_experience/",
+    "https://blog.utage-system.com/case/konnoriri",
+    "https://www.dnp.co.jp/biz/case/detail/20173040_4968.html",
+    "https://sevendex.com/post/39486/"
   ],
   "titles": [
-    "SCiPad──脊髄損傷患者向けiPad遠隔医療で待ち時間・移動負担を解消",
-    "AIAが18市場で実現したカスタマーオブセッションなCX変革",
-    "American Expressの顧客体験中心化で継続率が400％上昇した事例",
-    "The Acquired Podcast：再現不可能な成功モデルからのスケール設計",
     "医療現場における4次元統合ワンストップ外来サービス改革",
     "医療観光客の待ち時間を13.6日から2.4日に削減した病院実証モデル",
     "大学窓口でのデジタルチェックインとリアルタイム待ち表示導入事例",
@@ -601,6 +597,10 @@
     "Ubie「AI問診Ubie」、クリニック導入時のオンボーディング体験をデザイン",
     "スタバ モバイルオーダーで待ち時間解消とニックネーム化によるCX改善",
     "スクー：学習体験を高めた3施策とマネタイズの工夫",
-    "北欧、暮らしの道具店：UXリサーチに基づくABテストでアプリ売上66億円に"
+    "北欧、暮らしの道具店：UXリサーチに基づくABテストでアプリ売上66億円に",
+    "生成AIが変える「探す」から「出会う」へ—Rtoaster GenAIが実現する新しい顧客体験",
+    "ブランド体験を守る自動化設計で講座成約率7倍—こんのりりオンラインアカデミー事例",
+    "田沢湖周遊バスのキャッシュレスUX設計—理想の観光体験を支える構想とアプリUI設計",
+    "クラシアンHPリニューアルでCVR127%達成—UX改善による選ばれる体験設計"
   ]
 }

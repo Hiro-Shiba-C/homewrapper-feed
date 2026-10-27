@@ -2,76 +2,60 @@
   "date": "2026-10-27",
   "items": [
     {
-      "id": "389a2bdc28d4ea59",
+      "id": "32d219de8f68b1fc",
       "category": "honmei",
-      "title": "医療AIアプリLocoStepのUX/UIリデザインで現場実用性と信頼性を向上",
-      "excerpt": "歩行分析アプリの結果画面をスコアから実測値ベースに再設計し、臨床現場での導入停滞を解消したUXリデザイン",
-      "source": "kirikooo",
+      "title": "生成AIが変える「探す」から「出会う」へ—Rtoaster GenAIが実現する新しい顧客体験",
+      "excerpt": "生成AIでユーザーの検索意図を理解し、ピンとくる情報へのナビゲーションを実現する仕組みを解説",
+      "source": "DOORS DX（BrainPad）",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "小売・EC",
+      "mechanismTags": [
+        "生成AIによる意味ベースマッチング"
+      ],
+      "url": "https://www.brainpad.co.jp/doors/contents/02_rtoaster_genai_customer_experience/"
+    },
+    {
+      "id": "54468ed8b9be89d5",
+      "category": "honmei",
+      "title": "ブランド体験を守る自動化設計で講座成約率7倍—こんのりりオンラインアカデミー事例",
+      "excerpt": "体験会の前後の流れを世界観を壊さず自動化し、成約率を8%→55%、工数80%削減",
+      "source": "UTAGE公式メディア",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "医療・福祉",
+      "industryTag": "教育・オンライン講座",
       "mechanismTags": [
-        "結果画面再設計"
+        "流れ自動化設計"
       ],
-      "url": "https://kirikooo.com/work/works-locostep-productdesign-jp"
+      "url": "https://blog.utage-system.com/case/konnoriri"
     },
     {
-      "id": "2fb5d61b8a8df2c6",
+      "id": "48b065ba79261b81",
       "category": "ekkyou",
-      "title": "Ubie「AI問診Ubie」、クリニック導入時のオンボーディング体験をデザイン",
-      "excerpt": "問診の紙からAI問診タブレットへの移行に、訪問なしでもスムーズ導入できるオンボーディング設計を展開した事例",
-      "source": "IDEO",
+      "title": "田沢湖周遊バスのキャッシュレスUX設計—理想の観光体験を支える構想とアプリUI設計",
+      "excerpt": "観光客と事業者のインサイトをワークショップで導きUX要件化し、チケットレスUX/UIを設計",
+      "source": "DNP導入事例",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "industryTag": "交通・観光",
       "mechanismTags": [
-        "導入オンボーディング設計"
+        "ワークショップ型UX構想"
       ],
-      "url": "https://www.ideo.com/case-study/designing-a-better-onboarding-experience-for-ai-symptom-checker-at-clinics-jp"
+      "url": "https://www.dnp.co.jp/biz/case/detail/20173040_4968.html"
     },
     {
-      "id": "702ea030a92bb84a",
+      "id": "90d4cb90544dd06d",
       "category": "ekkyou",
-      "title": "スタバ モバイルオーダーで待ち時間解消とニックネーム化によるCX改善",
-      "excerpt": "モバイルオーダー導入で列に並ぶ待ち時間を解消、ニックネームによる識別でパーソナルな体験を提供した取り組み",
-      "source": "NTTドコモビジネスX",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "飲食",
-      "mechanismTags": [
-        "モバイルオーダー",
-        "パーソナル識別"
-      ],
-      "url": "https://www.nttcoms.com/service/nps/column/cxm/"
-    },
-    {
-      "id": "b290c10117a3cb8d",
-      "category": "teiten",
-      "title": "スクー：学習体験を高めた3施策とマネタイズの工夫",
-      "excerpt": "累計会員120万人のスクーがユーザー学習体験を高める3施策を軸にマネタイズに成功した取り組み",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "教育",
-      "mechanismTags": [
-        "学習体験最適化"
-      ],
-      "url": "https://appmarketinglabo.net/2025/05/07/schoo-ux-growth"
-    },
-    {
-      "id": "522aebcac981508a",
-      "category": "teiten",
-      "title": "北欧、暮らしの道具店：UXリサーチに基づくABテストでアプリ売上66億円に",
-      "excerpt": "「データだけでは辿り着けない顧客理解」に向けたUXリサーチとABテストでアプリ売上を大幅成長させた事例",
-      "source": "アプリマーケティング研究所",
+      "title": "クラシアンHPリニューアルでCVR127%達成—UX改善による選ばれる体験設計",
+      "excerpt": "定量・定性分析から顧客像を再設計し、ホームページを見直してCVRを127％に改善",
+      "source": "セブンデックス｜UI/UX改善事例",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "小売",
+      "industryTag": "住宅・インフラ",
       "mechanismTags": [
-        "UXリサーチ",
-        "ABテスト"
+        "定性／定量の顧客像設計"
       ],
-      "url": "https://appmarketinglabo.net/2025/06/09/hokuou-kurashi-ux-labo"
+      "url": "https://sevendex.com/post/39486/"
     }
   ]
 }
