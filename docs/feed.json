@@ -1,61 +1,95 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "items": [
     {
-      "id": "32d219de8f68b1fc",
+      "id": "c859d676364385c2",
       "category": "honmei",
-      "title": "生成AIが変える「探す」から「出会う」へ—Rtoaster GenAIが実現する新しい顧客体験",
-      "excerpt": "生成AIでユーザーの検索意図を理解し、ピンとくる情報へのナビゲーションを実現する仕組みを解説",
-      "source": "DOORS DX（BrainPad）",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "小売・EC",
+      "title": "英国議会がサービス運営モデルへ移行し、5年計画を3年に短縮した事例",
+      "excerpt": "英国議会が混迷していたプロジェクト型運営から、顧客ジャーニーに基づくサービス運営モデルへ転換し、変革を5年から3年に短縮した",
+      "source": "This is HCD ポッドキャスト",
+      "format": "podcast",
+      "estimatedMinutes": 42,
+      "industryTag": "行政",
       "mechanismTags": [
-        "生成AIによる意味ベースマッチング"
+        "ジャーニー管理",
+        "サービス運営モデル"
       ],
-      "url": "https://www.brainpad.co.jp/doors/contents/02_rtoaster_genai_customer_experience/"
+      "url": "https://www.thisishcd.com/episodes/the-uk-parliament-case-study-journey-management-with-ben-reason"
     },
     {
-      "id": "54468ed8b9be89d5",
+      "id": "9e3ddd02d7a4d6c7",
       "category": "honmei",
-      "title": "ブランド体験を守る自動化設計で講座成約率7倍—こんのりりオンラインアカデミー事例",
-      "excerpt": "体験会の前後の流れを世界観を壊さず自動化し、成約率を8%→55%、工数80%削減",
-      "source": "UTAGE公式メディア",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "教育・オンライン講座",
-      "mechanismTags": [
-        "流れ自動化設計"
-      ],
-      "url": "https://blog.utage-system.com/case/konnoriri"
-    },
-    {
-      "id": "48b065ba79261b81",
-      "category": "ekkyou",
-      "title": "田沢湖周遊バスのキャッシュレスUX設計—理想の観光体験を支える構想とアプリUI設計",
-      "excerpt": "観光客と事業者のインサイトをワークショップで導きUX要件化し、チケットレスUX/UIを設計",
-      "source": "DNP導入事例",
+      "title": "Comcast Business：請求体験のUX変革でNPS+20%、タスク成功率+6%を実現",
+      "excerpt": "Comcast Businessの請求画面をユーザー視点で全面リデザインし、NPS 20%向上、タスク成功率6%向上、90,000アカウント対応プラットフォームへ刷新",
+      "source": "Daniel O’Neil 個人サイト",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "交通・観光",
+      "industryTag": "通信",
       "mechanismTags": [
-        "ワークショップ型UX構想"
+        "UX全面再設計",
+        "データ主導運用"
       ],
-      "url": "https://www.dnp.co.jp/biz/case/detail/20173040_4968.html"
+      "url": "https://danieloneil.squarespace.com/billing"
     },
     {
-      "id": "90d4cb90544dd06d",
-      "category": "ekkyou",
-      "title": "クラシアンHPリニューアルでCVR127%達成—UX改善による選ばれる体験設計",
-      "excerpt": "定量・定性分析から顧客像を再設計し、ホームページを見直してCVRを127％に改善",
-      "source": "セブンデックス｜UI/UX改善事例",
+      "id": "53283be59a08d333",
+      "category": "honmei",
+      "title": "大手保険ブローカー：Salesforce等のデータを解放し、クライアント体験をホワイトグローブで再構築",
+      "excerpt": "拡大で破綻した白手袋サービスを、SIPOCやサービスブループリントで可視化し、Salesforce等データを統合したKPI連動ロードマップで再設計",
+      "source": "uxward",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "住宅・インフラ",
+      "estimatedMinutes": 7,
+      "industryTag": "金融・保険",
       "mechanismTags": [
-        "定性／定量の顧客像設計"
+        "サービスブループリント",
+        "データ可視化"
       ],
-      "url": "https://sevendex.com/post/39486/"
+      "url": "https://uxward.com/work/insurco/"
+    },
+    {
+      "id": "51f79548f3a59743",
+      "category": "ekkyou",
+      "title": "Service Design Podcast：米国里親制度で時間・複雑性を減らした支援設計",
+      "excerpt": "米国の里親制度において、タイミングや簡素さを重視した仕組み設計で、家族支援プロセスを合理化し体験を向上",
+      "source": "Service Design Podcast",
+      "format": "podcast",
+      "estimatedMinutes": 53,
+      "industryTag": "福祉・児童支援",
+      "mechanismTags": [
+        "タイミング最適化",
+        "プロセス簡素化"
+      ],
+      "url": "https://podcasts.apple.com/us/podcast/service-design-podcast/id1163207714"
+    },
+    {
+      "id": "e65691aa67e57344",
+      "category": "ekkyou",
+      "title": "Service Design Show：Grundfosでのジャーニーマネジメント導入のリアル",
+      "excerpt": "Grundfosで、旅程マップだけでなく“ジャーニーマネジメント”を4年間試行し、5つの実践レバーで施策を組織に根付かせた事例",
+      "source": "Service Design Show",
+      "format": "podcast",
+      "estimatedMinutes": 59,
+      "industryTag": "製造・エネルギー",
+      "mechanismTags": [
+        "ジャーニーマネジメント",
+        "組織浸透"
+      ],
+      "url": "https://servicedesignshow.com/264-youtube"
+    },
+    {
+      "id": "bf7f5651d08b49ac",
+      "category": "ekkyou",
+      "title": "Rosenfeld Review Podcast：サービス設計＋AIで現場運用の摩擦を解消",
+      "excerpt": "現場業務の分断をサービス設計で可視化し、AIでプロセスを合理化して、現場と顧客の体験を改善した実例",
+      "source": "Rosenfeld Review Podcast",
+      "format": "podcast",
+      "estimatedMinutes": 31,
+      "industryTag": "企業オペレーション",
+      "mechanismTags": [
+        "現場ワークフロー可視化",
+        "AI支援設計"
+      ],
+      "url": "https://www.iheart.com/podcast/269-rosenfeld-review-podcast-30129434/episode/how-service-design-and-ai-can-306555713/"
     }
   ]
 }
