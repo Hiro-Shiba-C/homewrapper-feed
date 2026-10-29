@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6726458",
-    "https://www.sciencedirect.com/science/article/abs/pii/S0272494423001615",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9814997/",
-    "https://arxiv.org/abs/2509.12589",
-    "https://verdegroup.com/blog/global-customer-experience-transformation-manufacturing-case-study/",
     "https://carolinestacey.com/results/experience-design-and-implementation/",
     "https://bmjopenquality.bmj.com/content/bmjqir/10/1/e001179.full.pdf",
     "https://www.researchgate.net/publication/358269360_Making_the_customer_experience_journey_more_hedonic_in_a_traditionally_utilitarian_service_context_a_case_study",
@@ -299,14 +294,14 @@
     "https://uxward.com/work/insurco/",
     "https://podcasts.apple.com/us/podcast/service-design-podcast/id1163207714",
     "https://servicedesignshow.com/264-youtube",
-    "https://www.iheart.com/podcast/269-rosenfeld-review-podcast-30129434/episode/how-service-design-and-ai-can-306555713/"
+    "https://www.iheart.com/podcast/269-rosenfeld-review-podcast-30129434/episode/how-service-design-and-ai-can-306555713/",
+    "https://blog.utage-system.com/case/konnoriri/",
+    "https://lp.croissant.buzz/cases/881/",
+    "https://www.tiffin.one/case-study/spicepusher",
+    "https://arxiv.org/abs/2605.19139",
+    "https://markelabo.com/m/mc375c9b46464"
   ],
   "titles": [
-    "医療待合室に自然要素を取り入れ不安と待ち時間の印象を低減",
-    "精神科外来で掲示板コ・デザインによる待ち体験の改善",
-    "Minerva CQによるAgentic AIでのリアルタイムCX向上事例",
-    "医療機器メーカーのグローバルCX変革：行動ベースのCX測定で収益リスクを可視化",
-    "救急の待ち時間体験をデジタル情報で改善、ネガティブ感情41%減",
     "NO WAIT：即時トリアージで救急待ち時間・満足度・安全性を改善",
     "資産運用企業がユーティリタリアン環境で快感的体験（hedonic）を設計したUX再設計事例",
     "Good Sixty：アーティザン小売りを支えるビジネスモデルとUX戦略の再構築",
@@ -601,6 +596,11 @@
     "大手保険ブローカー：Salesforce等のデータを解放し、クライアント体験をホワイトグローブで再構築",
     "Service Design Podcast：米国里親制度で時間・複雑性を減らした支援設計",
     "Service Design Show：Grundfosでのジャーニーマネジメント導入のリアル",
-    "Rosenfeld Review Podcast：サービス設計＋AIで現場運用の摩擦を解消"
+    "Rosenfeld Review Podcast：サービス設計＋AIで現場運用の摩擦を解消",
+    "体験会前後を自動化し世界観を保ったUXで講座成約率が7倍に–こんのりり事例",
+    "うなぎ店で待ち時間をQR×オンラインガチャでワクワク化した仕掛け",
+    "カレー店のスマホ順番待ち・予約にミニゲーム内蔵で待ち時間自体を楽しい体験に",
+    "医療ツーリストの待ち時間を数日から2.4日に改善した病院業務モデルシミュレーション",
+    "freee予約：CTAボタン変更でCVR改善し成長につなげた3つのグロース施策"
   ]
 }

@@ -1,95 +1,79 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
-      "id": "c859d676364385c2",
+      "id": "ce85a0a30081c1be",
       "category": "honmei",
-      "title": "英国議会がサービス運営モデルへ移行し、5年計画を3年に短縮した事例",
-      "excerpt": "英国議会が混迷していたプロジェクト型運営から、顧客ジャーニーに基づくサービス運営モデルへ転換し、変革を5年から3年に短縮した",
-      "source": "This is HCD ポッドキャスト",
-      "format": "podcast",
-      "estimatedMinutes": 42,
-      "industryTag": "行政",
-      "mechanismTags": [
-        "ジャーニー管理",
-        "サービス運営モデル"
-      ],
-      "url": "https://www.thisishcd.com/episodes/the-uk-parliament-case-study-journey-management-with-ben-reason"
-    },
-    {
-      "id": "9e3ddd02d7a4d6c7",
-      "category": "honmei",
-      "title": "Comcast Business：請求体験のUX変革でNPS+20%、タスク成功率+6%を実現",
-      "excerpt": "Comcast Businessの請求画面をユーザー視点で全面リデザインし、NPS 20%向上、タスク成功率6%向上、90,000アカウント対応プラットフォームへ刷新",
-      "source": "Daniel O’Neil 個人サイト",
+      "title": "体験会前後を自動化し世界観を保ったUXで講座成約率が7倍に–こんのりり事例",
+      "excerpt": "体験会の前後の導線を世界観を壊さず自動化し、成約率を8％→55％に、運営工数も80％削減。",
+      "source": "UTAGE公式メディア",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "通信",
+      "industryTag": "教育・オンライン講座",
       "mechanismTags": [
-        "UX全面再設計",
-        "データ主導運用"
+        "世界観を壊さない自動化"
       ],
-      "url": "https://danieloneil.squarespace.com/billing"
+      "url": "https://blog.utage-system.com/case/konnoriri/"
     },
     {
-      "id": "53283be59a08d333",
-      "category": "honmei",
-      "title": "大手保険ブローカー：Salesforce等のデータを解放し、クライアント体験をホワイトグローブで再構築",
-      "excerpt": "拡大で破綻した白手袋サービスを、SIPOCやサービスブループリントで可視化し、Salesforce等データを統合したKPI連動ロードマップで再設計",
-      "source": "uxward",
+      "id": "e0ea54f510d4573b",
+      "category": "ekkyou",
+      "title": "うなぎ店で待ち時間をQR×オンラインガチャでワクワク化した仕掛け",
+      "excerpt": "卓上QRから誰でも回せるオンラインガチャを導入し、焼き上がり30分の待ち時間を楽しみ＋再来店動機に。",
+      "source": "クロワッサン事例ページ",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "金融・保険",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食",
       "mechanismTags": [
-        "サービスブループリント",
-        "データ可視化"
+        "オンラインガチャ",
+        "待ち時間の価値化"
       ],
-      "url": "https://uxward.com/work/insurco/"
+      "url": "https://lp.croissant.buzz/cases/881/"
     },
     {
-      "id": "51f79548f3a59743",
+      "id": "dac8caba6139917d",
       "category": "ekkyou",
-      "title": "Service Design Podcast：米国里親制度で時間・複雑性を減らした支援設計",
-      "excerpt": "米国の里親制度において、タイミングや簡素さを重視した仕組み設計で、家族支援プロセスを合理化し体験を向上",
-      "source": "Service Design Podcast",
-      "format": "podcast",
-      "estimatedMinutes": 53,
-      "industryTag": "福祉・児童支援",
+      "title": "カレー店のスマホ順番待ち・予約にミニゲーム内蔵で待ち時間自体を楽しい体験に",
+      "excerpt": "行列と待ち時間を解消するスマホ完結システムにミニゲームを内蔵し、待つことを楽しむ仕組みに。",
+      "source": "TIFFIN case study",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "飲食",
       "mechanismTags": [
-        "タイミング最適化",
-        "プロセス簡素化"
+        "ミニゲーム内蔵",
+        "順番通知"
       ],
-      "url": "https://podcasts.apple.com/us/podcast/service-design-podcast/id1163207714"
+      "url": "https://www.tiffin.one/case-study/spicepusher"
     },
     {
-      "id": "e65691aa67e57344",
+      "id": "6f4e178e4f08be3f",
       "category": "ekkyou",
-      "title": "Service Design Show：Grundfosでのジャーニーマネジメント導入のリアル",
-      "excerpt": "Grundfosで、旅程マップだけでなく“ジャーニーマネジメント”を4年間試行し、5つの実践レバーで施策を組織に根付かせた事例",
-      "source": "Service Design Show",
-      "format": "podcast",
-      "estimatedMinutes": 59,
-      "industryTag": "製造・エネルギー",
+      "title": "医療ツーリストの待ち時間を数日から2.4日に改善した病院業務モデルシミュレーション",
+      "excerpt": "代理ベース＋離散事象シミュレーションでベッド、優先ルールなど業務設計を評価し、待ち時間を13.7日→2.4日に短縮。",
+      "source": "arXiv（病院ケーススタディ）",
+      "format": "article",
+      "estimatedMinutes": 8,
+      "industryTag": "医療",
       "mechanismTags": [
-        "ジャーニーマネジメント",
-        "組織浸透"
+        "シミュレーション最適化",
+        "待ち時間削減"
       ],
-      "url": "https://servicedesignshow.com/264-youtube"
+      "url": "https://arxiv.org/abs/2605.19139"
     },
     {
-      "id": "bf7f5651d08b49ac",
-      "category": "ekkyou",
-      "title": "Rosenfeld Review Podcast：サービス設計＋AIで現場運用の摩擦を解消",
-      "excerpt": "現場業務の分断をサービス設計で可視化し、AIでプロセスを合理化して、現場と顧客の体験を改善した実例",
-      "source": "Rosenfeld Review Podcast",
-      "format": "podcast",
-      "estimatedMinutes": 31,
-      "industryTag": "企業オペレーション",
+      "id": "5bc0ca15cbbabcb9",
+      "category": "teiten",
+      "title": "freee予約：CTAボタン変更でCVR改善し成長につなげた3つのグロース施策",
+      "excerpt": "CTAを1→2ボタンに増やすなどのグロース施策で「freee予約」のCVR改善と予約数増加の具体的施策。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "アプリ／予約",
       "mechanismTags": [
-        "現場ワークフロー可視化",
-        "AI支援設計"
+        "CTA最適化",
+        "グロース施策"
       ],
-      "url": "https://www.iheart.com/podcast/269-rosenfeld-review-podcast-30129434/episode/how-service-design-and-ai-can-306555713/"
+      "url": "https://markelabo.com/m/mc375c9b46464"
     }
   ]
 }
