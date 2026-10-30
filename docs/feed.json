@@ -1,79 +1,76 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
-      "id": "ce85a0a30081c1be",
+      "id": "fcd85e5f20765742",
       "category": "honmei",
-      "title": "体験会前後を自動化し世界観を保ったUXで講座成約率が7倍に–こんのりり事例",
-      "excerpt": "体験会の前後の導線を世界観を壊さず自動化し、成約率を8％→55％に、運営工数も80％削減。",
-      "source": "UTAGE公式メディア",
+      "title": "複雑な商用車ローンPOSシステムのUI改善で店舗と利用者双方の業務効率と体験を向上",
+      "excerpt": "FX・ローン申込用POSシステムを販売店にも展開するにあたり、UIを全面再設計し業務プロセスに沿った操作性を実現",
+      "source": "NCDC株式会社 導入事例",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "教育・オンライン講座",
+      "industryTag": "自動車ファイナンス",
       "mechanismTags": [
-        "世界観を壊さない自動化"
+        "UI再設計による業務再設計"
       ],
-      "url": "https://blog.utage-system.com/case/konnoriri/"
+      "url": "https://ncdc.co.jp/cases/8434/"
     },
     {
-      "id": "e0ea54f510d4573b",
-      "category": "ekkyou",
-      "title": "うなぎ店で待ち時間をQR×オンラインガチャでワクワク化した仕掛け",
-      "excerpt": "卓上QRから誰でも回せるオンラインガチャを導入し、焼き上がり30分の待ち時間を楽しみ＋再来店動機に。",
-      "source": "クロワッサン事例ページ",
+      "id": "b72e3ca9bc6613e8",
+      "category": "honmei",
+      "title": "SBI新生銀行 ネットバンキングUX刷新でCX向上と不満ゼロに",
+      "excerpt": "ネットバンキングのUI改善とデザインシステム構築で、問い合わせゼロレベルまで顧客体験の課題を解消",
+      "source": "メンバーズ 支援事例",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "飲食",
+      "industryTag": "金融",
       "mechanismTags": [
-        "オンラインガチャ",
-        "待ち時間の価値化"
+        "デザインシステム構築"
       ],
-      "url": "https://lp.croissant.buzz/cases/881/"
+      "url": "https://www.members.co.jp/results/case106"
     },
     {
-      "id": "dac8caba6139917d",
-      "category": "ekkyou",
-      "title": "カレー店のスマホ順番待ち・予約にミニゲーム内蔵で待ち時間自体を楽しい体験に",
-      "excerpt": "行列と待ち時間を解消するスマホ完結システムにミニゲームを内蔵し、待つことを楽しむ仕組みに。",
-      "source": "TIFFIN case study",
+      "id": "842ee68891b24bad",
+      "category": "honmei",
+      "title": "明治安田生命が全社横断でデザインシステムを構築、顧客・職員両面のUXを向上",
+      "excerpt": "社内各部門が協働しUXコンセプトを定義、「MYほけんページ」の体験を設計し直す全社プロジェクト",
+      "source": "Accenture Financial Services Blog",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "飲食",
+      "estimatedMinutes": 7,
+      "industryTag": "保険",
       "mechanismTags": [
-        "ミニゲーム内蔵",
-        "順番通知"
+        "UXコンセプト設計",
+        "全社横断体制"
       ],
-      "url": "https://www.tiffin.one/case-study/spicepusher"
+      "url": "https://financialservicesblog.accenture.com/?p=22070"
     },
     {
-      "id": "6f4e178e4f08be3f",
-      "category": "ekkyou",
-      "title": "医療ツーリストの待ち時間を数日から2.4日に改善した病院業務モデルシミュレーション",
-      "excerpt": "代理ベース＋離散事象シミュレーションでベッド、優先ルールなど業務設計を評価し、待ち時間を13.7日→2.4日に短縮。",
-      "source": "arXiv（病院ケーススタディ）",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "医療",
-      "mechanismTags": [
-        "シミュレーション最適化",
-        "待ち時間削減"
-      ],
-      "url": "https://arxiv.org/abs/2605.19139"
-    },
-    {
-      "id": "5bc0ca15cbbabcb9",
+      "id": "4172405bd8a4325e",
       "category": "teiten",
-      "title": "freee予約：CTAボタン変更でCVR改善し成長につなげた3つのグロース施策",
-      "excerpt": "CTAを1→2ボタンに増やすなどのグロース施策で「freee予約」のCVR改善と予約数増加の具体的施策。",
+      "title": "予約完了までのタイムラグ短縮とタグ活用で成長した「スペースマーケット」",
+      "excerpt": "用途複数タグ導入と予約後誘導動線の工夫で予約率改善し、体験と成長両面で成果",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "アプリ／予約",
+      "estimatedMinutes": 5,
+      "industryTag": "予約プラットフォーム",
       "mechanismTags": [
-        "CTA最適化",
-        "グロース施策"
+        "タグでのマッチング精度向上"
       ],
-      "url": "https://markelabo.com/m/mc375c9b46464"
+      "url": "https://appmarketinglabo.net/space-market-growth/"
+    },
+    {
+      "id": "20c96df976b1246e",
+      "category": "teiten",
+      "title": "「SUZURI」アイテム新規作成者数が倍増した成長施策",
+      "excerpt": "作成のハードル下げと導線見直しにより新規アイテム作成者がデイリーで2倍に増加",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "Eコマース",
+      "mechanismTags": [
+        "ハードル低減 설計"
+      ],
+      "url": "https://appmarketinglabo.net/suzuri-growth/"
     }
   ]
 }

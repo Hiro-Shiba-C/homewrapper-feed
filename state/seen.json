@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://carolinestacey.com/results/experience-design-and-implementation/",
-    "https://bmjopenquality.bmj.com/content/bmjqir/10/1/e001179.full.pdf",
-    "https://www.researchgate.net/publication/358269360_Making_the_customer_experience_journey_more_hedonic_in_a_traditionally_utilitarian_service_context_a_case_study",
-    "https://madebyunfold.co/work/good-sixty/",
-    "https://bmjopenquality.bmj.com/content/12/1/e001781",
     "https://pure.lib.cgu.edu.tw/en/publications/the-complexities-of-transport-service-design-for-visually-impaire/",
     "https://www.usertesting.com/2026-illumi-winners",
     "https://www.cxco.com/case-studies/telco-experience-strategy/",
@@ -299,14 +294,14 @@
     "https://lp.croissant.buzz/cases/881/",
     "https://www.tiffin.one/case-study/spicepusher",
     "https://arxiv.org/abs/2605.19139",
-    "https://markelabo.com/m/mc375c9b46464"
+    "https://markelabo.com/m/mc375c9b46464",
+    "https://ncdc.co.jp/cases/8434/",
+    "https://www.members.co.jp/results/case106",
+    "https://financialservicesblog.accenture.com/?p=22070",
+    "https://appmarketinglabo.net/space-market-growth/",
+    "https://appmarketinglabo.net/suzuri-growth/"
   ],
   "titles": [
-    "NO WAIT：即時トリアージで救急待ち時間・満足度・安全性を改善",
-    "資産運用企業がユーティリタリアン環境で快感的体験（hedonic）を設計したUX再設計事例",
-    "Good Sixty：アーティザン小売りを支えるビジネスモデルとUX戦略の再構築",
-    "Co‐designで精神科外来の待ち体験を見える化したホワイトボード介入",
-    "視覚障碍者向けEyeBusによる公共交通のオムニチャネルUX設計",
     "UserTesting illumi Award 2026：UXリサーチで組織横断的に成果を広げた事例群",
     "CXCO：通信事業者のCX再設計—事前対応型モデルとVision on a Pageで業務改善",
     "HelloFreshの“ゴミ箱トップUXテスト”がUX文化を変革した話",
@@ -601,6 +596,11 @@
     "うなぎ店で待ち時間をQR×オンラインガチャでワクワク化した仕掛け",
     "カレー店のスマホ順番待ち・予約にミニゲーム内蔵で待ち時間自体を楽しい体験に",
     "医療ツーリストの待ち時間を数日から2.4日に改善した病院業務モデルシミュレーション",
-    "freee予約：CTAボタン変更でCVR改善し成長につなげた3つのグロース施策"
+    "freee予約：CTAボタン変更でCVR改善し成長につなげた3つのグロース施策",
+    "複雑な商用車ローンPOSシステムのUI改善で店舗と利用者双方の業務効率と体験を向上",
+    "SBI新生銀行 ネットバンキングUX刷新でCX向上と不満ゼロに",
+    "明治安田生命が全社横断でデザインシステムを構築、顧客・職員両面のUXを向上",
+    "予約完了までのタイムラグ短縮とタグ活用で成長した「スペースマーケット」",
+    "「SUZURI」アイテム新規作成者数が倍増した成長施策"
   ]
 }
