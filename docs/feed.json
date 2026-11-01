@@ -1,50 +1,108 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-02",
   "items": [
     {
-      "id": "710616c9b34544ca",
+      "id": "8eee31fa5e0c4e67",
       "category": "honmei",
-      "title": "Nissanのマルチチャネル顧客ジャーニー分析でCVR200%改善",
-      "excerpt": "Adobeの顧客体験分析により日産の購買プロセスを全方位可視化し、コンバージョン率を200％改善",
-      "source": "Adobe（ケースレポート）",
+      "title": "レモネード（Lemonade）：AIと行動経済学で保険業界に衝撃的な顧客体験を実現した事例",
+      "excerpt": "AIと行動経済学を活用しサブスクリプション型低価格インシュアテックで迅速・簡潔な体験と高顧客満足を実現",
+      "source": "INSEAD Publishing",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "自動車製造",
+      "estimatedMinutes": 8,
+      "industryTag": "保険",
       "mechanismTags": [
-        "ジャーニー可視化",
-        "パーソナライズ"
+        "AI活用",
+        "行動経済設計"
       ],
-      "url": "https://business.adobe.com/content/dam/dx/us/en/resources/reports/winning-with-superior-cx/winning-with-superior-customer-experiences.pdf"
+      "url": "https://publishing.insead.edu/case/lemonade"
     },
     {
-      "id": "5e5122c53ed52ad0",
-      "category": "ekkyou",
-      "title": "グラニフがオンライン＆店舗で会員基盤統合、離反率改善とLTV最大化",
-      "excerpt": "アプリ・EC・店舗で共通の会員基盤を構築し、クーポン配信の一貫性で離反防止を実現、LTV向上にも成功",
-      "source": "Braze 導入事例",
+      "id": "c074cb42764d4e22",
+      "category": "honmei",
+      "title": "GMの整備技術者向けサービスエンジニアリングUX改善で年7億ドルの付加価値創出",
+      "excerpt": "整備作業のUX最適化により作業効率を劇的に改善、国全体での売上への貢献とUX基準の組織定着を実現",
+      "source": "Launchpad UX",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "小売",
+      "industryTag": "自動車整備",
       "mechanismTags": [
-        "会員統合基盤",
-        "オートメーション施策"
+        "ワークフロー最適化",
+        "デザイン基準"
       ],
-      "url": "https://www.braze.com/ja/customers/graniph-case-study"
+      "url": "https://www.launchpadux.com/case-studies.html"
     },
     {
-      "id": "a73961d5ed4c318c",
+      "id": "93e00e5ea54f5227",
+      "category": "ekkyou",
+      "title": "Avangrid：電力顧客の引っ越し・停電・新設業務をオンラインで自己完結化しNPS200%向上",
+      "excerpt": "引っ越し・停電報告・新設業務の顧客ジャーニーをオンライン化し、自己解決率を高めコスト低減と満足向上",
+      "source": "Blink UX case study",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "公共ユーティリティ",
+      "mechanismTags": [
+        "セルフサービスポータル",
+        "デジタルトランス形成"
+      ],
+      "url": "https://blinkux.com/work/avangrid-case-study"
+    },
+    {
+      "id": "c3fd631794eb3ba6",
+      "category": "ekkyou",
+      "title": "Signet Jewelers：店舗のパーソナル接客をバーチャル化し自宅での高付加価値体験を実現",
+      "excerpt": "仮想販売支援・予約・注文追跡などを統合し“プロダクトとして経験全体”を再定義した接客モデル",
+      "source": "Accenture case study",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売／ジュエリー",
+      "mechanismTags": [
+        "バーチャル接客",
+        "CXオペレーティングモデル"
+      ],
+      "url": "https://www.accenture.com/en/case-studies/song/signet-jewelers-virtual-shopping-experience"
+    },
+    {
+      "id": "d0302dfb5f6498a5",
+      "category": "ekkyou",
+      "title": "Cognizantによる製薬業界向けUXコマンドセンター導入で生産性20%、CS96%以上を達成",
+      "excerpt": "UXコマンドセンターとAI、自動化でグローバルサポートモデルを統合し、応答性と自己解決率を大幅強化",
+      "source": "Cognizant Life sciences case study",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "製薬",
+      "mechanismTags": [
+        "UXセンター",
+        "AIチャット／自動化"
+      ],
+      "url": "https://ashesh.us/us/en/case-studies/ux-command-center-transforms-support-model-for-global-pharmaceutical"
+    },
+    {
+      "id": "7d44967b97426891",
       "category": "teiten",
-      "title": "スペースマーケット：予約タイムラグ短縮とタグ活用による成長施策",
-      "excerpt": "予約完了までのタイムラグ削減と複数タグ付与による予約率向上と成長を設計した施策",
+      "title": "コーヒーサブスク「PostCoffee」の成長ストーリー：診断導入で選びやすさ向上し解約率低減",
+      "excerpt": "診断によるパーソナライズで選びやすさを高め、箱の過剰さが解約に繋がる逆説的発見まで含むUXと運用の示唆豊富な事例",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "シェアリング（空間予約）",
+      "industryTag": "アプリサービス",
       "mechanismTags": [
-        "UXタイムラグ改善",
-        "タグ設計"
+        "パーソナライズ診断"
       ],
-      "url": "https://appmarketinglabo.net/list/ (2025.9.15 スペースマーケットの記事)"
+      "url": "https://twitter.com/appmarkelabo/status/1611438230414620928"
+    },
+    {
+      "id": "c74bd7fab53eccc6",
+      "category": "teiten",
+      "title": "ラクサスの“クレーマー対応しない”判断基準に基づく月額9,800円モデル構築のUX戦略",
+      "excerpt": "クレーマーへの非対応方針を明文化しコスト抑制と良質コミュニティ形成を両立した体験とビジネスモデル設計",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "サブスクリプション／レンタル",
+      "mechanismTags": [
+        "対応ポリシー設計"
+      ],
+      "url": "https://www.sbbit.jp/author/1415"
     }
   ]
 }
