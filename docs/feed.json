@@ -1,108 +1,19 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
     {
-      "id": "8eee31fa5e0c4e67",
-      "category": "honmei",
-      "title": "レモネード（Lemonade）：AIと行動経済学で保険業界に衝撃的な顧客体験を実現した事例",
-      "excerpt": "AIと行動経済学を活用しサブスクリプション型低価格インシュアテックで迅速・簡潔な体験と高顧客満足を実現",
-      "source": "INSEAD Publishing",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "保険",
-      "mechanismTags": [
-        "AI活用",
-        "行動経済設計"
-      ],
-      "url": "https://publishing.insead.edu/case/lemonade"
-    },
-    {
-      "id": "c074cb42764d4e22",
-      "category": "honmei",
-      "title": "GMの整備技術者向けサービスエンジニアリングUX改善で年7億ドルの付加価値創出",
-      "excerpt": "整備作業のUX最適化により作業効率を劇的に改善、国全体での売上への貢献とUX基準の組織定着を実現",
-      "source": "Launchpad UX",
+      "id": "7f0d440e56ec71cb",
+      "category": "ekkyou",
+      "title": "部門横断型協働デザイン：デンマークFredericia市のヘルス＆福祉改革",
+      "excerpt": "部門間をまたぐ課題に対してテンプレート＋進捗追跡の仕組みで協働を促進し、改善のボトルネックを可視化。",
+      "source": "Gov‑ToolBox（ケース紹介）",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "自動車整備",
+      "industryTag": "行政・福祉",
       "mechanismTags": [
-        "ワークフロー最適化",
-        "デザイン基準"
+        "部門横断プロセス設計"
       ],
-      "url": "https://www.launchpadux.com/case-studies.html"
-    },
-    {
-      "id": "93e00e5ea54f5227",
-      "category": "ekkyou",
-      "title": "Avangrid：電力顧客の引っ越し・停電・新設業務をオンラインで自己完結化しNPS200%向上",
-      "excerpt": "引っ越し・停電報告・新設業務の顧客ジャーニーをオンライン化し、自己解決率を高めコスト低減と満足向上",
-      "source": "Blink UX case study",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "公共ユーティリティ",
-      "mechanismTags": [
-        "セルフサービスポータル",
-        "デジタルトランス形成"
-      ],
-      "url": "https://blinkux.com/work/avangrid-case-study"
-    },
-    {
-      "id": "c3fd631794eb3ba6",
-      "category": "ekkyou",
-      "title": "Signet Jewelers：店舗のパーソナル接客をバーチャル化し自宅での高付加価値体験を実現",
-      "excerpt": "仮想販売支援・予約・注文追跡などを統合し“プロダクトとして経験全体”を再定義した接客モデル",
-      "source": "Accenture case study",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売／ジュエリー",
-      "mechanismTags": [
-        "バーチャル接客",
-        "CXオペレーティングモデル"
-      ],
-      "url": "https://www.accenture.com/en/case-studies/song/signet-jewelers-virtual-shopping-experience"
-    },
-    {
-      "id": "d0302dfb5f6498a5",
-      "category": "ekkyou",
-      "title": "Cognizantによる製薬業界向けUXコマンドセンター導入で生産性20%、CS96%以上を達成",
-      "excerpt": "UXコマンドセンターとAI、自動化でグローバルサポートモデルを統合し、応答性と自己解決率を大幅強化",
-      "source": "Cognizant Life sciences case study",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "製薬",
-      "mechanismTags": [
-        "UXセンター",
-        "AIチャット／自動化"
-      ],
-      "url": "https://ashesh.us/us/en/case-studies/ux-command-center-transforms-support-model-for-global-pharmaceutical"
-    },
-    {
-      "id": "7d44967b97426891",
-      "category": "teiten",
-      "title": "コーヒーサブスク「PostCoffee」の成長ストーリー：診断導入で選びやすさ向上し解約率低減",
-      "excerpt": "診断によるパーソナライズで選びやすさを高め、箱の過剰さが解約に繋がる逆説的発見まで含むUXと運用の示唆豊富な事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "アプリサービス",
-      "mechanismTags": [
-        "パーソナライズ診断"
-      ],
-      "url": "https://twitter.com/appmarkelabo/status/1611438230414620928"
-    },
-    {
-      "id": "c74bd7fab53eccc6",
-      "category": "teiten",
-      "title": "ラクサスの“クレーマー対応しない”判断基準に基づく月額9,800円モデル構築のUX戦略",
-      "excerpt": "クレーマーへの非対応方針を明文化しコスト抑制と良質コミュニティ形成を両立した体験とビジネスモデル設計",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "サブスクリプション／レンタル",
-      "mechanismTags": [
-        "対応ポリシー設計"
-      ],
-      "url": "https://www.sbbit.jp/author/1415"
+      "url": "https://www.gov-toolbox.jp/caseitems/fredericia2025"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://queue-it.com/jp/end-user-experience/",
     "https://www.public.co.jp/works/case_hospital-watanabe/",
     "https://www.nojadesigns.com/work/troski",
     "https://www.mlit.go.jp/commmmons/tech_report/003/commmmons_tech_report_003_ver01.pdf",
@@ -299,10 +298,10 @@
     "https://www.accenture.com/en/case-studies/song/signet-jewelers-virtual-shopping-experience",
     "https://ashesh.us/us/en/case-studies/ux-command-center-transforms-support-model-for-global-pharmaceutical",
     "https://twitter.com/appmarkelabo/status/1611438230414620928",
-    "https://www.sbbit.jp/author/1415"
+    "https://www.sbbit.jp/author/1415",
+    "https://www.gov-toolbox.jp/caseitems/fredericia2025"
   ],
   "titles": [
-    "地域医療に順番待ちシステム導入で、待ち時間の見える化と高齢者向け負荷軽減",
     "Troski：アクラ市民の通勤不安を「行く前の知る」で解消する多モード交通アプリ",
     "地域交通DXプロジェクト「COMmmmONS」で病院の予約とバス配車を連携、待ち時間と負担を削減",
     "屋台文化を“祭り体験”として再設計した道頓堀屋台村ウェブ体験",
@@ -601,6 +600,7 @@
     "Signet Jewelers：店舗のパーソナル接客をバーチャル化し自宅での高付加価値体験を実現",
     "Cognizantによる製薬業界向けUXコマンドセンター導入で生産性20%、CS96%以上を達成",
     "コーヒーサブスク「PostCoffee」の成長ストーリー：診断導入で選びやすさ向上し解約率低減",
-    "ラクサスの“クレーマー対応しない”判断基準に基づく月額9,800円モデル構築のUX戦略"
+    "ラクサスの“クレーマー対応しない”判断基準に基づく月額9,800円モデル構築のUX戦略",
+    "部門横断型協働デザイン：デンマークFredericia市のヘルス＆福祉改革"
   ]
 }
