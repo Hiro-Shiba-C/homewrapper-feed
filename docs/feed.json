@@ -1,19 +1,20 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "id": "7f0d440e56ec71cb",
-      "category": "ekkyou",
-      "title": "部門横断型協働デザイン：デンマークFredericia市のヘルス＆福祉改革",
-      "excerpt": "部門間をまたぐ課題に対してテンプレート＋進捗追跡の仕組みで協働を促進し、改善のボトルネックを可視化。",
-      "source": "Gov‑ToolBox（ケース紹介）",
+      "id": "c04232575a8ab4ed",
+      "category": "honmei",
+      "title": "NTT東日本「ひかりクラウド スマートスタディ」申し込み UX刷新で業務効率とコスト削減",
+      "excerpt": "申し込みフローをWeb完結に刷新し、ユーザー体験を向上させつつ年間1,000万円のコスト削減を実現",
+      "source": "Goodpatch Blog",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "行政・福祉",
+      "estimatedMinutes": 4,
+      "industryTag": "教育／法人サービス",
       "mechanismTags": [
-        "部門横断プロセス設計"
+        "申し込みフロー刷新",
+        "運用効率化"
       ],
-      "url": "https://www.gov-toolbox.jp/caseitems/fredericia2025"
+      "url": "https://site.goodpatch.com/blog/customer-experience"
     }
   ]
 }
