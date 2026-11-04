@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.nojadesigns.com/work/troski",
-    "https://www.mlit.go.jp/commmmons/tech_report/003/commmmons_tech_report_003_ver01.pdf",
     "https://kinoshitastudio.github.io/case-yataimura.html",
     "https://www.coforge.com/success-stories/driving-higher-autopay-adoption-with-research-led-experience-redesign",
     "https://martechlab.gaprise.jp/archives/interview/anax/",
@@ -299,11 +297,11 @@
     "https://twitter.com/appmarkelabo/status/1611438230414620928",
     "https://www.sbbit.jp/author/1415",
     "https://www.gov-toolbox.jp/caseitems/fredericia2025",
-    "https://site.goodpatch.com/blog/customer-experience"
+    "https://site.goodpatch.com/blog/customer-experience",
+    "https://ubie.app/interview/case/UqDFtt2KSuYE",
+    "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/"
   ],
   "titles": [
-    "地域交通DXプロジェクト「COMmmmONS」で病院の予約とバス配車を連携、待ち時間と負担を削減",
-    "屋台文化を“祭り体験”として再設計した道頓堀屋台村ウェブ体験",
     "FinTech企業、自動引き落とし設計のUX再設計で延滞率50％削減",
     "ANA X、ユーザー視点に返るUX改善ワークショップでCX向上",
     "インバウンド向け体験型観光ガイドの優良事例を集めた観光庁ナビブック",
@@ -601,6 +599,8 @@
     "コーヒーサブスク「PostCoffee」の成長ストーリー：診断導入で選びやすさ向上し解約率低減",
     "ラクサスの“クレーマー対応しない”判断基準に基づく月額9,800円モデル構築のUX戦略",
     "部門横断型協働デザイン：デンマークFredericia市のヘルス＆福祉改革",
-    "NTT東日本「ひかりクラウド スマートスタディ」申し込み UX刷新で業務効率とコスト削減"
+    "NTT東日本「ひかりクラウド スマートスタディ」申し込み UX刷新で業務効率とコスト削減",
+    "加賀市医療センターにおけるユビーAI問診導入で外来待ち時間を40％短縮",
+    "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策"
   ]
 }

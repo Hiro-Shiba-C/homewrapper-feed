@@ -1,20 +1,35 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "items": [
     {
-      "id": "c04232575a8ab4ed",
-      "category": "honmei",
-      "title": "NTT東日本「ひかりクラウド スマートスタディ」申し込み UX刷新で業務効率とコスト削減",
-      "excerpt": "申し込みフローをWeb完結に刷新し、ユーザー体験を向上させつつ年間1,000万円のコスト削減を実現",
-      "source": "Goodpatch Blog",
+      "id": "cd7482e194c245fc",
+      "category": "ekkyou",
+      "title": "加賀市医療センターにおけるユビーAI問診導入で外来待ち時間を40％短縮",
+      "excerpt": "自宅での問診から看護業務の省力化、カルテ作成簡素化により受付〜検査オーダーまでの時間を大幅短縮",
+      "source": "ユビーAI問診（インタビュー）",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "教育／法人サービス",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
       "mechanismTags": [
-        "申し込みフロー刷新",
-        "運用効率化"
+        "AI問診",
+        "業務効率化"
       ],
-      "url": "https://site.goodpatch.com/blog/customer-experience"
+      "url": "https://ubie.app/interview/case/UqDFtt2KSuYE"
+    },
+    {
+      "id": "cf8429189fa5a8d3",
+      "category": "ekkyou",
+      "title": "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策",
+      "excerpt": "AIDET®接遇導入により、顕在・潜在クレームを明確に評価し、待ち時間ストレスを意図的に軽減した接遇設計",
+      "source": "J‑stage 総合事例報告",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "接遇手法",
+        "ストレスコントロール"
+      ],
+      "url": "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/"
     }
   ]
 }
