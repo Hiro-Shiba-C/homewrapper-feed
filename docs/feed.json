@@ -1,35 +1,33 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
-      "id": "cd7482e194c245fc",
-      "category": "ekkyou",
-      "title": "加賀市医療センターにおけるユビーAI問診導入で外来待ち時間を40％短縮",
-      "excerpt": "自宅での問診から看護業務の省力化、カルテ作成簡素化により受付〜検査オーダーまでの時間を大幅短縮",
-      "source": "ユビーAI問診（インタビュー）",
+      "id": "b304331c412f063a",
+      "category": "honmei",
+      "title": "花王がQualtrics導入で顧客声をリアルタイムにPDCA高速化",
+      "excerpt": "EC顧客の声をダッシュボードでリアルタイム可視化し、改善→提案→フィードバックのPDCAを高速で回す仕組みが整った事例。",
+      "source": "Qualtrics（事例紹介ページ）",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
+      "estimatedMinutes": 5,
+      "industryTag": "消費財",
       "mechanismTags": [
-        "AI問診",
-        "業務効率化"
+        "リアルタイムデータ活用"
       ],
-      "url": "https://ubie.app/interview/case/UqDFtt2KSuYE"
+      "url": "https://www.qualtrics.com/ja/customers/kao/"
     },
     {
-      "id": "cf8429189fa5a8d3",
-      "category": "ekkyou",
-      "title": "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策",
-      "excerpt": "AIDET®接遇導入により、顕在・潜在クレームを明確に評価し、待ち時間ストレスを意図的に軽減した接遇設計",
-      "source": "J‑stage 総合事例報告",
+      "id": "06443b07b6253398",
+      "category": "honmei",
+      "title": "Oisix VIPページUX改善で売上2倍の成果",
+      "excerpt": "VIP専用ページで“VIPであることの自覚”“価値の直感的伝達”を設計し、売上が前月比2倍に改善されたUX改善策。",
+      "source": "公益研究報告書（UX導入事例）",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・福祉",
+      "estimatedMinutes": 4,
+      "industryTag": "食品宅配",
       "mechanismTags": [
-        "接遇手法",
-        "ストレスコントロール"
+        "パーソナライズ提示"
       ],
-      "url": "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/"
+      "url": "https://tokyo-metro-u.repo.nii.ac.jp/record/9624/files/T02837-001.pdf"
     }
   ]
 }

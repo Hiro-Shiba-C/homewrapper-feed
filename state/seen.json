@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://kinoshitastudio.github.io/case-yataimura.html",
-    "https://www.coforge.com/success-stories/driving-higher-autopay-adoption-with-research-led-experience-redesign",
     "https://martechlab.gaprise.jp/archives/interview/anax/",
     "https://www.mlit.go.jp/kankocho/jirei_shien/tsuyaku_navibook.html",
     "https://www.itmedia.co.jp/business/articles/2607/06/news015_3.html",
@@ -299,11 +297,11 @@
     "https://www.gov-toolbox.jp/caseitems/fredericia2025",
     "https://site.goodpatch.com/blog/customer-experience",
     "https://ubie.app/interview/case/UqDFtt2KSuYE",
-    "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/"
+    "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/",
+    "https://www.qualtrics.com/ja/customers/kao/",
+    "https://tokyo-metro-u.repo.nii.ac.jp/record/9624/files/T02837-001.pdf"
   ],
   "titles": [
-    "FinTech企業、自動引き落とし設計のUX再設計で延滞率50％削減",
-    "ANA X、ユーザー視点に返るUX改善ワークショップでCX向上",
     "インバウンド向け体験型観光ガイドの優良事例を集めた観光庁ナビブック",
     "「感動のツボ」を設計する――ユニクロ・セコマのパーソナライズ接客事例",
     "東京都交通局の定期券Web予約化、UXテストで業務負担と待ち行列を改善",
@@ -601,6 +599,8 @@
     "部門横断型協働デザイン：デンマークFredericia市のヘルス＆福祉改革",
     "NTT東日本「ひかりクラウド スマートスタディ」申し込み UX刷新で業務効率とコスト削減",
     "加賀市医療センターにおけるユビーAI問診導入で外来待ち時間を40％短縮",
-    "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策"
+    "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策",
+    "花王がQualtrics導入で顧客声をリアルタイムにPDCA高速化",
+    "Oisix VIPページUX改善で売上2倍の成果"
   ]
 }
