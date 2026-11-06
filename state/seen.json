@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://martechlab.gaprise.jp/archives/interview/anax/",
-    "https://www.mlit.go.jp/kankocho/jirei_shien/tsuyaku_navibook.html",
-    "https://www.itmedia.co.jp/business/articles/2607/06/news015_3.html",
-    "https://www.gov‑toolbox.jp/caseitems/tokyo2026",
-    "https://developers.line.biz/ja/docs/line-mini-app/technicalcase/bravetechnology/",
     "https://www.seaos.co.jp/case/?p=1400",
     "https://rxwaittime.com/industries.html",
     "https://www.accenture.com/ca-en/case-studies/communications-media/vmo2",
@@ -299,14 +294,14 @@
     "https://ubie.app/interview/case/UqDFtt2KSuYE",
     "https://www.jstage.jst.go.jp/article/jsqsh/17/2/17_117/_article/-char/ja/",
     "https://www.qualtrics.com/ja/customers/kao/",
-    "https://tokyo-metro-u.repo.nii.ac.jp/record/9624/files/T02837-001.pdf"
+    "https://tokyo-metro-u.repo.nii.ac.jp/record/9624/files/T02837-001.pdf",
+    "https://dl.ndl.go.jp/view/prepareDownload?contentNo=1&itemId=info%3Andljp%2Fpid%2F8199831",
+    "https://snamo.jp/blog/cx-centered-service-design-and-ux",
+    "https://www.dentsudigital.co.jp/knowledge-charge/articles/0827-000088",
+    "https://digiday.jp/brands/cxdive2018/",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2020/121890/"
   ],
   "titles": [
-    "インバウンド向け体験型観光ガイドの優良事例を集めた観光庁ナビブック",
-    "「感動のツボ」を設計する――ユニクロ・セコマのパーソナライズ接客事例",
-    "東京都交通局の定期券Web予約化、UXテストで業務負担と待ち行列を改善",
-    "LINEミニアプリで待ち時間ストレス軽減「matoca／yoboca」の仕組み",
-    "物流現場のトラック荷待ち7割削減、CO₂排出削減にも繋がる荷捌き場予約設計",
     "医療・調剤現場で待ち時間の見える化、患者不安を90%減少させたQR待ち運用",
     "VMO2（Virgin Media O2）がクラウドとAIで顧客体験を刷新した事例",
     "Persistentによる製品内セルフサービス埋め込みでサポート要求を半減したCX変革",
@@ -601,6 +596,11 @@
     "加賀市医療センターにおけるユビーAI問診導入で外来待ち時間を40％短縮",
     "湘南鎌倉総合病院におけるAIDET®による待ち時間クレーム低減施策",
     "花王がQualtrics導入で顧客声をリアルタイムにPDCA高速化",
-    "Oisix VIPページUX改善で売上2倍の成果"
+    "Oisix VIPページUX改善で売上2倍の成果",
+    "INGダイレクト：問い合わせ→Web上での一貫した住宅ローン提案UX",
+    "CX起点のサービスデザインでROIも向上する仕組みづくり",
+    "GEヘルスケア：子どものMRI検査を“冒険”体験に変えた病院デザイン",
+    "チームラボ・ボーダレス、迷う不便を“発見の喜び”に転換した体験設計",
+    "北の達人:物流・品質チェック強化でD2Cの“使用体験”を向上"
   ]
 }

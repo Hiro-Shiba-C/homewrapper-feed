@@ -1,33 +1,80 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
-      "id": "b304331c412f063a",
+      "id": "b7a7dbcc0d04e13e",
       "category": "honmei",
-      "title": "花王がQualtrics導入で顧客声をリアルタイムにPDCA高速化",
-      "excerpt": "EC顧客の声をダッシュボードでリアルタイム可視化し、改善→提案→フィードバックのPDCAを高速で回す仕組みが整った事例。",
-      "source": "Qualtrics（事例紹介ページ）",
+      "title": "INGダイレクト：問い合わせ→Web上での一貫した住宅ローン提案UX",
+      "excerpt": "問合せ後Webでも住宅ローン広告を表示、コンタクトとWebを統合した“優秀な人と同じ対応するIT”",
+      "source": "NDL",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "消費財",
+      "estimatedMinutes": 7,
+      "industryTag": "金融",
       "mechanismTags": [
-        "リアルタイムデータ活用"
+        "チャネル統合",
+        "データ連携"
       ],
-      "url": "https://www.qualtrics.com/ja/customers/kao/"
+      "url": "https://dl.ndl.go.jp/view/prepareDownload?contentNo=1&itemId=info%3Andljp%2Fpid%2F8199831"
     },
     {
-      "id": "06443b07b6253398",
+      "id": "885a398b6e9de8c0",
       "category": "honmei",
-      "title": "Oisix VIPページUX改善で売上2倍の成果",
-      "excerpt": "VIP専用ページで“VIPであることの自覚”“価値の直感的伝達”を設計し、売上が前月比2倍に改善されたUX改善策。",
-      "source": "公益研究報告書（UX導入事例）",
+      "title": "CX起点のサービスデザインでROIも向上する仕組みづくり",
+      "excerpt": "ジャーニーマップとサービスブループリントによる前線⇄バックオフィス統合設計で体験とROI向上",
+      "source": "SNAMOブログ",
       "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "食品宅配",
+      "estimatedMinutes": 11,
+      "industryTag": "サービスデザイン",
       "mechanismTags": [
-        "パーソナライズ提示"
+        "サービスブループリント",
+        "現場と経営統合"
       ],
-      "url": "https://tokyo-metro-u.repo.nii.ac.jp/record/9624/files/T02837-001.pdf"
+      "url": "https://snamo.jp/blog/cx-centered-service-design-and-ux"
+    },
+    {
+      "id": "e50216ecec6acf27",
+      "category": "ekkyou",
+      "title": "GEヘルスケア：子どものMRI検査を“冒険”体験に変えた病院デザイン",
+      "excerpt": "検査室に宇宙船や海賊船の装飾、冒険演出で鎮静剤ほぼ不要のMRI体験に改善した事例",
+      "source": "電通デジタル KNOWLEDGE CHARGE",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "空間演出",
+        "恐怖軽減"
+      ],
+      "url": "https://www.dentsudigital.co.jp/knowledge-charge/articles/0827-000088"
+    },
+    {
+      "id": "eee141981abfac75",
+      "category": "ekkyou",
+      "title": "チームラボ・ボーダレス、迷う不便を“発見の喜び”に転換した体験設計",
+      "excerpt": "順路や説明をあえてなくし、不便さを探索の楽しさに変換した美術館のCXイノベーション",
+      "source": "DIGIDAY日本版",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "エンタメ・アート",
+      "mechanismTags": [
+        "マインドセット誘導",
+        "空間体験"
+      ],
+      "url": "https://digiday.jp/brands/cxdive2018/"
+    },
+    {
+      "id": "aeb51e617251aade",
+      "category": "ekkyou",
+      "title": "北の達人:物流・品質チェック強化でD2Cの“使用体験”を向上",
+      "excerpt": "極寒物流も考慮し750チェック項目設け、破損防止と安心体験を構造的に実現したD2C施策",
+      "source": "NTTデータ Data Insight",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売／D2C",
+      "mechanismTags": [
+        "品質保証プロセス",
+        "共創体験"
+      ],
+      "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2020/121890/"
     }
   ]
 }
