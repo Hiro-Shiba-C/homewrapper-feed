@@ -1,50 +1,20 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": [
     {
-      "id": "d13ff3c08807aba7",
-      "category": "honmei",
-      "title": "トゥモローランドがOMOを「店舗スタッフをデジタルでサポートする仕組み」と再定義したCX改革",
-      "excerpt": "店舗スタッフをデジタル支援する仕組みで、オンライン・オフライン融合の顧客体験を構築した事例",
-      "source": "Forbes JAPAN",
+      "id": "658275a7ec10e72a",
+      "category": "ekkyou",
+      "title": "メルペイ：Weekly UXRでリサーチ文化を仕組み化",
+      "excerpt": "週次UXリサーチを定常化する「Weekly UXR」で社内プロジェクトへのリサーチ浸透と意思決定への改善反映を促進",
+      "source": "サービソロジー Webマガジン",
       "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "小売・ファッション",
+      "estimatedMinutes": 5,
+      "industryTag": "金融／フィンテック",
       "mechanismTags": [
-        "OMO再定義",
-        "Thank you配信自動化"
+        "定常リサーチ体制",
+        "反復型改善"
       ],
-      "url": "https://forbesjapan.com/articles/detail/92124"
-    },
-    {
-      "id": "f9b005c6e90480bf",
-      "category": "honmei",
-      "title": "統合CRM基盤で“特別なおもてなし”を実現したダイナースクラブの個客対応モデル",
-      "excerpt": "統合CRM基盤を構築し個別対応や企業文化と連動した仕組みで高付加価値サービスを設計した事例",
-      "source": "CRMベストプラクティス賞",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "金融",
-      "mechanismTags": [
-        "統合CRM",
-        "パーソナライズ接客"
-      ],
-      "url": "https://www.crma-j.org/best_practice/best_practice_03.html?title=2021"
-    },
-    {
-      "id": "3edecdb9ae73d24f",
-      "category": "honmei",
-      "title": "Fujitsuによる加盟店向け販売管理システム再構築で直感操作と顧客接点強化",
-      "excerpt": "加盟店向け販売管理システムをUXデザインで再構築し、顧客接点強化と操作性向上を両立させた仕組み",
-      "source": "富士通レポート",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "IT・業務システム",
-      "mechanismTags": [
-        "直感UI設計",
-        "UX推進体制"
-      ],
-      "url": "https://www.fujitsu.com/jp/documents/about/resources/publications/magazine/backnumber/vol68-3/paper06.pdf"
+      "url": "https://magazine.serviceology.org/?p=2439"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.persistent.com/client-success/support-tickets-halved-with-contextual-in-product-self-service-at-scale/",
     "https://pubmed.ncbi.nlm.nih.gov/41543360/",
     "https://formative.jmir.org/2024/1/e49492",
     "https://www.ideo.com/case-study/the-future-guest-experience",
@@ -299,10 +298,10 @@
     "https://www.nttdata.com/jp/ja/trends/data-insight/2020/121890/",
     "https://forbesjapan.com/articles/detail/92124",
     "https://www.crma-j.org/best_practice/best_practice_03.html?title=2021",
-    "https://www.fujitsu.com/jp/documents/about/resources/publications/magazine/backnumber/vol68-3/paper06.pdf"
+    "https://www.fujitsu.com/jp/documents/about/resources/publications/magazine/backnumber/vol68-3/paper06.pdf",
+    "https://magazine.serviceology.org/?p=2439"
   ],
   "titles": [
-    "CareBuddy：認知症介護者向け多機能モバイルケアエコシステムの実装と評価",
     "CareMOBI：デイサービスと医療提供者の情報を結ぶmHealthアプリ構築の混合手法評価",
     "kate spade new york店舗で“Muse”導入によるパーソナライズ小売体験の仕組み",
     "LUMIXコミュニティによる購入後顧客との関係深化と解約率低減",
@@ -601,6 +600,7 @@
     "北の達人:物流・品質チェック強化でD2Cの“使用体験”を向上",
     "トゥモローランドがOMOを「店舗スタッフをデジタルでサポートする仕組み」と再定義したCX改革",
     "統合CRM基盤で“特別なおもてなし”を実現したダイナースクラブの個客対応モデル",
-    "Fujitsuによる加盟店向け販売管理システム再構築で直感操作と顧客接点強化"
+    "Fujitsuによる加盟店向け販売管理システム再構築で直感操作と顧客接点強化",
+    "メルペイ：Weekly UXRでリサーチ文化を仕組み化"
   ]
 }
