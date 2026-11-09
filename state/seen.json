@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://pubmed.ncbi.nlm.nih.gov/41543360/",
-    "https://formative.jmir.org/2024/1/e49492",
-    "https://www.ideo.com/case-study/the-future-guest-experience",
-    "https://commune.co.jp/magazine/customer_experience_improvement/",
-    "https://star.global/jp/cases/ntt-data-creating-an-in-car-concierge-service/",
-    "https://www.karaden.jp/case/fujita-hu/",
     "https://neco.riprice.co.jp/case/case-6638/",
     "https://ubie.app/interview/case/u2wodj-_z_-1",
     "https://www.bowmanstephen.com/work/united",
@@ -299,15 +293,15 @@
     "https://forbesjapan.com/articles/detail/92124",
     "https://www.crma-j.org/best_practice/best_practice_03.html?title=2021",
     "https://www.fujitsu.com/jp/documents/about/resources/publications/magazine/backnumber/vol68-3/paper06.pdf",
-    "https://magazine.serviceology.org/?p=2439"
+    "https://magazine.serviceology.org/?p=2439",
+    "(PDFの実在URL)https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a61e1726-c5cd-432f-8a39-cdd97e2d8578/77e0a5cb-c3fc-4403-b472-e5e8d3ba8fb.pdf",
+    "https://www.axismag.jp/posts/2026/08/719484.html",
+    "https://sonicmoov.com/works/pharmashift",
+    "https://studio.design/ja/customer-story/filter/industry/public",
+    "https://appmarketinglabo.net/2025/08/12",
+    "https://appmarketinglabo.net/2025/06/09"
   ],
   "titles": [
-    "CareMOBI：デイサービスと医療提供者の情報を結ぶmHealthアプリ構築の混合手法評価",
-    "kate spade new york店舗で“Muse”導入によるパーソナライズ小売体験の仕組み",
-    "LUMIXコミュニティによる購入後顧客との関係深化と解約率低減",
-    "NTTデータ×Starによる車載デジタルパーソナリティ型車内コンシェルジュ設計",
-    "藤田医科大学病院のSMS呼び出しで待合混雑と患者不安を軽減",
-    "マツバクリニックの“ネコの目”クラウド受付で待ち見える化",
     "デジタル問診導入で滞在時間大幅削減：岡山旭東病院事例",
     "United Airlines、13のレガシーシステムを統合したコールセンター向けUXダッシュボード",
     "iOPEXによる美容サロン向けカスタマーエクスペリエンス刷新",
@@ -601,6 +595,12 @@
     "トゥモローランドがOMOを「店舗スタッフをデジタルでサポートする仕組み」と再定義したCX改革",
     "統合CRM基盤で“特別なおもてなし”を実現したダイナースクラブの個客対応モデル",
     "Fujitsuによる加盟店向け販売管理システム再構築で直感操作と顧客接点強化",
-    "メルペイ：Weekly UXRでリサーチ文化を仕組み化"
+    "メルペイ：Weekly UXRでリサーチ文化を仕組み化",
+    "KDDIのチャネル横断UX/UI改善による顧客滞在時間削減と購買率向上",
+    "公共UX：「人にやさしい窓口」顔認証端末Caoraの導入",
+    "LINE基盤のお薬手帳「つながる薬局」UX再設計と組織内デザイン基盤構築",
+    "Studio導入によるベネッセWeb内製化でCVR139％・コスト6割減",
+    "アプリのオンボーディング簡素化で離脱率1/3に削減したTVer施策",
+    "北欧、暮らしの道具店のUXリサーチによる顧客理解とABテスト施策"
   ]
 }

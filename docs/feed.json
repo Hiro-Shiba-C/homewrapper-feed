@@ -1,20 +1,94 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
-      "id": "658275a7ec10e72a",
-      "category": "ekkyou",
-      "title": "メルペイ：Weekly UXRでリサーチ文化を仕組み化",
-      "excerpt": "週次UXリサーチを定常化する「Weekly UXR」で社内プロジェクトへのリサーチ浸透と意思決定への改善反映を促進",
-      "source": "サービソロジー Webマガジン",
+      "id": "4976a8f866b86f34",
+      "category": "honmei",
+      "title": "KDDIのチャネル横断UX/UI改善による顧客滞在時間削減と購買率向上",
+      "excerpt": "KDDIのDXプロジェクトで、チャネル横断のUX設計・UI改善・ユーザーテストにより、店頭滞在を短縮しオンライン購入増加。",
+      "source": "KDDI DX支援 事例",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "金融／フィンテック",
+      "industryTag": "通信",
       "mechanismTags": [
-        "定常リサーチ体制",
-        "反復型改善"
+        "部門横断UX",
+        "オンライン–オフライン統合"
       ],
-      "url": "https://magazine.serviceology.org/?p=2439"
+      "url": "(PDFの実在URL)https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a61e1726-c5cd-432f-8a39-cdd97e2d8578/77e0a5cb-c3fc-4403-b472-e5e8d3ba8fb.pdf"
+    },
+    {
+      "id": "465c93e9c94e7fc2",
+      "category": "ekkyou",
+      "title": "公共UX：「人にやさしい窓口」顔認証端末Caoraの導入",
+      "excerpt": "自治体窓口に顔認証Caoraを配置しマイナンバー読み取りや申請自動化で待ち時間減、誰でも迷わない公共サービス提供。",
+      "source": "AXIS Web",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "行政",
+      "mechanismTags": [
+        "顔認証窓口",
+        "申請の自動化"
+      ],
+      "url": "https://www.axismag.jp/posts/2026/08/719484.html"
+    },
+    {
+      "id": "06833b4e6e2f0dac",
+      "category": "ekkyou",
+      "title": "LINE基盤のお薬手帳「つながる薬局」UX再設計と組織内デザイン基盤構築",
+      "excerpt": "LINEを起点にした電子お薬手帳のUX再設計とアクセシビリティ方針整理、組織的なデザイン基盤整備で価値を創出。",
+      "source": "ソニックムーヴ／ファーマシフト事例",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "チャネル再定義",
+        "デザイン基盤構築"
+      ],
+      "url": "https://sonicmoov.com/works/pharmashift"
+    },
+    {
+      "id": "12e5a440fcb4e644",
+      "category": "ekkyou",
+      "title": "Studio導入によるベネッセWeb内製化でCVR139％・コスト6割減",
+      "excerpt": "ベネッセがStudio導入でWeb制作を内製化。CVR139％向上とコスト60％削減し、制作スピードも向上。",
+      "source": "Studio 事例インタビュー",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "教育",
+      "mechanismTags": [
+        "内製化推進",
+        "制作効率化"
+      ],
+      "url": "https://studio.design/ja/customer-story/filter/industry/public"
+    },
+    {
+      "id": "95cdc9f5711e40bf",
+      "category": "teiten",
+      "title": "アプリのオンボーディング簡素化で離脱率1/3に削減したTVer施策",
+      "excerpt": "TVerがオンボーディングUXをシンプル化し、離脱率を3分の1に削減した具体的施策を図解付きで解説。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "アプリ",
+      "mechanismTags": [
+        "オンボーディング改善"
+      ],
+      "url": "https://appmarketinglabo.net/2025/08/12"
+    },
+    {
+      "id": "7e264ffe33aa99a7",
+      "category": "teiten",
+      "title": "北欧、暮らしの道具店のUXリサーチによる顧客理解とABテスト施策",
+      "excerpt": "「北欧、暮らしの道具店」アプリを売上66億円に成長させた、UXリサーチと3つのABテスト施策を紹介。",
+      "source": "アプリマーケティング研究所",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "アプリ",
+      "mechanismTags": [
+        "UXリサーチ",
+        "ABテスト"
+      ],
+      "url": "https://appmarketinglabo.net/2025/06/09"
     }
   ]
 }
