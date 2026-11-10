@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://neco.riprice.co.jp/case/case-6638/",
     "https://ubie.app/interview/case/u2wodj-_z_-1",
     "https://www.bowmanstephen.com/work/united",
     "https://www.iopex.com/case-studies/enhanced-customer-experience-using-a-rapid-deployment-solution",
@@ -299,10 +298,10 @@
     "https://sonicmoov.com/works/pharmashift",
     "https://studio.design/ja/customer-story/filter/industry/public",
     "https://appmarketinglabo.net/2025/08/12",
-    "https://appmarketinglabo.net/2025/06/09"
+    "https://appmarketinglabo.net/2025/06/09",
+    "https://information.nttdocomo-fresh.jp/docomo/project/spr/"
   ],
   "titles": [
-    "デジタル問診導入で滞在時間大幅削減：岡山旭東病院事例",
     "United Airlines、13のレガシーシステムを統合したコールセンター向けUXダッシュボード",
     "iOPEXによる美容サロン向けカスタマーエクスペリエンス刷新",
     "Dialog AxiataのVoCとCES設計によるデジタルケア拡大でOPEX大幅削減",
@@ -601,6 +600,7 @@
     "LINE基盤のお薬手帳「つながる薬局」UX再設計と組織内デザイン基盤構築",
     "Studio導入によるベネッセWeb内製化でCVR139％・コスト6割減",
     "アプリのオンボーディング簡素化で離脱率1/3に削減したTVer施策",
-    "北欧、暮らしの道具店のUXリサーチによる顧客理解とABテスト施策"
+    "北欧、暮らしの道具店のUXリサーチによる顧客理解とABテスト施策",
+    "NTTドコモ「Smart Powder Room」：顔タイプ診断による個室接客の化粧品UX再設計"
   ]
 }
