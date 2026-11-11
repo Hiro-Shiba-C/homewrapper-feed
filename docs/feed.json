@@ -1,20 +1,65 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "id": "3ab000070b137a28",
-      "category": "ekkyou",
-      "title": "NTTドコモ「Smart Powder Room」：顔タイプ診断による個室接客の化粧品UX再設計",
-      "excerpt": "商業施設の個室空間で顔タイプをAI診断し、その場で合う化粧品を表示。ユーザーの安心と納得を高めた体験設計。",
-      "source": "NTTドコモ／プロジェクト事例",
+      "id": "c4d9c768d38a7257",
+      "category": "honmei",
+      "title": "Zendesk導入で問合せ体験を一元化し、対応時間と負荷を大幅削減した事例",
+      "excerpt": "問い合わせ対応をZendeskで一元管理し、チケット対応時間40％削減・有人対応77％削減を実現",
+      "source": "CXソリューション企業 エクレクト",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売・美容",
+      "industryTag": "小売・EC",
       "mechanismTags": [
-        "個室体験設計",
-        "AI顔診断"
+        "問い合わせ一元化",
+        "問い合わせ業務効率化"
       ],
-      "url": "https://information.nttdocomo-fresh.jp/docomo/project/spr/"
+      "url": "https://eclect.co.jp/case/4700/"
+    },
+    {
+      "id": "2ac97977d5d3e08f",
+      "category": "honmei",
+      "title": "AI問診ユビーで問診時間3分の1に、医師が患者と向き合う時間を創出",
+      "excerpt": "AIによる問診代替で待ち時間短縮し、医師が患者対応に集中できる診療プロセスを実現",
+      "source": "日本サービス大賞 授賞事例",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "医療",
+      "mechanismTags": [
+        "AI問診導入",
+        "診療プロセス最適化"
+      ],
+      "url": "https://service-award.jp/result_case03/labor02.html"
+    },
+    {
+      "id": "1af74465e6bb3f18",
+      "category": "ekkyou",
+      "title": "藤田医科大学病院：SMS呼出しで診察待ちの患者満足向上",
+      "excerpt": "診察順番をSMS通知し、待合混雑緩和や問い合わせ減少、患者のストレス軽減を達成",
+      "source": "空電プッシュ導入事例",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "SMS呼出し",
+        "待ち時間ストレス削減"
+      ],
+      "url": "https://www.karaden.jp/case/fujita-hu/"
+    },
+    {
+      "id": "504be0f7b331b2fd",
+      "category": "ekkyou",
+      "title": "地域クリニックがAI問診導入で待ち時間70％短縮",
+      "excerpt": "地域密着クリニックでAI問診導入し、待ち時間を10→3分に短縮、患者家族の負担も軽減",
+      "source": "SEEKAD事例紹介",
+      "format": "article",
+      "estimatedMinutes": 4,
+      "industryTag": "医療・福祉",
+      "mechanismTags": [
+        "AI問診導入",
+        "待ち時間削減"
+      ],
+      "url": "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX"
     }
   ]
 }

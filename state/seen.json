@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://ubie.app/interview/case/u2wodj-_z_-1",
-    "https://www.bowmanstephen.com/work/united",
-    "https://www.iopex.com/case-studies/enhanced-customer-experience-using-a-rapid-deployment-solution",
-    "https://cxpaglobal.org/storage/app/media/Proven%20Business%20Impact%20Case%20Studies/Enhancing_Customer_Experience_and_Digital_Care_through_Net_Easy_Score_Implementation_at_Dialog_Axiata_PLC.pdf",
     "https://www.opere.jp/post/case_yokohama-shinmidori-general-hospital",
     "https://www.jstage.jst.go.jp/article/jamt/75/2/75_25-79/_html/-char/ja/",
     "https://www.usability-lab.pl/case-studies/designing-the-customer-service-system-for-hotel-guests/",
@@ -299,13 +295,13 @@
     "https://studio.design/ja/customer-story/filter/industry/public",
     "https://appmarketinglabo.net/2025/08/12",
     "https://appmarketinglabo.net/2025/06/09",
-    "https://information.nttdocomo-fresh.jp/docomo/project/spr/"
+    "https://information.nttdocomo-fresh.jp/docomo/project/spr/",
+    "https://eclect.co.jp/case/4700/",
+    "https://service-award.jp/result_case03/labor02.html",
+    "https://www.karaden.jp/case/fujita-hu/",
+    "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX"
   ],
   "titles": [
-    "United Airlines、13のレガシーシステムを統合したコールセンター向けUXダッシュボード",
-    "iOPEXによる美容サロン向けカスタマーエクスペリエンス刷新",
-    "Dialog AxiataのVoCとCES設計によるデジタルケア拡大でOPEX大幅削減",
-    "横浜新緑総合病院「ポケさぽ」で入院案内をLINE化、説明時間10分→2分に短縮",
     "検査室のレイアウト改革でTAT短縮＆移動距離半減、運用効率向上",
     "PUROホテル向けホテル客向けカスタマーサービスシステム設計",
     "Holiday Hero：デジタルコンシェルジュアプリで滞在体験を自動化",
@@ -601,6 +597,10 @@
     "Studio導入によるベネッセWeb内製化でCVR139％・コスト6割減",
     "アプリのオンボーディング簡素化で離脱率1/3に削減したTVer施策",
     "北欧、暮らしの道具店のUXリサーチによる顧客理解とABテスト施策",
-    "NTTドコモ「Smart Powder Room」：顔タイプ診断による個室接客の化粧品UX再設計"
+    "NTTドコモ「Smart Powder Room」：顔タイプ診断による個室接客の化粧品UX再設計",
+    "Zendesk導入で問合せ体験を一元化し、対応時間と負荷を大幅削減した事例",
+    "AI問診ユビーで問診時間3分の1に、医師が患者と向き合う時間を創出",
+    "藤田医科大学病院：SMS呼出しで診察待ちの患者満足向上",
+    "地域クリニックがAI問診導入で待ち時間70％短縮"
   ]
 }
