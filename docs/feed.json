@@ -1,65 +1,50 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
     {
-      "id": "c4d9c768d38a7257",
+      "id": "5169139b6bcd2b51",
       "category": "honmei",
-      "title": "Zendesk導入で問合せ体験を一元化し、対応時間と負荷を大幅削減した事例",
-      "excerpt": "問い合わせ対応をZendeskで一元管理し、チケット対応時間40％削減・有人対応77％削減を実現",
-      "source": "CXソリューション企業 エクレクト",
+      "title": "NTTドコモ：AWSで構築したオンラインビデオサポートで接客効率と満足向上",
+      "excerpt": "Amazon Chime SDKを活用したハイブリッド型ビデオ窓口により、専門スタッフ対応や雑音抑制で接客品質と業務効率を両立。",
+      "source": "AWS ビジネス Productivity ブログ",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "通信",
+      "mechanismTags": [
+        "ハイブリッド接客モデル",
+        "音声ノイズ抑制"
+      ],
+      "url": "https://aws.amazon.com/blogs/business-productivity/ntt-docomo-added-video-customer-support-using-aws/"
+    },
+    {
+      "id": "64f5f5e5f63924ca",
+      "category": "ekkyou",
+      "title": "三井不動産「ハレクラニ」：組織文化とプロセス設計に根ざすホテル体験設計",
+      "excerpt": "組織の共有価値観をサービスプロセスに浸透させることで、潜在的・コンティンジェントサービスの提供を可能にしたホテルUX設計。",
+      "source": "マーケティングジャーナル（三井不動産「ハレクラニ」の事例）",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "ホテル・ホスピタリティ",
+      "mechanismTags": [
+        "組織文化浸透",
+        "プロセス設計"
+      ],
+      "url": "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja"
+    },
+    {
+      "id": "0e1a192346da184a",
+      "category": "ekkyou",
+      "title": "Curiosityデザイン：店舗をシアター化する小売／ホテル空間のパラダイムシフト",
+      "excerpt": "店舗やホテルの空間を“カフェやラウンジ”化し、顧客を演者に見立てた感情喚起型体験へと再定義する空間デザインの潮流。",
+      "source": "Wallpaper*（リテール建築の未来）",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売・EC",
+      "industryTag": "小売・空間",
       "mechanismTags": [
-        "問い合わせ一元化",
-        "問い合わせ業務効率化"
+        "体験型空間設計",
+        "感情誘導"
       ],
-      "url": "https://eclect.co.jp/case/4700/"
-    },
-    {
-      "id": "2ac97977d5d3e08f",
-      "category": "honmei",
-      "title": "AI問診ユビーで問診時間3分の1に、医師が患者と向き合う時間を創出",
-      "excerpt": "AIによる問診代替で待ち時間短縮し、医師が患者対応に集中できる診療プロセスを実現",
-      "source": "日本サービス大賞 授賞事例",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "医療",
-      "mechanismTags": [
-        "AI問診導入",
-        "診療プロセス最適化"
-      ],
-      "url": "https://service-award.jp/result_case03/labor02.html"
-    },
-    {
-      "id": "1af74465e6bb3f18",
-      "category": "ekkyou",
-      "title": "藤田医科大学病院：SMS呼出しで診察待ちの患者満足向上",
-      "excerpt": "診察順番をSMS通知し、待合混雑緩和や問い合わせ減少、患者のストレス軽減を達成",
-      "source": "空電プッシュ導入事例",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "SMS呼出し",
-        "待ち時間ストレス削減"
-      ],
-      "url": "https://www.karaden.jp/case/fujita-hu/"
-    },
-    {
-      "id": "504be0f7b331b2fd",
-      "category": "ekkyou",
-      "title": "地域クリニックがAI問診導入で待ち時間70％短縮",
-      "excerpt": "地域密着クリニックでAI問診導入し、待ち時間を10→3分に短縮、患者家族の負担も軽減",
-      "source": "SEEKAD事例紹介",
-      "format": "article",
-      "estimatedMinutes": 4,
-      "industryTag": "医療・福祉",
-      "mechanismTags": [
-        "AI問診導入",
-        "待ち時間削減"
-      ],
-      "url": "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX"
+      "url": "https://www.wallpaper.com/architecture/retail-architecture-gwenael-nicolas-curiosity-interview"
     }
   ]
 }

@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.opere.jp/post/case_yokohama-shinmidori-general-hospital",
-    "https://www.jstage.jst.go.jp/article/jamt/75/2/75_25-79/_html/-char/ja/",
-    "https://www.usability-lab.pl/case-studies/designing-the-customer-service-system-for-hotel-guests/",
     "https://tapptitude.com/case-studies/holiday-hero",
     "https://design.google/library/airbnb-invites-you-in",
     "https://www.concentinc.jp/news-event/news/2026/04/gov-toolbox/",
@@ -299,12 +296,12 @@
     "https://eclect.co.jp/case/4700/",
     "https://service-award.jp/result_case03/labor02.html",
     "https://www.karaden.jp/case/fujita-hu/",
-    "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX"
+    "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX",
+    "https://aws.amazon.com/blogs/business-productivity/ntt-docomo-added-video-customer-support-using-aws/",
+    "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja",
+    "https://www.wallpaper.com/architecture/retail-architecture-gwenael-nicolas-curiosity-interview"
   ],
   "titles": [
-    "検査室のレイアウト改革でTAT短縮＆移動距離半減、運用効率向上",
-    "PUROホテル向けホテル客向けカスタマーサービスシステム設計",
-    "Holiday Hero：デジタルコンシェルジュアプリで滞在体験を自動化",
     "Airbnbアプリのデザイン統一と会話型インタフェースで信頼性向上",
     "行政の定期券予約Web化：観察とユーザビリティテストで混雑解消",
     "足立区の保育施設申込オンライン化におけるUX設計支援",
@@ -601,6 +598,9 @@
     "Zendesk導入で問合せ体験を一元化し、対応時間と負荷を大幅削減した事例",
     "AI問診ユビーで問診時間3分の1に、医師が患者と向き合う時間を創出",
     "藤田医科大学病院：SMS呼出しで診察待ちの患者満足向上",
-    "地域クリニックがAI問診導入で待ち時間70％短縮"
+    "地域クリニックがAI問診導入で待ち時間70％短縮",
+    "NTTドコモ：AWSで構築したオンラインビデオサポートで接客効率と満足向上",
+    "三井不動産「ハレクラニ」：組織文化とプロセス設計に根ざすホテル体験設計",
+    "Curiosityデザイン：店舗をシアター化する小売／ホテル空間のパラダイムシフト"
   ]
 }
