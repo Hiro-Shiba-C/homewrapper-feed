@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://tapptitude.com/case-studies/holiday-hero",
-    "https://design.google/library/airbnb-invites-you-in",
-    "https://www.concentinc.jp/news-event/news/2026/04/gov-toolbox/",
-    "https://www.dascorp.co.jp/works/post/ip37usb5l5je",
-    "https://www.digital.go.jp/resources/user-centered-approach-guidebook",
     "https://blog.nijibox.jp/article/ux_works/",
     "https://www.stephanie-gross.com/getgo/",
     "https://ux-design-agency.co.uk/case-studies/quick-conversion-ux",
@@ -299,14 +294,14 @@
     "https://seekad.co.jp/ai_picks_usecase/mx3DIFzX",
     "https://aws.amazon.com/blogs/business-productivity/ntt-docomo-added-video-customer-support-using-aws/",
     "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja",
-    "https://www.wallpaper.com/architecture/retail-architecture-gwenael-nicolas-curiosity-interview"
+    "https://www.wallpaper.com/architecture/retail-architecture-gwenael-nicolas-curiosity-interview",
+    "https://prtimes.jp/main/html/rd/p/000000002.000164915.html",
+    "https://www.mlit.go.jp/kankocho/content/001889558.pdf",
+    "https://popinsight.jp/case/miyakohotels",
+    "https://kanko-dx.go.jp/wp-content/themes/kanko-dx/assets/img/knowledge/knowledge-05.pdf",
+    "https://www.meti.go.jp/policy/it_policy/jinzai/Results_of_Collaborations_with_Companies_2025.pdf"
   ],
   "titles": [
-    "Airbnbアプリのデザイン統一と会話型インタフェースで信頼性向上",
-    "行政の定期券予約Web化：観察とユーザビリティテストで混雑解消",
-    "足立区の保育施設申込オンライン化におけるUX設計支援",
-    "デジタル庁の「利用者視点」導入ガイドブック：行政サービスUX改善事例とツール紹介",
-    "『あと値決め』における“みんなの値決め”によるUX最適化事例",
     "GetGoモバイル注文UX改善による操作階層削減事例",
     "Quick：モバイル決済UX再構築によるカート離脱減少事例",
     "学校施設にICT予約とスマートロック導入した地域共用化",
@@ -601,6 +596,11 @@
     "地域クリニックがAI問診導入で待ち時間70％短縮",
     "NTTドコモ：AWSで構築したオンラインビデオサポートで接客効率と満足向上",
     "三井不動産「ハレクラニ」：組織文化とプロセス設計に根ざすホテル体験設計",
-    "Curiosityデザイン：店舗をシアター化する小売／ホテル空間のパラダイムシフト"
+    "Curiosityデザイン：店舗をシアター化する小売／ホテル空間のパラダイムシフト",
+    "AIとIoTで問い合わせ・施設管理を効率化したホテルおかだのDXモデル",
+    "ホテルおかだ：PMS統合＋RAGで接客効率を1日30～60分改善",
+    "顧客理解に基づくロイヤルティプログラム改善：都ホテルズのUX設計",
+    "隠岐諸島：旅前情報と予約を一体化した地域観光UX設計",
+    "地域旅館DX：AIコンシェルジュと生成AIで問い合わせ対応を強化"
   ]
 }

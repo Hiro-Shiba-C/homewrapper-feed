@@ -1,50 +1,79 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
     {
-      "id": "5169139b6bcd2b51",
+      "id": "ee4297508d1009d3",
       "category": "honmei",
-      "title": "NTTドコモ：AWSで構築したオンラインビデオサポートで接客効率と満足向上",
-      "excerpt": "Amazon Chime SDKを活用したハイブリッド型ビデオ窓口により、専門スタッフ対応や雑音抑制で接客品質と業務効率を両立。",
-      "source": "AWS ビジネス Productivity ブログ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "通信",
-      "mechanismTags": [
-        "ハイブリッド接客モデル",
-        "音声ノイズ抑制"
-      ],
-      "url": "https://aws.amazon.com/blogs/business-productivity/ntt-docomo-added-video-customer-support-using-aws/"
-    },
-    {
-      "id": "64f5f5e5f63924ca",
-      "category": "ekkyou",
-      "title": "三井不動産「ハレクラニ」：組織文化とプロセス設計に根ざすホテル体験設計",
-      "excerpt": "組織の共有価値観をサービスプロセスに浸透させることで、潜在的・コンティンジェントサービスの提供を可能にしたホテルUX設計。",
-      "source": "マーケティングジャーナル（三井不動産「ハレクラニ」の事例）",
+      "title": "AIとIoTで問い合わせ・施設管理を効率化したホテルおかだのDXモデル",
+      "excerpt": "生成AIによる多言語メール自動返信とIoTによる温泉・タンク管理で、業務効率と接客品質を両立した仕組み設計。",
+      "source": "全国宿泊業界事例・観光庁モデル実証事業報告",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "ホテル・ホスピタリティ",
+      "industryTag": "ホテル・観光",
       "mechanismTags": [
-        "組織文化浸透",
-        "プロセス設計"
+        "生成AI／IoT活用"
       ],
-      "url": "https://www.jstage.jst.go.jp/article/marketing/40/1/40_2020.039/_html/-char/ja"
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000164915.html"
     },
     {
-      "id": "0e1a192346da184a",
-      "category": "ekkyou",
-      "title": "Curiosityデザイン：店舗をシアター化する小売／ホテル空間のパラダイムシフト",
-      "excerpt": "店舗やホテルの空間を“カフェやラウンジ”化し、顧客を演者に見立てた感情喚起型体験へと再定義する空間デザインの潮流。",
-      "source": "Wallpaper*（リテール建築の未来）",
+      "id": "7e2e33608db850e8",
+      "category": "honmei",
+      "title": "ホテルおかだ：PMS統合＋RAGで接客効率を1日30～60分改善",
+      "excerpt": "PMS・日報・アンケートなどの分散データを統合し、生成AI（RAG）で要約・活用し接客準備の手間を大幅削減。",
+      "source": "官公庁ユースケース資料",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "ホテル・観光",
+      "mechanismTags": [
+        "データ統合",
+        "生成AI要約"
+      ],
+      "url": "https://www.mlit.go.jp/kankocho/content/001889558.pdf"
+    },
+    {
+      "id": "91c0440a3aecc7c5",
+      "category": "honmei",
+      "title": "顧客理解に基づくロイヤルティプログラム改善：都ホテルズのUX設計",
+      "excerpt": "インタビューとカスタマージャーニーを活用し、顧客ロイヤルティ向上の施策を実務へ迅速に繋いだ体験設計プロセス。",
+      "source": "ポップインサイト",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売・空間",
+      "industryTag": "ホテル・観光",
       "mechanismTags": [
-        "体験型空間設計",
-        "感情誘導"
+        "体験設計",
+        "カスタマージャーニー"
       ],
-      "url": "https://www.wallpaper.com/architecture/retail-architecture-gwenael-nicolas-curiosity-interview"
+      "url": "https://popinsight.jp/case/miyakohotels"
+    },
+    {
+      "id": "b44e5577038aaa35",
+      "category": "ekkyou",
+      "title": "隠岐諸島：旅前情報と予約を一体化した地域観光UX設計",
+      "excerpt": "地域サイトに宿泊・体験・船の予約・決済を統合し、CRM施策で再来訪促進する地域横断UX設計。",
+      "source": "観光DXナレッジ集",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "観光・地域コミュニティ",
+      "mechanismTags": [
+        "予約一体化",
+        "CRM連携"
+      ],
+      "url": "https://kanko-dx.go.jp/wp-content/themes/kanko-dx/assets/img/knowledge/knowledge-05.pdf"
+    },
+    {
+      "id": "1e9d4e1d30451b3c",
+      "category": "ekkyou",
+      "title": "地域旅館DX：AIコンシェルジュと生成AIで問い合わせ対応を強化",
+      "excerpt": "生成AIを使った温かみある回答を伴うAIコンシェルジュで、来訪前からのエンゲージメント構築に寄与。",
+      "source": "地域企業協働プログラム事例集",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "旅館·観光",
+      "mechanismTags": [
+        "AIコンシェルジュ",
+        "生成AI"
+      ],
+      "url": "https://www.meti.go.jp/policy/it_policy/jinzai/Results_of_Collaborations_with_Companies_2025.pdf"
     }
   ]
 }
