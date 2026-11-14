@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://blog.nijibox.jp/article/ux_works/",
-    "https://www.stephanie-gross.com/getgo/",
     "https://ux-design-agency.co.uk/case-studies/quick-conversion-ux",
     "https://www.mext.go.jp/co-sha/ideas/case_hayakita_00001.html",
     "https://cxdive.com/2025/award/",
@@ -299,11 +297,11 @@
     "https://www.mlit.go.jp/kankocho/content/001889558.pdf",
     "https://popinsight.jp/case/miyakohotels",
     "https://kanko-dx.go.jp/wp-content/themes/kanko-dx/assets/img/knowledge/knowledge-05.pdf",
-    "https://www.meti.go.jp/policy/it_policy/jinzai/Results_of_Collaborations_with_Companies_2025.pdf"
+    "https://www.meti.go.jp/policy/it_policy/jinzai/Results_of_Collaborations_with_Companies_2025.pdf",
+    "https://www.nttcoms.com/service/web/case/usecase001/",
+    "https://arxiv.org/abs/2610.27170"
   ],
   "titles": [
-    "GetGoモバイル注文UX改善による操作階層削減事例",
-    "Quick：モバイル決済UX再構築によるカート離脱減少事例",
     "学校施設にICT予約とスマートロック導入した地域共用化",
     "TOYOTA ARENA TOKYO による未来志向の“場”体験設計",
     "POGSによる携帯端末外来案内で待ち時間ストレス90％軽減",
@@ -601,6 +599,8 @@
     "ホテルおかだ：PMS統合＋RAGで接客効率を1日30～60分改善",
     "顧客理解に基づくロイヤルティプログラム改善：都ホテルズのUX設計",
     "隠岐諸島：旅前情報と予約を一体化した地域観光UX設計",
-    "地域旅館DX：AIコンシェルジュと生成AIで問い合わせ対応を強化"
+    "地域旅館DX：AIコンシェルジュと生成AIで問い合わせ対応を強化",
+    "NTTドコモ：BtoBサイト立ち上げによる導線最適化と販促コラム活用",
+    "Too Long to Watch, Too Short to Leave：Agentマイクロ待ち時間におけるSidecar設計"
   ]
 }

@@ -1,79 +1,35 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
-      "id": "ee4297508d1009d3",
+      "id": "598358685c9622f0",
       "category": "honmei",
-      "title": "AIとIoTで問い合わせ・施設管理を効率化したホテルおかだのDXモデル",
-      "excerpt": "生成AIによる多言語メール自動返信とIoTによる温泉・タンク管理で、業務効率と接客品質を両立した仕組み設計。",
-      "source": "全国宿泊業界事例・観光庁モデル実証事業報告",
+      "title": "NTTドコモ：BtoBサイト立ち上げによる導線最適化と販促コラム活用",
+      "excerpt": "ユーザー行動プロセス設計や情報設計、コンテンツ施策とPDCAで直帰率・離脱率・CVRの改善に成功した仕組み。",
+      "source": "NTTドコモビジネスX",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "ITサービス",
+      "mechanismTags": [
+        "行動プロセス設計",
+        "コンテンツ戦略"
+      ],
+      "url": "https://www.nttcoms.com/service/web/case/usecase001/"
+    },
+    {
+      "id": "4625077d30fe37ca",
+      "category": "ekkyou",
+      "title": "Too Long to Watch, Too Short to Leave：Agentマイクロ待ち時間におけるSidecar設計",
+      "excerpt": "エージェントの数分タスク中の“微待ち”を、Sidecar（並行補助）により文脈維持し集中体験を支える設計例。",
+      "source": "arXiv（HCI研究）",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "ホテル・観光",
+      "industryTag": "AIシステム",
       "mechanismTags": [
-        "生成AI／IoT活用"
+        "補助表示",
+        "文脈維持"
       ],
-      "url": "https://prtimes.jp/main/html/rd/p/000000002.000164915.html"
-    },
-    {
-      "id": "7e2e33608db850e8",
-      "category": "honmei",
-      "title": "ホテルおかだ：PMS統合＋RAGで接客効率を1日30～60分改善",
-      "excerpt": "PMS・日報・アンケートなどの分散データを統合し、生成AI（RAG）で要約・活用し接客準備の手間を大幅削減。",
-      "source": "官公庁ユースケース資料",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "ホテル・観光",
-      "mechanismTags": [
-        "データ統合",
-        "生成AI要約"
-      ],
-      "url": "https://www.mlit.go.jp/kankocho/content/001889558.pdf"
-    },
-    {
-      "id": "91c0440a3aecc7c5",
-      "category": "honmei",
-      "title": "顧客理解に基づくロイヤルティプログラム改善：都ホテルズのUX設計",
-      "excerpt": "インタビューとカスタマージャーニーを活用し、顧客ロイヤルティ向上の施策を実務へ迅速に繋いだ体験設計プロセス。",
-      "source": "ポップインサイト",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "ホテル・観光",
-      "mechanismTags": [
-        "体験設計",
-        "カスタマージャーニー"
-      ],
-      "url": "https://popinsight.jp/case/miyakohotels"
-    },
-    {
-      "id": "b44e5577038aaa35",
-      "category": "ekkyou",
-      "title": "隠岐諸島：旅前情報と予約を一体化した地域観光UX設計",
-      "excerpt": "地域サイトに宿泊・体験・船の予約・決済を統合し、CRM施策で再来訪促進する地域横断UX設計。",
-      "source": "観光DXナレッジ集",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "観光・地域コミュニティ",
-      "mechanismTags": [
-        "予約一体化",
-        "CRM連携"
-      ],
-      "url": "https://kanko-dx.go.jp/wp-content/themes/kanko-dx/assets/img/knowledge/knowledge-05.pdf"
-    },
-    {
-      "id": "1e9d4e1d30451b3c",
-      "category": "ekkyou",
-      "title": "地域旅館DX：AIコンシェルジュと生成AIで問い合わせ対応を強化",
-      "excerpt": "生成AIを使った温かみある回答を伴うAIコンシェルジュで、来訪前からのエンゲージメント構築に寄与。",
-      "source": "地域企業協働プログラム事例集",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "旅館·観光",
-      "mechanismTags": [
-        "AIコンシェルジュ",
-        "生成AI"
-      ],
-      "url": "https://www.meti.go.jp/policy/it_policy/jinzai/Results_of_Collaborations_with_Companies_2025.pdf"
+      "url": "https://arxiv.org/abs/2610.27170"
     }
   ]
 }
