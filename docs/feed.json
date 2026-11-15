@@ -1,35 +1,35 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
-      "id": "598358685c9622f0",
+      "id": "0dc9398ce9c1af70",
       "category": "honmei",
-      "title": "NTTドコモ：BtoBサイト立ち上げによる導線最適化と販促コラム活用",
-      "excerpt": "ユーザー行動プロセス設計や情報設計、コンテンツ施策とPDCAで直帰率・離脱率・CVRの改善に成功した仕組み。",
-      "source": "NTTドコモビジネスX",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "ITサービス",
-      "mechanismTags": [
-        "行動プロセス設計",
-        "コンテンツ戦略"
-      ],
-      "url": "https://www.nttcoms.com/service/web/case/usecase001/"
-    },
-    {
-      "id": "4625077d30fe37ca",
-      "category": "ekkyou",
-      "title": "Too Long to Watch, Too Short to Leave：Agentマイクロ待ち時間におけるSidecar設計",
-      "excerpt": "エージェントの数分タスク中の“微待ち”を、Sidecar（並行補助）により文脈維持し集中体験を支える設計例。",
-      "source": "arXiv（HCI研究）",
+      "title": "KDDIのチャネル横断UX改善支援事例",
+      "excerpt": "チャネル・部門横断でUX/UI設計とUI制作・ユーザーテストを常駐支援し、オンライン購買比率向上と店頭滞在時間短縮を実現。",
+      "source": "RX Web PR資料",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "AIシステム",
+      "industryTag": "通信",
       "mechanismTags": [
-        "補助表示",
-        "文脈維持"
+        "部門横断UX支援",
+        "購買導線最適化"
       ],
-      "url": "https://arxiv.org/abs/2610.27170"
+      "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a61e1726-c5cd-432f-8a39-cdd97e2d8578/77e0a5cb-c3fc-4403-b472-ea5e8d3ba8fb.pdf"
+    },
+    {
+      "id": "b91dc634c9671e9c",
+      "category": "ekkyou",
+      "title": "ヘルスケアMaaS：医療待ち時間と移動負担をAIデマンドバスで軽減",
+      "excerpt": "予約から乗車までAIルート生成で平均14分の待ち時間を実現。高齢者の移動不便と運転手不足を同時に解決する仕組み。",
+      "source": "国交省 COMmmmONS プロジェクトレポート",
+      "format": "article",
+      "estimatedMinutes": 7,
+      "industryTag": "交通／医療・福祉",
+      "mechanismTags": [
+        "AIルート最適化",
+        "オンデマンド交通"
+      ],
+      "url": "https://www.cas.go.jp/jp/seisaku/digitaldenen/menubook/0016.html"
     }
   ]
 }
