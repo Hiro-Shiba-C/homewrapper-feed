@@ -1,35 +1,80 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "id": "0dc9398ce9c1af70",
+      "id": "c12e0b8a70f51cf3",
       "category": "honmei",
-      "title": "KDDIのチャネル横断UX改善支援事例",
-      "excerpt": "チャネル・部門横断でUX/UI設計とUI制作・ユーザーテストを常駐支援し、オンライン購買比率向上と店頭滞在時間短縮を実現。",
-      "source": "RX Web PR資料",
+      "title": "楽天「UXリサーチルーム」：リアルタイムでの顧客理解と改善を仕組み化",
+      "excerpt": "インタビュールームと観察ルームを併設し、役員を巻き込むキャラバンで顧客理解を促進。UX品質基準を事前に仕組み化し改善プロセスを定着させた。",
+      "source": "Rakuten Tech Innovation (楽天)",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "通信",
+      "estimatedMinutes": 6,
+      "industryTag": "IT／Eコマース",
       "mechanismTags": [
-        "部門横断UX支援",
-        "購買導線最適化"
+        "UXリサーチルーム",
+        "役員キャラバン"
       ],
-      "url": "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a61e1726-c5cd-432f-8a39-cdd97e2d8578/77e0a5cb-c3fc-4403-b472-ea5e8d3ba8fb.pdf"
+      "url": "https://rakuten.today/tech-innovation-ja/rakuten-bizreach-uxrun-event-report-j.html?lang=ja"
     },
     {
-      "id": "b91dc634c9671e9c",
+      "id": "f1b7d4c4ef31f850",
+      "category": "honmei",
+      "title": "メルカリのAI出品サポートによるUX改善事例",
+      "excerpt": "AIで出品フォームを自動生成し、記入負担を軽減。社内も含む全社UX視点への転換を促すUX設計の効果が見える事例。",
+      "source": "株式会社GIGブログ",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "IT／フリマ",
+      "mechanismTags": [
+        "AI自動入力",
+        "社内UX浸透"
+      ],
+      "url": "https://giginc.co.jp/blog/giglab/ux-casestudy"
+    },
+    {
+      "id": "d97cda0343af2df7",
       "category": "ekkyou",
-      "title": "ヘルスケアMaaS：医療待ち時間と移動負担をAIデマンドバスで軽減",
-      "excerpt": "予約から乗車までAIルート生成で平均14分の待ち時間を実現。高齢者の移動不便と運転手不足を同時に解決する仕組み。",
-      "source": "国交省 COMmmmONS プロジェクトレポート",
+      "title": "自治体定期券Web予約：β版での文脈理解と窓口視点によるUX検証",
+      "excerpt": "ペルソナとβ版テスト、問い合わせ窓口でのフィードバック取り込みにより、迷わず負担なく完了できる手続きUXを設計。",
+      "source": "Gov‑ToolBox",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "交通／医療・福祉",
+      "industryTag": "行政・交通",
       "mechanismTags": [
-        "AIルート最適化",
-        "オンデマンド交通"
+        "Human‑Centered Design",
+        "問い合わせフィードバック"
       ],
-      "url": "https://www.cas.go.jp/jp/seisaku/digitaldenen/menubook/0016.html"
+      "url": "https://www.gov-toolbox.jp/caseitems/tokyo2026"
+    },
+    {
+      "id": "8d09f5188b8c9aac",
+      "category": "ekkyou",
+      "title": "消費体験店舗「b8ta」での体験設計と販売マッチングモデル",
+      "excerpt": "メーカーと顧客が“体験”を軸に接続。月額出品と行動データ収集を組み合わせた、体験に根ざした店舗モデル。",
+      "source": "経済産業省 調査報告書",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・体験型店舗",
+      "mechanismTags": [
+        "体験型店舗",
+        "行動データ連携"
+      ],
+      "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000099.pdf"
+    },
+    {
+      "id": "592b6774146720f1",
+      "category": "ekkyou",
+      "title": "三菱UFJ信託「つかえて安心」：認知症時でも使える信託アプリUX",
+      "excerpt": "アプリ上で「閲覧者」設定や払出請求機能を用意し、認知症を見据えた安心できる金融UXを実現。",
+      "source": "LINK Blog（マネーツリー）",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "金融",
+      "mechanismTags": [
+        "代理閲覧機能",
+        "安心設計"
+      ],
+      "url": "https://moneytreejp-testing.webflow.io/link-blog-article-jp/key-to-customer-first-dx-strategy-is-ui-ux"
     }
   ]
 }

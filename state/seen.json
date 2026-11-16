@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://cxdive.com/2025/award/",
-    "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article/",
-    "https://note.com/clinic_ten/n/ne4fe59576a5d",
-    "https://www.sciencedirect.com/science/article/pii/S0024630111000501",
-    "https://onlinelibrary.wiley.com/doi/full/10.1111/dmj.12037",
     "https://www.trans-plus.jp/blog/customercase/202509_case44",
     "https://www.members.co.jp/results/case74",
     "https://www.withdesk.com/cases",
@@ -299,14 +294,14 @@
     "https://www.nttcoms.com/service/web/case/usecase001/",
     "https://arxiv.org/abs/2610.27170",
     "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-a61e1726-c5cd-432f-8a39-cdd97e2d8578/77e0a5cb-c3fc-4403-b472-ea5e8d3ba8fb.pdf",
-    "https://www.cas.go.jp/jp/seisaku/digitaldenen/menubook/0016.html"
+    "https://www.cas.go.jp/jp/seisaku/digitaldenen/menubook/0016.html",
+    "https://rakuten.today/tech-innovation-ja/rakuten-bizreach-uxrun-event-report-j.html?lang=ja",
+    "https://giginc.co.jp/blog/giglab/ux-casestudy",
+    "https://www.gov-toolbox.jp/caseitems/tokyo2026",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000099.pdf",
+    "https://moneytreejp-testing.webflow.io/link-blog-article-jp/key-to-customer-first-dx-strategy-is-ui-ux"
   ],
   "titles": [
-    "POGSによる携帯端末外来案内で待ち時間ストレス90％軽減",
-    "クリニックTEN：予約・問診・決済を一気通貫化し“待ち時間ゼロ”を実現",
-    "LEGOなどに学ぶユーザー参加型ビジネスモデルの導入プロセス",
-    "デザイン思考による航空会社内でのCX戦略の実践技法",
-    "クラブツーリズム：KARTE活用によるUXと顧客エンゲージメント強化",
     "KDDIオンラインチャネルUXデザイン伴走による契約率向上",
     "イオンリテール：デジタルでも店舗の安心感を届けるUX設計",
     "再春館製薬所：「AI肌診断」で“ご自身の肌と向き合うきっかけ”を創出し、初回購入率2倍・利用者数3倍へ",
@@ -601,6 +596,11 @@
     "NTTドコモ：BtoBサイト立ち上げによる導線最適化と販促コラム活用",
     "Too Long to Watch, Too Short to Leave：Agentマイクロ待ち時間におけるSidecar設計",
     "KDDIのチャネル横断UX改善支援事例",
-    "ヘルスケアMaaS：医療待ち時間と移動負担をAIデマンドバスで軽減"
+    "ヘルスケアMaaS：医療待ち時間と移動負担をAIデマンドバスで軽減",
+    "楽天「UXリサーチルーム」：リアルタイムでの顧客理解と改善を仕組み化",
+    "メルカリのAI出品サポートによるUX改善事例",
+    "自治体定期券Web予約：β版での文脈理解と窓口視点によるUX検証",
+    "消費体験店舗「b8ta」での体験設計と販売マッチングモデル",
+    "三菱UFJ信託「つかえて安心」：認知症時でも使える信託アプリUX"
   ]
 }
