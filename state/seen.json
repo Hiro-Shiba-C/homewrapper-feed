@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.trans-plus.jp/blog/customercase/202509_case44",
-    "https://www.members.co.jp/results/case74",
-    "https://www.withdesk.com/cases",
     "https://www.perfectcorp.com/ja/business/successstory/saishunkan-jp",
     "https://www.incudata.co.jp/casestudy/HHHD.html",
     "https://appmarketinglabo.net/bloomee-marketing/",
@@ -299,12 +296,12 @@
     "https://giginc.co.jp/blog/giglab/ux-casestudy",
     "https://www.gov-toolbox.jp/caseitems/tokyo2026",
     "https://www.meti.go.jp/meti_lib/report/2022FY/000099.pdf",
-    "https://moneytreejp-testing.webflow.io/link-blog-article-jp/key-to-customer-first-dx-strategy-is-ui-ux"
+    "https://moneytreejp-testing.webflow.io/link-blog-article-jp/key-to-customer-first-dx-strategy-is-ui-ux",
+    "https://smg.com/wp-content/uploads/2021/08/krispy-kreme-japan-sweetens-the-customer-experience-improves-business-outcomes.pdf",
+    "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems?lang=ja_JP",
+    "https://www.itpro.com/business/digital-transformation/we-have-an-ambition-to-be-the-worlds-most-desired-premium-footwear-brand-how-dr-martens-is-working-with-salesforce-to-create-agentic-experiences-for-customers"
   ],
   "titles": [
-    "KDDIオンラインチャネルUXデザイン伴走による契約率向上",
-    "イオンリテール：デジタルでも店舗の安心感を届けるUX設計",
-    "再春館製薬所：「AI肌診断」で“ご自身の肌と向き合うきっかけ”を創出し、初回購入率2倍・利用者数3倍へ",
     "阪急阪神ホールディングス：データ統合によるOne to One顧客体験の事業横断提供",
     "ブルーミー（花のサブスク）：体験に意味づけを重ねた継続設計",
     "カウシェ：非目的買い＋ゲーム性を融合させたEC体験",
@@ -601,6 +598,9 @@
     "メルカリのAI出品サポートによるUX改善事例",
     "自治体定期券Web予約：β版での文脈理解と窓口視点によるUX検証",
     "消費体験店舗「b8ta」での体験設計と販売マッチングモデル",
-    "三菱UFJ信託「つかえて安心」：認知症時でも使える信託アプリUX"
+    "三菱UFJ信託「つかえて安心」：認知症時でも使える信託アプリUX",
+    "Krispy Kreme JapanのCX改善とロイヤルティ戦略",
+    "明治安田生命：デザインシステムで全社UXUI改革",
+    "Dr MartensがSalesforce×Amazon Connectで“エージェンティック体験”を実現"
   ]
 }
