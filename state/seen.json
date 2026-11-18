@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.perfectcorp.com/ja/business/successstory/saishunkan-jp",
-    "https://www.incudata.co.jp/casestudy/HHHD.html",
-    "https://appmarketinglabo.net/bloomee-marketing/",
     "https://appmarketinglabo.net/kauche-appgrowth/",
     "https://appmarketinglabo.net/hokuohkurashi-appgrowth/",
     "https://heyhihello.com/work/ueshima",
@@ -299,12 +296,12 @@
     "https://moneytreejp-testing.webflow.io/link-blog-article-jp/key-to-customer-first-dx-strategy-is-ui-ux",
     "https://smg.com/wp-content/uploads/2021/08/krispy-kreme-japan-sweetens-the-customer-experience-improves-business-outcomes.pdf",
     "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems?lang=ja_JP",
-    "https://www.itpro.com/business/digital-transformation/we-have-an-ambition-to-be-the-worlds-most-desired-premium-footwear-brand-how-dr-martens-is-working-with-salesforce-to-create-agentic-experiences-for-customers"
+    "https://www.itpro.com/business/digital-transformation/we-have-an-ambition-to-be-the-worlds-most-desired-premium-footwear-brand-how-dr-martens-is-working-with-salesforce-to-create-agentic-experiences-for-customers",
+    "https://www.netpromotersystem.com/podcast",
+    "https://experience.neuromagic.com/en/posts/sony-bank-case",
+    "https://www.wauxdesign.com/immersive-customer-experience/-futuristic-phone-booth"
   ],
   "titles": [
-    "阪急阪神ホールディングス：データ統合によるOne to One顧客体験の事業横断提供",
-    "ブルーミー（花のサブスク）：体験に意味づけを重ねた継続設計",
-    "カウシェ：非目的買い＋ゲーム性を融合させたEC体験",
     "北欧、暮らしの道具店：UXリサーチ×ABテストによるアプリ成長施策",
     "上島珈琲：サブスクリプションモデル×体験設計で注文6倍、定期利用73％増",
     "三井住友カード：Webと電話のチャネル統合で自己解決促進、NPS向上・問合せ減少",
@@ -601,6 +598,9 @@
     "三菱UFJ信託「つかえて安心」：認知症時でも使える信託アプリUX",
     "Krispy Kreme JapanのCX改善とロイヤルティ戦略",
     "明治安田生命：デザインシステムで全社UXUI改革",
-    "Dr MartensがSalesforce×Amazon Connectで“エージェンティック体験”を実現"
+    "Dr MartensがSalesforce×Amazon Connectで“エージェンティック体験”を実現",
+    "Frontier Communications：苦情を“顧客を得る約束”に変えた接客オペレーションの仕組み",
+    "ソニー銀行：オンライン専業ならではのUX改善とサービスデリバリーの再設計",
+    "Immersive Customer Experience／未来型電話ブースを使った化粧品店での顧客接点設計"
   ]
 }

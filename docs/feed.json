@@ -1,50 +1,50 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
-      "id": "be029e7f1b94b58a",
+      "id": "ce4f12f599a0e6a8",
       "category": "honmei",
-      "title": "Krispy Kreme JapanのCX改善とロイヤルティ戦略",
-      "excerpt": "スタッフが“ロイヤルティ会員か尋ねる”標準接客を導入し、CEMに基づくリアルタイム対応でCXと売上を改善",
-      "source": "Service Management Groupケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・飲食",
+      "title": "Frontier Communications：苦情を“顧客を得る約束”に変えた接客オペレーションの仕組み",
+      "excerpt": "顧客苦情を週次“顧客ロイヤルティ獲得”会議で横断的に即対応する仕組みにより、オペレーションとCXを現場に落とし込む実例。",
+      "source": "The Customer Confidential Podcast (Bain & Company)",
+      "format": "podcast",
+      "estimatedMinutes": 50,
+      "industryTag": "通信",
       "mechanismTags": [
-        "CEM導入",
-        "スタッフ行動変化"
+        "横断会議運用",
+        "顧客苦情の即コミット"
       ],
-      "url": "https://smg.com/wp-content/uploads/2021/08/krispy-kreme-japan-sweetens-the-customer-experience-improves-business-outcomes.pdf"
+      "url": "https://www.netpromotersystem.com/podcast"
     },
     {
-      "id": "6e2053bd238f5e03",
+      "id": "46db928e030353e2",
       "category": "honmei",
-      "title": "明治安田生命：デザインシステムで全社UXUI改革",
-      "excerpt": "UXコンセプトを定め、横断スクラムチームで“MYほけんページ”を刷新し、顧客と営業の体験を構造的に改善",
-      "source": "Accenture Financial Services Blog",
+      "title": "ソニー銀行：オンライン専業ならではのUX改善とサービスデリバリーの再設計",
+      "excerpt": "支店やATMを持たない強みを活かし、ユーザビリティ調査・デザインスプリント・プロトタイピングで金融利用体験を最適化。",
+      "source": "Neuromagic／Case Study",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "金融",
+      "industryTag": "金融・フィンテック",
       "mechanismTags": [
-        "デザインシステム",
-        "全社横断プロジェクト"
+        "非接触UX設計",
+        "高速プロトタイピング"
       ],
-      "url": "https://financialservicesblog.accenture.com/transformation-of-customer-touch-points-across-the-entire-company-achievement-of-both-experience-improvement-and-cost-reduction-through-design-systems?lang=ja_JP"
+      "url": "https://experience.neuromagic.com/en/posts/sony-bank-case"
     },
     {
-      "id": "c9a9ecc7d7ae0c39",
-      "category": "honmei",
-      "title": "Dr MartensがSalesforce×Amazon Connectで“エージェンティック体験”を実現",
-      "excerpt": "Salesforceで顧客データ統合、Amazon Connectで支援しCSAT回復とTrustpilot評価向上を実現したCX再構築",
-      "source": "ITPro",
+      "id": "d6836a1709d03dd5",
+      "category": "ekkyou",
+      "title": "Immersive Customer Experience／未来型電話ブースを使った化粧品店での顧客接点設計",
+      "excerpt": "SOHO店舗に未来的なタッチパネル式電話ブースを設置し、ゲーミフィケーションで顧客情報取得を自然に促す体験設計。",
+      "source": "WAUX Design／Case Study",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "小売（靴）",
+      "estimatedMinutes": 6,
+      "industryTag": "小売・美容",
       "mechanismTags": [
-        "データ統合",
-        "AI／自動化チャネル"
+        "没入型UI",
+        "ゲーミフィケーション"
       ],
-      "url": "https://www.itpro.com/business/digital-transformation/we-have-an-ambition-to-be-the-worlds-most-desired-premium-footwear-brand-how-dr-martens-is-working-with-salesforce-to-create-agentic-experiences-for-customers"
+      "url": "https://www.wauxdesign.com/immersive-customer-experience/-futuristic-phone-booth"
     }
   ]
 }
