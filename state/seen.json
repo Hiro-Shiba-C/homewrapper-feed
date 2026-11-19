@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://appmarketinglabo.net/kauche-appgrowth/",
-    "https://appmarketinglabo.net/hokuohkurashi-appgrowth/",
-    "https://heyhihello.com/work/ueshima",
     "https://tmj-bpo.com/insights/case-studies/financial-services/transforming-cx-through-integration/",
     "https://www.accenture.com/gb-en/case-studies/consumer-goods-services/accelerate-personal-beauty-experiences",
     "https://www.mext.go.jp/prev_sports/comp/b_menu/shingi/toushin/__icsFiles/afieldfile/2017/09/11/1386876_7.pdf",
@@ -299,12 +296,12 @@
     "https://www.itpro.com/business/digital-transformation/we-have-an-ambition-to-be-the-worlds-most-desired-premium-footwear-brand-how-dr-martens-is-working-with-salesforce-to-create-agentic-experiences-for-customers",
     "https://www.netpromotersystem.com/podcast",
     "https://experience.neuromagic.com/en/posts/sony-bank-case",
-    "https://www.wauxdesign.com/immersive-customer-experience/-futuristic-phone-booth"
+    "https://www.wauxdesign.com/immersive-customer-experience/-futuristic-phone-booth",
+    "https://www.members.co.jp/column/20260427-cx-casestudy",
+    "https://www.ctc-g.co.jp/report/case-study/chugai-pharm/",
+    "https://www.ergonomics.jp/official/page-docs/lecture-report/kansai/2024_kansai.pdf"
   ],
   "titles": [
-    "北欧、暮らしの道具店：UXリサーチ×ABテストによるアプリ成長施策",
-    "上島珈琲：サブスクリプションモデル×体験設計で注文6倍、定期利用73％増",
-    "三井住友カード：Webと電話のチャネル統合で自己解決促進、NPS向上・問合せ減少",
     "資生堂：PBPs人材とデジタル接点融合によるパーソナライズ体験",
     "哈市スタジアム（アトランタ）：モバイルアプリ＋サイネージで試合中情報提供・注文支援",
     "Shake Shack：ホスピタリティを守りつつキオスク・モバイル自動化を両立する試み",
@@ -601,6 +598,9 @@
     "Dr MartensがSalesforce×Amazon Connectで“エージェンティック体験”を実現",
     "Frontier Communications：苦情を“顧客を得る約束”に変えた接客オペレーションの仕組み",
     "ソニー銀行：オンライン専業ならではのUX改善とサービスデリバリーの再設計",
-    "Immersive Customer Experience／未来型電話ブースを使った化粧品店での顧客接点設計"
+    "Immersive Customer Experience／未来型電話ブースを使った化粧品店での顧客接点設計",
+    "ゆっくり配送：顧客が配送スピードを選べる仕組みで利便性とサステナビリティ両立",
+    "医療関係者の副作用DBツールをゼロベースUX設計–ユーザーテスト等で使いやすさ重視",
+    "血管撮影システムの人間中心設計で操作ストレス軽減、身体負荷も定量評価"
   ]
 }
