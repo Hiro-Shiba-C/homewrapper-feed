@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://tmj-bpo.com/insights/case-studies/financial-services/transforming-cx-through-integration/",
-    "https://www.accenture.com/gb-en/case-studies/consumer-goods-services/accelerate-personal-beauty-experiences",
-    "https://www.mext.go.jp/prev_sports/comp/b_menu/shingi/toushin/__icsFiles/afieldfile/2017/09/11/1386876_7.pdf",
-    "https://hbr.org/podcast/2025/07/shake-shacks-digital-playbook-more-tech-same-hospitality",
     "https://appmarketinglabo.net/list/",
     "https://ssw.web.docomo.ne.jp/marketing/article/20260330/",
     "https://www.nttdata-bizsys.co.jp/solution-service/business-suite/omnichannel/",
@@ -299,13 +295,13 @@
     "https://www.wauxdesign.com/immersive-customer-experience/-futuristic-phone-booth",
     "https://www.members.co.jp/column/20260427-cx-casestudy",
     "https://www.ctc-g.co.jp/report/case-study/chugai-pharm/",
-    "https://www.ergonomics.jp/official/page-docs/lecture-report/kansai/2024_kansai.pdf"
+    "https://www.ergonomics.jp/official/page-docs/lecture-report/kansai/2024_kansai.pdf",
+    "https://heyhihello.com/work/ueshima",
+    "https://idspiration.com/studio/work/japan-line/",
+    "https://www.samkness.co.uk/works/hutrewards",
+    "https://appmarketinglabo.net/hokuohkurashi-appgrowth/"
   ],
   "titles": [
-    "資生堂：PBPs人材とデジタル接点融合によるパーソナライズ体験",
-    "哈市スタジアム（アトランタ）：モバイルアプリ＋サイネージで試合中情報提供・注文支援",
-    "Shake Shack：ホスピタリティを守りつつキオスク・モバイル自動化を両立する試み",
-    "Glasp：800回のオンボーディング改善で持続的にグロースした事例",
     "経営判断を加速する。データの掛け合わせでF2転換を実現する顧客第一戦略（エディオン」",
     "ショッピングセンターでのアプリ予約とレジレス決済による混雑回避体験",
     "LIPSが語る検索流入50倍・MAU1,000万人成長のUI最適化とオンボーディング設計",
@@ -601,6 +597,10 @@
     "Immersive Customer Experience／未来型電話ブースを使った化粧品店での顧客接点設計",
     "ゆっくり配送：顧客が配送スピードを選べる仕組みで利便性とサステナビリティ両立",
     "医療関係者の副作用DBツールをゼロベースUX設計–ユーザーテスト等で使いやすさ重視",
-    "血管撮影システムの人間中心設計で操作ストレス軽減、身体負荷も定量評価"
+    "血管撮影システムの人間中心設計で操作ストレス軽減、身体負荷も定量評価",
+    "上島珈琲：柔軟なサブスクリプションと体験設計による注文リピート顧客の増加",
+    "LINE連携で“会話”しながら購買導線：購入・サポートを一貫設計した全プロセス体験",
+    "Pizza Hut UK：ロイヤリティ再設計による定着性強化",
+    "北欧、暮らしの道具店のアプリ：UXリサーチ＋ABテストによる顧客理解深化と指標改善"
   ]
 }

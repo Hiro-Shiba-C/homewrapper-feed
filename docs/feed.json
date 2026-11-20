@@ -1,47 +1,65 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
-      "id": "1cd564770b996cca",
+      "id": "0a8db24bcda1735f",
       "category": "honmei",
-      "title": "ゆっくり配送：顧客が配送スピードを選べる仕組みで利便性とサステナビリティ両立",
-      "excerpt": "顧客が「ゆっくり配送」など余裕ある発送を自ら選び、生活リズムに応じた体験を可能にする配送設計。",
-      "source": "メンバーズ（Members）コラム",
+      "title": "上島珈琲：柔軟なサブスクリプションと体験設計による注文リピート顧客の増加",
+      "excerpt": "柔軟な定期購買のサブスクリプションと自動化されたコミュニケーション／開封体験が6倍注文、73%定期率増加を実現。",
+      "source": "HeyHiHello (Case Study)",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・物流",
+      "estimatedMinutes": 6,
+      "industryTag": "飲食",
       "mechanismTags": [
-        "選択可能な配送タイミング"
+        "サブスクリプションモデル",
+        "オンボーディング体験"
       ],
-      "url": "https://www.members.co.jp/column/20260427-cx-casestudy"
+      "url": "https://heyhihello.com/work/ueshima"
     },
     {
-      "id": "658d201ceac977f9",
-      "category": "honmei",
-      "title": "医療関係者の副作用DBツールをゼロベースUX設計–ユーザーテスト等で使いやすさ重視",
-      "excerpt": "MRや医療関係者へのヒアリング・ワークショップ・ユーザーテストを重ね、UI/UXをゼロベースで再設計した副作用DBツール。",
-      "source": "伊藤忠テクノソリューションズ（CTC）事例",
+      "id": "e8d4f03baa02c219",
+      "category": "ekkyou",
+      "title": "LINE連携で“会話”しながら購買導線：購入・サポートを一貫設計した全プロセス体験",
+      "excerpt": "LINEとECのカート・プロフィール連携で会話型購買体験を実現し、CX向上と管理コスト低減を両立。",
+      "source": "IDspiration Blog",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "小売／コミュニケーション",
+      "mechanismTags": [
+        "チャネル融合",
+        "会話型導線"
+      ],
+      "url": "https://idspiration.com/studio/work/japan-line/"
+    },
+    {
+      "id": "27798a6158e8a71a",
+      "category": "ekkyou",
+      "title": "Pizza Hut UK：ロイヤリティ再設計による定着性強化",
+      "excerpt": "ロイヤリティプログラムをパーソナル化し、ジャーニーマップ再設計で定着率＋保持・購買額が向上。",
+      "source": "Sam Kness Portfolio",
+      "format": "article",
+      "estimatedMinutes": 6,
+      "industryTag": "飲食／グローバル",
+      "mechanismTags": [
+        "ロイヤリティ強化",
+        "オムニチャネル体験"
+      ],
+      "url": "https://www.samkness.co.uk/works/hutrewards"
+    },
+    {
+      "id": "db0e0430f1212a48",
+      "category": "teiten",
+      "title": "北欧、暮らしの道具店のアプリ：UXリサーチ＋ABテストによる顧客理解深化と指標改善",
+      "excerpt": "ジャーニーマップ型のインタビューとABテストにより、CVRや到達率が向上しデータドリブンでUXを進化させた事例。",
+      "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "医療・ヘルスケア",
+      "industryTag": "アプリ／小売",
       "mechanismTags": [
-        "ユーザーテスト重視設計"
+        "UXリサーチ",
+        "ABテスト"
       ],
-      "url": "https://www.ctc-g.co.jp/report/case-study/chugai-pharm/"
-    },
-    {
-      "id": "c85273bdd3906ae2",
-      "category": "ekkyou",
-      "title": "血管撮影システムの人間中心設計で操作ストレス軽減、身体負荷も定量評価",
-      "excerpt": "人間中心設計プロセスで血管撮影システムの操作負荷を低減し、身体的負荷を定量的に評価したUX改善。",
-      "source": "日本人間工学会関西支部大会報告",
-      "format": "article",
-      "estimatedMinutes": 8,
-      "industryTag": "医療機器",
-      "mechanismTags": [
-        "人間中心設計"
-      ],
-      "url": "https://www.ergonomics.jp/official/page-docs/lecture-report/kansai/2024_kansai.pdf"
+      "url": "https://appmarketinglabo.net/hokuohkurashi-appgrowth/"
     }
   ]
 }
