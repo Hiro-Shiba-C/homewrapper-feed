@@ -1,65 +1,65 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
-      "id": "0a8db24bcda1735f",
+      "id": "f5314c6efff2fff2",
       "category": "honmei",
-      "title": "上島珈琲：柔軟なサブスクリプションと体験設計による注文リピート顧客の増加",
-      "excerpt": "柔軟な定期購買のサブスクリプションと自動化されたコミュニケーション／開封体験が6倍注文、73%定期率増加を実現。",
-      "source": "HeyHiHello (Case Study)",
+      "title": "ホテルB4T：非対面接客で問い合わせ削減を叶えた仕組み",
+      "excerpt": "フロント非対面化・Web案内強化・オンラインチャットで満足維持しつつ問い合わせ大幅減、無駄時間を削られた仕組み構築。",
+      "source": "日本ホテル株式会社 事例紹介",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "飲食",
+      "estimatedMinutes": 5,
+      "industryTag": "ホテル",
       "mechanismTags": [
-        "サブスクリプションモデル",
-        "オンボーディング体験"
+        "非対面接客",
+        "情報伝達設計"
       ],
-      "url": "https://heyhihello.com/work/ueshima"
+      "url": "https://www.nihonhotel.com/recruit/career/job/project/bt4.html"
     },
     {
-      "id": "e8d4f03baa02c219",
+      "id": "60044763bbb1f9fd",
       "category": "ekkyou",
-      "title": "LINE連携で“会話”しながら購買導線：購入・サポートを一貫設計した全プロセス体験",
-      "excerpt": "LINEとECのカート・プロフィール連携で会話型購買体験を実現し、CX向上と管理コスト低減を両立。",
-      "source": "IDspiration Blog",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "小売／コミュニケーション",
+      "title": "患者体験のデザイン：入院ジャーニー設計（Goodpatch）",
+      "excerpt": "入院体験をジャーニーで書き起こし、患者の文脈に根ざした体験設計のポイントを医療業界向けに解説。示唆豊富な設計プロセス。",
+      "source": "GoodpatchAnywhere YouTube",
+      "format": "video",
+      "estimatedMinutes": 12,
+      "industryTag": "医療",
       "mechanismTags": [
-        "チャネル融合",
-        "会話型導線"
+        "ジャーニーマップ",
+        "体験文脈設計"
       ],
-      "url": "https://idspiration.com/studio/work/japan-line/"
+      "url": "https://www.youtube.com/watch?v=_u5X--ylobg"
     },
     {
-      "id": "27798a6158e8a71a",
+      "id": "3481d9493d64f97b",
       "category": "ekkyou",
-      "title": "Pizza Hut UK：ロイヤリティ再設計による定着性強化",
-      "excerpt": "ロイヤリティプログラムをパーソナル化し、ジャーニーマップ再設計で定着率＋保持・購買額が向上。",
-      "source": "Sam Kness Portfolio",
+      "title": "Linc’well：1画面1タスク設計で医療登録率改善",
+      "excerpt": "医療手続きアプリで一画面一タスク設計に改変。患者の迷いを減らし登録率が大きく改善された実践設計。",
+      "source": "FastGrow",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "飲食／グローバル",
+      "industryTag": "医療",
       "mechanismTags": [
-        "ロイヤリティ強化",
-        "オムニチャネル体験"
+        "一画面一タスク",
+        "仮説検証ループ"
       ],
-      "url": "https://www.samkness.co.uk/works/hutrewards"
+      "url": "https://www.fastgrow.jp/articles/lincwell-yokoyama-kurosawa-tochiori"
     },
     {
-      "id": "db0e0430f1212a48",
+      "id": "4d2ceed7d3c4539c",
       "category": "teiten",
-      "title": "北欧、暮らしの道具店のアプリ：UXリサーチ＋ABテストによる顧客理解深化と指標改善",
-      "excerpt": "ジャーニーマップ型のインタビューとABテストにより、CVRや到達率が向上しデータドリブンでUXを進化させた事例。",
+      "title": "UXリサーチ起点で賃貸分割払いサービス「スムーズ」成長の裏側",
+      "excerpt": "UXリサーチから小規模ポップ検証→全国展開で利用増。試作品や仮説中心のリサーチで店舗利用を1.2倍にした仕組みが明示。",
       "source": "アプリマーケティング研究所",
       "format": "article",
       "estimatedMinutes": 7,
-      "industryTag": "アプリ／小売",
+      "industryTag": "プラットフォーム",
       "mechanismTags": [
         "UXリサーチ",
-        "ABテスト"
+        "実験検証"
       ],
-      "url": "https://appmarketinglabo.net/hokuohkurashi-appgrowth/"
+      "url": "https://markelabo.com/n/nac24058d661…"
     }
   ]
 }
