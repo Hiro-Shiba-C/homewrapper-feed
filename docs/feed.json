@@ -1,65 +1,64 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "id": "f5314c6efff2fff2",
-      "category": "honmei",
-      "title": "ホテルB4T：非対面接客で問い合わせ削減を叶えた仕組み",
-      "excerpt": "フロント非対面化・Web案内強化・オンラインチャットで満足維持しつつ問い合わせ大幅減、無駄時間を削られた仕組み構築。",
-      "source": "日本ホテル株式会社 事例紹介",
+      "id": "c04e99c4f1005789",
+      "category": "ekkyou",
+      "title": "スターバックス：モバイルで「スタンプ／パスポート」による特別体験提供",
+      "excerpt": "スタンプやパスポート機能で来店記録や感想を書ける仕組みを導入し、特別感と日常への組み込みを両立。",
+      "source": "CXMとは？ 優れた顧客体験事例",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "ホテル",
+      "industryTag": "小売・カフェ",
       "mechanismTags": [
-        "非対面接客",
-        "情報伝達設計"
+        "スタンプ体験",
+        "パスポート仕組み"
       ],
-      "url": "https://www.nihonhotel.com/recruit/career/job/project/bt4.html"
+      "url": "https://cxvaluelab.com/post_column/3252"
     },
     {
-      "id": "60044763bbb1f9fd",
+      "id": "ded7c7d70eb2d0cd",
       "category": "ekkyou",
-      "title": "患者体験のデザイン：入院ジャーニー設計（Goodpatch）",
-      "excerpt": "入院体験をジャーニーで書き起こし、患者の文脈に根ざした体験設計のポイントを医療業界向けに解説。示唆豊富な設計プロセス。",
-      "source": "GoodpatchAnywhere YouTube",
-      "format": "video",
-      "estimatedMinutes": 12,
-      "industryTag": "医療",
+      "title": "xR Cast HoloPhone：アバター遠隔接客による店舗案内革新",
+      "excerpt": "店舗でオリジナルアバターを用いた遠隔接客により、スタッフ削減・高満足サポート・運用効率化を実現。",
+      "source": "XR Cast HoloPhone 活用事例",
+      "format": "article",
+      "estimatedMinutes": 5,
+      "industryTag": "小売・交通案内",
       "mechanismTags": [
-        "ジャーニーマップ",
-        "体験文脈設計"
+        "アバター接客",
+        "遠隔支援"
       ],
-      "url": "https://www.youtube.com/watch?v=_u5X--ylobg"
+      "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000225.pdf"
     },
     {
-      "id": "3481d9493d64f97b",
+      "id": "cef91128f9faf997",
       "category": "ekkyou",
-      "title": "Linc’well：1画面1タスク設計で医療登録率改善",
-      "excerpt": "医療手続きアプリで一画面一タスク設計に改変。患者の迷いを減らし登録率が大きく改善された実践設計。",
-      "source": "FastGrow",
+      "title": "Gakken「イエベン」EC導線最適化による購買体験再設計",
+      "excerpt": "流入分析とペルソナ／ジャーニー設計により情報整理された導線を再設計し、コンバージョン送客率を大幅改善。",
+      "source": "セブンデックス UX成功事例",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "医療",
+      "industryTag": "教育・EC",
       "mechanismTags": [
-        "一画面一タスク",
-        "仮説検証ループ"
+        "カスタマージャーニー設計",
+        "定量＋定性分析"
       ],
-      "url": "https://www.fastgrow.jp/articles/lincwell-yokoyama-kurosawa-tochiori"
+      "url": "https://sevendex.com/post/2885"
     },
     {
-      "id": "4d2ceed7d3c4539c",
+      "id": "fb93f77f4314d659",
       "category": "teiten",
-      "title": "UXリサーチ起点で賃貸分割払いサービス「スムーズ」成長の裏側",
-      "excerpt": "UXリサーチから小規模ポップ検証→全国展開で利用増。試作品や仮説中心のリサーチで店舗利用を1.2倍にした仕組みが明示。",
+      "title": "TVer：オンボーディング簡素化による離脱削減施策",
+      "excerpt": "月間4,100万ユーザーが使うTVerアプリで、オンボーディングを簡素化した結果、離脱を1/3に減らした設計施策。",
       "source": "アプリマーケティング研究所",
       "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "プラットフォーム",
+      "estimatedMinutes": 5,
+      "industryTag": "エンタメ・動画配信",
       "mechanismTags": [
-        "UXリサーチ",
-        "実験検証"
+        "オンボーディング簡素化"
       ],
-      "url": "https://markelabo.com/n/nac24058d661…"
+      "url": "https://appmarketinglabo.net/list/"
     }
   ]
 }

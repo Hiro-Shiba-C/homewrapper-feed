@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.3bees.com/customers/voice03.html",
-    "https://www.jstage.jst.go.jp/article/jhm2000/4/4/4_4_497/_article/-char/ja",
-    "https://neural-opt.com/ai-serving-cases/",
-    "https://markelabo.com/n/n46a0ce714a8a?gs=7c105ecd9662c",
     "https://markelabo.com/n/n89fbb08dfe1b",
     "https://www.incudata.co.jp/casestudy/（日産自動車事例）",
     "https://www.incudata.co.jp/casestudy/（TOAI事例）",
@@ -299,13 +295,13 @@
     "https://www.nihonhotel.com/recruit/career/job/project/bt4.html",
     "https://www.youtube.com/watch?v=_u5X--ylobg",
     "https://www.fastgrow.jp/articles/lincwell-yokoyama-kurosawa-tochiori",
-    "https://markelabo.com/n/nac24058d661…"
+    "https://markelabo.com/n/nac24058d661…",
+    "https://cxvaluelab.com/post_column/3252",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000225.pdf",
+    "https://sevendex.com/post/2885",
+    "https://appmarketinglabo.net/list/"
   ],
   "titles": [
-    "国立病院長崎医療センターのオーダーエントリーシステムで待ち時間短縮",
-    "UNIQLOの会話型AI接客「UNIQLO IQ」でショッピング体験を再設計",
-    "サブスク継続率改善施策まとめ（解約祝福・通知改善・決済成功率向上）",
-    "Cursor社内バイラル施策で企業利用拡大（ARR40億ドル）",
     "CDPによるオンラインとリアル双方を繋ぐ日産の顧客体験向上",
     "ジャンカラ／UTAOがデータで“カラオケ体験価値10倍”実現",
     "湯快リゾートが3か月でデータ基盤構築、体験改善",
@@ -601,6 +597,10 @@
     "ホテルB4T：非対面接客で問い合わせ削減を叶えた仕組み",
     "患者体験のデザイン：入院ジャーニー設計（Goodpatch）",
     "Linc’well：1画面1タスク設計で医療登録率改善",
-    "UXリサーチ起点で賃貸分割払いサービス「スムーズ」成長の裏側"
+    "UXリサーチ起点で賃貸分割払いサービス「スムーズ」成長の裏側",
+    "スターバックス：モバイルで「スタンプ／パスポート」による特別体験提供",
+    "xR Cast HoloPhone：アバター遠隔接客による店舗案内革新",
+    "Gakken「イエベン」EC導線最適化による購買体験再設計",
+    "TVer：オンボーディング簡素化による離脱削減施策"
   ]
 }
