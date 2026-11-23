@@ -1,64 +1,49 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
-      "id": "c04e99c4f1005789",
-      "category": "ekkyou",
-      "title": "スターバックス：モバイルで「スタンプ／パスポート」による特別体験提供",
-      "excerpt": "スタンプやパスポート機能で来店記録や感想を書ける仕組みを導入し、特別感と日常への組み込みを両立。",
-      "source": "CXMとは？ 優れた顧客体験事例",
+      "id": "dba067540013a16e",
+      "category": "honmei",
+      "title": "Members：UXリサーチと広告配信を組み合わせアジャイル仮説検証で新ターゲット発見",
+      "excerpt": "UXリサーチ＋広告配信によるアジャイル検証で、想定外のターゲットとバリュープロポジションを発見",
+      "source": "Members支援事例",
       "format": "article",
       "estimatedMinutes": 5,
-      "industryTag": "小売・カフェ",
+      "industryTag": "製造（素材加工品）",
       "mechanismTags": [
-        "スタンプ体験",
-        "パスポート仕組み"
+        "アジャイル検証",
+        "リサーチ×広告"
       ],
-      "url": "https://cxvaluelab.com/post_column/3252"
+      "url": "https://www.members.co.jp/results/case38"
     },
     {
-      "id": "ded7c7d70eb2d0cd",
+      "id": "4fa454e010b9ea5c",
       "category": "ekkyou",
-      "title": "xR Cast HoloPhone：アバター遠隔接客による店舗案内革新",
-      "excerpt": "店舗でオリジナルアバターを用いた遠隔接客により、スタッフ削減・高満足サポート・運用効率化を実現。",
-      "source": "XR Cast HoloPhone 活用事例",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "小売・交通案内",
-      "mechanismTags": [
-        "アバター接客",
-        "遠隔支援"
-      ],
-      "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000225.pdf"
-    },
-    {
-      "id": "cef91128f9faf997",
-      "category": "ekkyou",
-      "title": "Gakken「イエベン」EC導線最適化による購買体験再設計",
-      "excerpt": "流入分析とペルソナ／ジャーニー設計により情報整理された導線を再設計し、コンバージョン送客率を大幅改善。",
-      "source": "セブンデックス UX成功事例",
+      "title": "東急ホテルズ：LINE等普段使いチャネルで予約前〜後まで多言語対応CX接点設計",
+      "excerpt": "LINEやWeChat等多様チャネルと多言語対応で、予約前〜滞在後を一貫接点でつなぐCX強化",
+      "source": "ホスピタリティテックEXPOブログ",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "教育・EC",
+      "industryTag": "宿泊・ホテル",
       "mechanismTags": [
-        "カスタマージャーニー設計",
-        "定量＋定性分析"
+        "チャネル統合」「多言語対応"
       ],
-      "url": "https://sevendex.com/post/2885"
+      "url": "https://www.hospitality-show.jp/tokyo/ja-jp/blog/43-cx-hotel.html"
     },
     {
-      "id": "fb93f77f4314d659",
-      "category": "teiten",
-      "title": "TVer：オンボーディング簡素化による離脱削減施策",
-      "excerpt": "月間4,100万ユーザーが使うTVerアプリで、オンボーディングを簡素化した結果、離脱を1/3に減らした設計施策。",
-      "source": "アプリマーケティング研究所",
+      "id": "8cf9ae5f77711301",
+      "category": "ekkyou",
+      "title": "スカンジナビア航空：カスタマージャーニー再設計で一気に黒字化したCX戦略",
+      "excerpt": "赤字から1年で黒字転換。旅を感動に高めるCX重視のカスタマージャーニー設計が転機に",
+      "source": "損保ジャパンRMレポート",
       "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "エンタメ・動画配信",
+      "estimatedMinutes": 6,
+      "industryTag": "航空・交通",
       "mechanismTags": [
-        "オンボーディング簡素化"
+        "ジャーニー再設計",
+        "CX戦略"
       ],
-      "url": "https://appmarketinglabo.net/list/"
+      "url": "https://image.sompo-rc.co.jp/reports/r238.pdf"
     }
   ]
 }

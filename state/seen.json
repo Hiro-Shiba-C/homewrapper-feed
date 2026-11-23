@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://markelabo.com/n/n89fbb08dfe1b",
-    "https://www.incudata.co.jp/casestudy/（日産自動車事例）",
-    "https://www.incudata.co.jp/casestudy/（TOAI事例）",
     "https://www.incudata.co.jp/casestudy/（湯快リゾート事例）",
     "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article",
     "https://xecin.jp/works/medical-a/",
@@ -299,12 +296,12 @@
     "https://cxvaluelab.com/post_column/3252",
     "https://www.meti.go.jp/meti_lib/report/2023FY/000225.pdf",
     "https://sevendex.com/post/2885",
-    "https://appmarketinglabo.net/list/"
+    "https://appmarketinglabo.net/list/",
+    "https://www.members.co.jp/results/case38",
+    "https://www.hospitality-show.jp/tokyo/ja-jp/blog/43-cx-hotel.html",
+    "https://image.sompo-rc.co.jp/reports/r238.pdf"
   ],
   "titles": [
-    "CDPによるオンラインとリアル双方を繋ぐ日産の顧客体験向上",
-    "ジャンカラ／UTAOがデータで“カラオケ体験価値10倍”実現",
-    "湯快リゾートが3か月でデータ基盤構築、体験改善",
     "携帯端末×プッシュ通知で待ち時間ストレス90％軽減",
     "クリニック連携基盤で予約・電子カルテ統合し待ち時間45%短縮",
     "院内導線×システム設計で“待ちゼロ”実現のクリニックTEN",
@@ -601,6 +598,9 @@
     "スターバックス：モバイルで「スタンプ／パスポート」による特別体験提供",
     "xR Cast HoloPhone：アバター遠隔接客による店舗案内革新",
     "Gakken「イエベン」EC導線最適化による購買体験再設計",
-    "TVer：オンボーディング簡素化による離脱削減施策"
+    "TVer：オンボーディング簡素化による離脱削減施策",
+    "Members：UXリサーチと広告配信を組み合わせアジャイル仮説検証で新ターゲット発見",
+    "東急ホテルズ：LINE等普段使いチャネルで予約前〜後まで多言語対応CX接点設計",
+    "スカンジナビア航空：カスタマージャーニー再設計で一気に黒字化したCX戦略"
   ]
 }
