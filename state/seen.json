@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.incudata.co.jp/casestudy/（湯快リゾート事例）",
-    "https://www.jstage.jst.go.jp/article/jami/34/2/34_55/_article",
-    "https://xecin.jp/works/medical-a/",
-    "https://note.com/sevenrich/n/n340e7dfe6005",
-    "https://appmarketinglabo.net/list/（TVer事例ページ）",
-    "https://www.lycbiz.com/jp/case-study/line-mini-app/house/",
     "https://www.grooove.co.jp/case_study_12/",
     "https://www.insead.edu/faculty-research/publications/case-studies/lemonade-delighting-insurance-customers-ai-and",
     "https://transcom.com/case-studies/retail-leader-awesome-CX",
@@ -299,15 +293,15 @@
     "https://appmarketinglabo.net/list/",
     "https://www.members.co.jp/results/case38",
     "https://www.hospitality-show.jp/tokyo/ja-jp/blog/43-cx-hotel.html",
-    "https://image.sompo-rc.co.jp/reports/r238.pdf"
+    "https://image.sompo-rc.co.jp/reports/r238.pdf",
+    "https://www.uxresearchblog.com/post/case-study-re-engineering-the-asurion-claims-experience",
+    "https://cxpaglobal.org/storage/app/media/Proven%20Business%20Impact%20Case%20Studies/Uberization___Customer_Doorstep_Service_Fulfillment_for_Dialog_Axiata_Customers.pdf",
+    "https://jacquelynchen.com/case-study/sante",
+    "https://alaguraj.in/casestudies/IPCMS-UX-Case-Study.html",
+    "https://designers.org/172519",
+    "https://appmarketinglabo.net/list/ (該当ページ)"
   ],
   "titles": [
-    "携帯端末×プッシュ通知で待ち時間ストレス90％軽減",
-    "クリニック連携基盤で予約・電子カルテ統合し待ち時間45%短縮",
-    "院内導線×システム設計で“待ちゼロ”実現のクリニックTEN",
-    "TVer アプリ：オンボーディング簡素化で離脱を1/3に",
-    "ハウス食品：LINEミニアプリで“棚前想起”をつくるゆるやかなCRM",
-    "adidas旗艦店：スポーツ体験とショッピング融合のリテールテイメント",
     "Lemonade：AIと行動経済学で保険体験を刷新したビジネスモデル",
     "小売大手がCXを16年間維持した高スケールな仕組み",
     "B2B SaaSでUX再設計により解約率38％削減した事例",
@@ -601,6 +595,12 @@
     "TVer：オンボーディング簡素化による離脱削減施策",
     "Members：UXリサーチと広告配信を組み合わせアジャイル仮説検証で新ターゲット発見",
     "東急ホテルズ：LINE等普段使いチャネルで予約前〜後まで多言語対応CX接点設計",
-    "スカンジナビア航空：カスタマージャーニー再設計で一気に黒字化したCX戦略"
+    "スカンジナビア航空：カスタマージャーニー再設計で一気に黒字化したCX戦略",
+    "Asurionの保険クレーム申請体験を再設計したケーススタディ",
+    "Dialog Axiata向け“Uber化”による現場サービス配達モデルの変革",
+    "フランスAssurance Maladie：「Service Trajet Santé」で医療旅行予約を簡潔化",
+    "アブダビ保健局の国際患者ケア管理システム再設計",
+    "Artemis Clinicsの医療ツーリズムアプリ（トルコ）",
+    "TVer：オンボーディング簡素化による離脱削減施策"
   ]
 }
