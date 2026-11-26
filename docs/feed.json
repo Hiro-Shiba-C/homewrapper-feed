@@ -1,94 +1,20 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-27",
   "items": [
     {
-      "id": "7398aee1d46d59da",
+      "id": "26adda4226db4900",
       "category": "honmei",
-      "title": "Asurionの保険クレーム申請体験を再設計したケーススタディ",
-      "excerpt": "オンラインクレームポータルとCSR用アプリを再設計し、完了率向上・処理時間短縮・数百万ドルのコスト削減を実現した事例",
-      "source": "UX Research Leader ブログ",
+      "title": "ダスキン：EC-CUBEカスタマイズで会員統合と顧客体験強化",
+      "excerpt": "レンタル業のリアル×デジタル融合を実現するEC構築で、会員200万人・CVR向上・統合カート設計により体験が向上した事例。",
+      "source": "株式会社エム・エー・ディー",
       "format": "article",
       "estimatedMinutes": 6,
-      "industryTag": "保険／テクノロジー保護サービス",
+      "industryTag": "物販／サービス",
       "mechanismTags": [
-        "UXリサーチによる再設計",
-        "営業・内部ツールの改善"
+        "会員統合",
+        "カート最適化"
       ],
-      "url": "https://www.uxresearchblog.com/post/case-study-re-engineering-the-asurion-claims-experience"
-    },
-    {
-      "id": "2de5bbe0c0dec977",
-      "category": "honmei",
-      "title": "Dialog Axiata向け“Uber化”による現場サービス配達モデルの変革",
-      "excerpt": "フリーランス担当者がモバイルでセルフ割当・リアルタイム支払いを可能にした“Uber化”で、フィールドサービスの効率化と顧客満足を両立",
-      "source": "CXPA（Customer Experience Professionals Association）",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "通信／フィールドサービス",
-      "mechanismTags": [
-        "フリーランス自主管理",
-        "リアルタイム割当"
-      ],
-      "url": "https://cxpaglobal.org/storage/app/media/Proven%20Business%20Impact%20Case%20Studies/Uberization___Customer_Doorstep_Service_Fulfillment_for_Dialog_Axiata_Customers.pdf"
-    },
-    {
-      "id": "4e05e58675b98950",
-      "category": "ekkyou",
-      "title": "フランスAssurance Maladie：「Service Trajet Santé」で医療旅行予約を簡潔化",
-      "excerpt": "高齢者や障害者にも配慮し、医療旅行のステップを明確化・優先順位付けしてスムーズなオンボーディングを実現",
-      "source": "Jacquelyn Chen UX事例ページ",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・行政",
-      "mechanismTags": [
-        "障害者対応UX",
-        "段階的ステップ設計"
-      ],
-      "url": "https://jacquelynchen.com/case-study/sante"
-    },
-    {
-      "id": "954f219fdcb310d2",
-      "category": "ekkyou",
-      "title": "アブダビ保健局の国際患者ケア管理システム再設計",
-      "excerpt": "複数フェーズ・多様な関係者を跨る医療渡航の一括管理プラットフォームを、13以上のペルソナ・リクエストタイプ対応で再構築",
-      "source": "alaguraj.in UXケーススタディ",
-      "format": "article",
-      "estimatedMinutes": 7,
-      "industryTag": "医療・行政",
-      "mechanismTags": [
-        "多フェーズ統合設計",
-        "多人数ペルソナ対応"
-      ],
-      "url": "https://alaguraj.in/casestudies/IPCMS-UX-Case-Study.html"
-    },
-    {
-      "id": "5aff6df437eb7989",
-      "category": "ekkyou",
-      "title": "Artemis Clinicsの医療ツーリズムアプリ（トルコ）",
-      "excerpt": "AIチャット＋旅程プランナー統合で、国際患者の不安軽減と予約への安心導線を構築したUX設計",
-      "source": "Designers.org",
-      "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "医療・観光",
-      "mechanismTags": [
-        "AI案内エージェント",
-        "カスタマイズ旅程"
-      ],
-      "url": "https://designers.org/172519"
-    },
-    {
-      "id": "d42e523d8bb3d65c",
-      "category": "teiten",
-      "title": "TVer：オンボーディング簡素化による離脱削減施策",
-      "excerpt": "オンボーディングをシンプル化し、ユーザー離脱を1/3に減らした事例",
-      "source": "アプリマーケティング研究所",
-      "format": "article",
-      "estimatedMinutes": 5,
-      "industryTag": "メディア・エンタメ",
-      "mechanismTags": [
-        "オンボーディング簡素化"
-      ],
-      "url": "https://appmarketinglabo.net/list/ (該当ページ)"
+      "url": "https://mad2007.co.jp/works/q625jghlid.html"
     }
   ]
 }
