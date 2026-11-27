@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.insead.edu/faculty-research/publications/case-studies/lemonade-delighting-insurance-customers-ai-and",
     "https://transcom.com/case-studies/retail-leader-awesome-CX",
     "https://www.webskyne.com/posts/how-a-saas-startup-reduced-churn-by-38-through-strategic-ux-redesign",
     "https://www.med.kyoto-u.ac.jp/event/8421/",
@@ -299,10 +298,10 @@
     "https://alaguraj.in/casestudies/IPCMS-UX-Case-Study.html",
     "https://designers.org/172519",
     "https://appmarketinglabo.net/list/ (該当ページ)",
-    "https://mad2007.co.jp/works/q625jghlid.html"
+    "https://mad2007.co.jp/works/q625jghlid.html",
+    "https://www.adyen.com/en_SG/knowledge-hub/on-running-multi-channel"
   ],
   "titles": [
-    "小売大手がCXを16年間維持した高スケールな仕組み",
     "B2B SaaSでUX再設計により解約率38％削減した事例",
     "警察手続きをデジタル化し精神的負担を軽減",
     "Blue Bottleカフェでの注文不安解消UX設計",
@@ -601,6 +600,7 @@
     "アブダビ保健局の国際患者ケア管理システム再設計",
     "Artemis Clinicsの医療ツーリズムアプリ（トルコ）",
     "TVer：オンボーディング簡素化による離脱削減施策",
-    "ダスキン：EC-CUBEカスタマイズで会員統合と顧客体験強化"
+    "ダスキン：EC-CUBEカスタマイズで会員統合と顧客体験強化",
+    "スイスブランドOn：日本展開でオンライン・店舗決済統合による購買体験の最適化"
   ]
 }

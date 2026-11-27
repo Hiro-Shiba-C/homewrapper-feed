@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "items": [
     {
-      "id": "26adda4226db4900",
+      "id": "43284db459afd003",
       "category": "honmei",
-      "title": "ダスキン：EC-CUBEカスタマイズで会員統合と顧客体験強化",
-      "excerpt": "レンタル業のリアル×デジタル融合を実現するEC構築で、会員200万人・CVR向上・統合カート設計により体験が向上した事例。",
-      "source": "株式会社エム・エー・ディー",
+      "title": "スイスブランドOn：日本展開でオンライン・店舗決済統合による購買体験の最適化",
+      "excerpt": "OnがAdyenの統合決済でオンラインと店舗での支払いを一元化し、日本でのユーザー体験の摩擦を排除。",
+      "source": "Adyen（ケーススタディ）",
       "format": "article",
-      "estimatedMinutes": 6,
-      "industryTag": "物販／サービス",
+      "estimatedMinutes": 4,
+      "industryTag": "小売",
       "mechanismTags": [
-        "会員統合",
-        "カート最適化"
+        "クロスチャネル決済統合",
+        "摩擦削減"
       ],
-      "url": "https://mad2007.co.jp/works/q625jghlid.html"
+      "url": "https://www.adyen.com/en_SG/knowledge-hub/on-running-multi-channel"
     }
   ]
 }
